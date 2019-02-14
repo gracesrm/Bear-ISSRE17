@@ -1,5 +1,5 @@
 rm(ddat.io)
-ddat<-read.csv(file = "/Users/ruimin/Dropbox/bear/Res/Res_all.csv", check.names=FALSE,
+ddat<-read.csv(file = "~/bear/Res/Res_all.csv", check.names=FALSE,
                 header = F, col.names=c('program','syscall','stratNo','st','et','y','thresh','type'), quote = "")
 ddat$program <- NULL
 ddat$stratNo <- factor(ddat$stratNo)
@@ -64,7 +64,7 @@ set.seed(2741)
 lr1.proc <- train(y ~ stratNo  , data = training.proc, method = "glm", trControl = Control.proc )
 lr2.proc <- train(y ~ syscall  , data = training.proc, method = "glm", trControl = Control.proc )
 
-sink("/Users/ruimin/Dropbox/bear/Res/Types/ResProc_lr1.txt")
+sink("~/bear/Res/Types/ResProc_lr1.txt")
 summary(lr1.proc)
 confusionMatrix(lr1.proc)
 varImp(lr1.proc)
@@ -72,7 +72,7 @@ exp(confint(lr1.proc$finalModel))
 exp(lr1.proc$finalModel$coefficients)
 sink() 
 
-sink("/Users/ruimin/Dropbox/bear/Res/Types/ResProc_lr2.txt")
+sink("~/bear/Res/Types/ResProc_lr2.txt")
 summary(lr2.proc)
 confusionMatrix(lr2.proc)
 varImp(lr2.proc)
@@ -82,9 +82,9 @@ sink()
 
 library(xlsx)
 cos1.proc <- exp(lr1.proc$finalModel$coefficients)
-write.xlsx(cos1.proc, "/Users/ruimin/Dropbox/bear/Res/Types/coefs1_Proc.xlsx")
+write.xlsx(cos1.proc, "~/bear/Res/Types/coefs1_Proc.xlsx")
 cos2.proc <- exp(lr2.proc$finalModel$coefficients)
-write.xlsx(cos2.proc, "/Users/ruimin/Dropbox/bear/Res/Types/coefs2_Proc.xlsx")
+write.xlsx(cos2.proc, "~/bear/Res/Types/coefs2_Proc.xlsx")
 
 
 
@@ -99,7 +99,7 @@ set.seed(2741)
 lr1.io <- train(y ~ stratNo, data = training.io, method = "glm", trControl = Control.io )
 lr2.io <- train(y ~ syscall, data = training.io, method = "glm", trControl = Control.io )
 
-sink("/Users/ruimin/Dropbox/bear/Res/Types/ResIo_lr1.txt")
+sink("~/bear/Res/Types/ResIo_lr1.txt")
 summary(lr1.io)
 confusionMatrix(lr1.io)
 varImp(lr1.io)
@@ -107,7 +107,7 @@ exp(confint(lr1.io$finalModel))
 exp(lr1.io$finalModel$coefficients)
 sink() 
 
-sink("/Users/ruimin/Dropbox/bear/Res/Types/ResIo_lr2.txt")
+sink("~/bear/Res/Types/ResIo_lr2.txt")
 summary(lr2.io)
 confusionMatrix(lr2.io)
 varImp(lr2.io)
@@ -117,9 +117,9 @@ sink()
 
 library(xlsx)
 cos1.io <- exp(lr1.io$finalModel$coefficients)
-write.xlsx(cos1.io, "/Users/ruimin/Dropbox/bear/Res/Types/coefs1_Io.xlsx")
+write.xlsx(cos1.io, "~/bear/Res/Types/coefs1_Io.xlsx")
 cos2.io <- exp(lr2.io$finalModel$coefficients)
-write.xlsx(cos2.io, "/Users/ruimin/Dropbox/bear/Res/Types/coefs2_Io.xlsx")
+write.xlsx(cos2.io, "~/bear/Res/Types/coefs2_Io.xlsx")
 
 # ###############################
 
@@ -136,7 +136,7 @@ set.seed(2741)
 lr1.pr <- train(y ~ stratNo  , data = training.pr, method = "glm", trControl = Control.pr )
 lr2.pr <- train(y ~ syscall  , data = training.pr, method = "glm", trControl = Control.pr )
 
-sink("/Users/ruimin/Dropbox/bear/Res/Types/ResPr_lr1.txt")
+sink("~/bear/Res/Types/ResPr_lr1.txt")
 summary(lr1.pr)
 confusionMatrix(lr1.pr)
 varImp(lr1.pr)
@@ -144,7 +144,7 @@ exp(confint(lr1.pr$finalModel))
 exp(lr1.pr$finalModel$coefficients)
 sink() 
 
-sink("/Users/ruimin/Dropbox/bear/Res/Types/ResPr_lr2.txt")
+sink("~/bear/Res/Types/ResPr_lr2.txt")
 summary(lr2.pr)
 confusionMatrix(lr2.pr)
 varImp(lr2.pr)
@@ -154,9 +154,9 @@ sink()
 
 library(xlsx)
 cos1.pr <- exp(lr1.pr$finalModel$coefficients)
-write.xlsx(cos1.pr, "/Users/ruimin/Dropbox/bear/Res/Types/coefs1_Pr.xlsx")
+write.xlsx(cos1.pr, "~/bear/Res/Types/coefs1_Pr.xlsx")
 cos2.pr <- exp(lr2.pr$finalModel$coefficients)
-write.xlsx(cos2.pr, "/Users/ruimin/Dropbox/bear/Res/Types/coefs2_Pr.xlsx")
+write.xlsx(cos2.pr, "~/bear/Res/Types/coefs2_Pr.xlsx")
 
 #########
 trainIndex.ds <- createDataPartition(ddat.ds$y, p = .8,
@@ -169,7 +169,7 @@ set.seed(2741)
 lr1.ds <- train(y ~ stratNo  , data = training.ds, method = "glm", trControl = Control.ds )
 lr2.ds <- train(y ~ syscall  , data = training.ds, method = "glm", trControl = Control.ds )
 
-sink("/Users/ruimin/Dropbox/bear/Res/Types/ResDs_lr1.txt")
+sink("~/bear/Res/Types/ResDs_lr1.txt")
 summary(lr1.ds)
 confusionMatrix(lr1.ds)
 varImp(lr1.ds)
@@ -177,7 +177,7 @@ exp(confint(lr1.ds$finalModel))
 exp(lr1.ds$finalModel$coefficients)
 sink() 
 
-sink("/Users/ruimin/Dropbox/bear/Res/Types/ResPr_lr2.txt")
+sink("~/bear/Res/Types/ResPr_lr2.txt")
 summary(lr2.ds)
 confusionMatrix(lr2.ds)
 varImp(lr2.ds)
@@ -187,9 +187,9 @@ sink()
 
 library(xlsx)
 cos1.ds <- exp(lr1.ds$finalModel$coefficients)
-write.xlsx(cos1.ds, "/Users/ruimin/Dropbox/bear/Res/Types/coefs1_Ds.xlsx")
+write.xlsx(cos1.ds, "~/bear/Res/Types/coefs1_Ds.xlsx")
 cos2.ds <- exp(lr2.ds$finalModel$coefficients)
-write.xlsx(cos2.ds, "/Users/ruimin/Dropbox/bear/Res/Types/coefs2_Ds.xlsx")
+write.xlsx(cos2.ds, "~/bear/Res/Types/coefs2_Ds.xlsx")
 
 #######
 trainIndex.net <- createDataPartition(ddat.net$y, p = .8,
@@ -202,7 +202,7 @@ set.seed(2741)
 lr1.net <- train(y ~ stratNo  , data = training.net, method = "glm", trControl = Control.net )
 lr2.net <- train(y ~ syscall  , data = training.net, method = "glm", trControl = Control.net )
 
-sink("/Users/ruimin/Dropbox/bear/Res/Types/ResNet_lr1.txt")
+sink("~/bear/Res/Types/ResNet_lr1.txt")
 summary(lr1.net)
 confusionMatrix(lr1.net)
 varImp(lr1.net)
@@ -210,7 +210,7 @@ exp(confint(lr1.net$finalModel))
 exp(lr1.net$finalModel$coefficients)
 sink() 
 
-sink("/Users/ruimin/Dropbox/bear/Res/Types/ResNet_lr2.txt")
+sink("~/bear/Res/Types/ResNet_lr2.txt")
 summary(lr2.net)
 confusionMatrix(lr2.net)
 varImp(lr2.net)
@@ -220,9 +220,9 @@ sink()
 
 library(xlsx)
 cos1.net <- exp(lr1.net$finalModel$coefficients)
-write.xlsx(cos1.net, "/Users/ruimin/Dropbox/bear/Res/Types/coefs1_Net.xlsx")
+write.xlsx(cos1.net, "~/bear/Res/Types/coefs1_Net.xlsx")
 cos2.net <- exp(lr2.net$finalModel$coefficients)
-write.xlsx(cos2.net, "/Users/ruimin/Dropbox/bear/Res/Types/coefs2_Net.xlsx")
+write.xlsx(cos2.net, "~/bear/Res/Types/coefs2_Net.xlsx")
 
 # ######
 trainIndex.enc <- createDataPartition(ddat.enc$y, p = .8,
@@ -235,7 +235,7 @@ set.seed(2741)
 lr1.enc <- train(y ~ stratNo  , data = training.enc, method = "glm", trControl = Control.enc )
 lr2.enc <- train(y ~ syscall  , data = training.enc, method = "glm", trControl = Control.enc )
 
-sink("/Users/ruimin/Dropbox/bear/Res/Types/ResEnc_lr1.txt")
+sink("~/bear/Res/Types/ResEnc_lr1.txt")
 summary(lr1.enc)
 confusionMatrix(lr1.enc)
 varImp(lr1.enc)
@@ -243,7 +243,7 @@ exp(confint(lr1.enc$finalModel))
 exp(lr1.enc$finalModel$coefficients)
 sink() 
 
-sink("/Users/ruimin/Dropbox/bear/Res/Types/ResEnc_lr2.txt")
+sink("~/bear/Res/Types/ResEnc_lr2.txt")
 summary(lr2.enc)
 confusionMatrix(lr2.enc)
 varImp(lr2.enc)
@@ -253,6 +253,6 @@ sink()
 
 library(xlsx)
 cos1.enc <- exp(lr1.enc$finalModel$coefficients)
-write.xlsx(cos1.enc, "/Users/ruimin/Dropbox/bear/Res/Types/coefs1_Enc.xlsx")
+write.xlsx(cos1.enc, "~/bear/Res/Types/coefs1_Enc.xlsx")
 cos2.enc <- exp(lr2.enc$finalModel$coefficients)
-write.xlsx(cos2.enc, "/Users/ruimin/Dropbox/bear/Res/Types/coefs2_Enc.xlsx")
+write.xlsx(cos2.enc, "~/bear/Res/Types/coefs2_Enc.xlsx")

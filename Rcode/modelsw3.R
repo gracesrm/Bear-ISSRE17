@@ -33,7 +33,7 @@ lr <- train(y ~ syscall + stratNo  , data = training, method = "glm", trControl 
 lr1 <- train(y ~ stratNo  , data = training, method = "glm", trControl = Control )
 lr2 <- train(y ~ syscall  , data = training, method = "glm", trControl = Control )
 
- sink("/Users/ruimin/Dropbox/bear/Res/Resw3_lr.txt")
+ sink("~/bear/Res/Resw3_lr.txt")
  summary(lr)
  confusionMatrix(lr)
  varImp(lr)
@@ -41,7 +41,7 @@ lr2 <- train(y ~ syscall  , data = training, method = "glm", trControl = Control
  exp(lr$finalModel$coefficients)
  sink()
  
- sink("/Users/ruimin/Dropbox/bear/Res/Resw3_lr1.txt")
+ sink("~/bear/Res/Resw3_lr1.txt")
  summary(lr1)
  confusionMatrix(lr1)
  varImp(lr1)
@@ -49,7 +49,7 @@ lr2 <- train(y ~ syscall  , data = training, method = "glm", trControl = Control
  exp(lr1$finalModel$coefficients)
  sink() 
  
- sink("/Users/ruimin/Dropbox/bear/Res/Resw3_lr2.txt")
+ sink("~/bear/Res/Resw3_lr2.txt")
  summary(lr2)
  confusionMatrix(lr2)
  varImp(lr2)
@@ -59,16 +59,16 @@ lr2 <- train(y ~ syscall  , data = training, method = "glm", trControl = Control
  
  library(xlsx)
  cos <- exp(lr$finalModel$coefficients)
- write.xlsx(cos, "/Users/ruimin/Dropbox/bear/Res/coefs_w3.xlsx")
+ write.xlsx(cos, "~/bear/Res/coefs_w3.xlsx")
  
  library(xlsx)
  cos1 <- exp(lr1$finalModel$coefficients)
- write.xlsx(cos1, "/Users/ruimin/Dropbox/bear/Res/coefs1_w3.xlsx")
+ write.xlsx(cos1, "~/bear/Res/coefs1_w3.xlsx")
  cos2 <- exp(lr2$finalModel$coefficients)
- write.xlsx(cos2, "/Users/ruimin/Dropbox/bear/Res/coefs2_w3.xlsx")
+ write.xlsx(cos2, "~/bear/Res/coefs2_w3.xlsx")
  
 # sink() outputs the console datw3a into a text file
-# sink("/Users/ruimin/Dropbox/bear/Res/Resw3_lr1.txt")
+# sink("~/bear/Res/Resw3_lr1.txt")
 # Summary of the variables. I wanted to see which variables are significant, not significant.
 # summary(lr1)
 # Confusion matrix tells me how well the predictions were.

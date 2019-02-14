@@ -8,7 +8,7 @@
 rm(dat,datw3,dat50,dat90,test,trainIndex,training,Control,cos,cos1,cos2,lr,lr2,lr1)
 
 # Load datw3a
-datw3<-read.csv(file = "/Users/ruimin/Dropbox/bear/Res/Resw3.csv", check.names=FALSE,
+datw3<-read.csv(file = "~/bear/Res/Resw3.csv", check.names=FALSE,
                 header = F, col.names=c('program','syscall','stratNo','st','et','y'), quote = "")
 datw3$program <- NULL
 datw3$stratNo <- factor(datw3$stratNo)
@@ -20,7 +20,7 @@ datw3$stratNo <- relevel(datw3$stratNo, ref = "2")
 # Label the strategy number as a categorical variable.
 # datw3IO$stratNo <- factor(datw3IO$stratNo)
 
-# datw3CPU<-read.csv(file = "/Users/AndrewLee/Documents/School/SeniorS1/Oliveira/Ruimin/newdatw3a/format_datw3a/datw3a10_cpu.csv", check.names=FALSE,
+# datw3CPU<-read.csv(file = "~/newdatw3a/format_datw3a/datw3a10_cpu.csv", check.names=FALSE,
 #                  header = F, col.names=c('y','program','syscall','stratNo'), quote = "")
 # datw3CPU$stratNo <- factor(datw3CPU$stratNo)
 

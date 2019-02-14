@@ -7,7 +7,7 @@
 
 
 # Load dat50a
-dat50<-read.csv(file = "/Users/ruimin/Dropbox/bear/Res/Res50.csv", check.names=FALSE,
+dat50<-read.csv(file = "~/bear/Res/Res50.csv", check.names=FALSE,
                 header = F, col.names=c('program','syscall','stratNo','st','et','y'), quote = "")
 dat50$program <- NULL
 dat50$stratNo <- factor(dat50$stratNo)
@@ -26,7 +26,7 @@ dat50$stratNo <- relevel(dat50$stratNo, ref = "2")
 # Label the strategy number as a categorical variable.
 # dat50IO$stratNo <- factor(dat50IO$stratNo)
 
-# dat50CPU<-read.csv(file = "/Users/AndrewLee/Documents/School/SeniorS1/Oliveira/Ruimin/newdat50a/format_dat50a/dat50a50_cpu.csv", check.names=FALSE,
+# dat50CPU<-read.csv(file = "~/newdat50a/format_dat50a/dat50a50_cpu.csv", check.names=FALSE,
 #                  header = F, col.names=c('y','program','syscall','stratNo'), quote = "")
 # dat50CPU$stratNo <- factor(dat50CPU$stratNo)
 
