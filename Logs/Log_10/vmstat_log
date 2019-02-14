@@ -1,0 +1,170 @@
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 1  0 412736  98416  96012 212868    6   11   390   211  209  328 43  2 54  0
+[[]]vmstat,rt_sigaction,4,1656,1656,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 1  0 412736  98432  96012 212872    6   11   390   211  209  328 43  2 54  0
+[[]]vmstat,rt_sigprocmask,4,1657,1657,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0 412736  98416  96012 212872    6   11   390   211  209  328 43  2 54  0
+[[]]vmstat,rt_sigpending,4,1658,1658,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0 412736  98432  96020 212868    6   11   390   211  209  328 43  2 54  0
+[[]]vmstat,kill,4,1659,1659,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0 412736  98416  96020 212876    6   11   390   211  209  328 43  2 54  0
+[[]]vmstat,write,5,1660,1660,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0 412736  98416  96020 212876    6   11   390   211  209  328 43  2 54  0
+[[]]vmstat,read,5,1661,1661,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0 412736  98416  96020 212876    6   11   390   211  209  328 43  2 54  0
+[[]]vmstat,pread64,5,1662,1662,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0 412736  98416  96020 212876    6   11   390   211  209  328 43  2 54  0
+[[]]vmstat,pwrite64,5,1663,1663,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0 412736  98432  96028 212868    6   11   390   211  209  328 43  2 54  0
+[[]]vmstat,sendto,5,1664,1664,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0 412736  98416  96028 212880    6   11   390   211  209  328 43  2 54  0
+[[]]vmstat,recvfrom,5,1665,1665,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 1  0 412736  98416  96028 212880    6   11   390   211  209  328 43  2 54  0
+[[]]vmstat,write,6,1666,1666,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0 412736  98416  96028 212880    6   11   390   211  209  328 43  2 55  0
+[[]]vmstat,read,6,1667,1667,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 1  0 412736  98416  96028 212880    6   11   390   211  209  328 43  2 55  0
+[[]]vmstat,pread64,6,1668,1668,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 1  0 412736  98432  96036 212872    6   11   390   211  209  328 43  2 55  0
+[[]]vmstat,pwrite64,6,1669,1669,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0 412736  98416  96036 212880    6   11   390   211  209  328 43  2 55  0
+[[]]vmstat,sendto,6,1670,1670,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0 412736  98416  96036 212884    6   11   390   211  209  328 43  2 55  0
+[[]]vmstat,recvfrom,6,1671,1671,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 1  0 412736  98436  96036 212888    6   11   390   211  209  328 43  2 55  0
+[[]]vmstat,access,7,1672,1673,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0 412736  98436  96036 212888    6   11   390   211  209  328 43  2 55  0
+[[]]vmstat,write,8,1674,1674,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0 412736  98292  96044 212880    6   11   390   211  209  328 43  2 55  0
+[[]]vmstat,read,8,1675,1675,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0 412736  98296  96044 212888    6   11   390   210  209  328 43  2 55  0
+[[]]vmstat,pread64,8,1676,1676,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0 412736  98288  96044 212892    6   11   390   210  209  328 43  2 55  0
+[[]]vmstat,pwrite64,8,1677,1677,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 1  0 412736  98304  96044 212892    6   11   390   210  209  328 43  2 55  0
+[[]]vmstat,sendto,8,1678,1678,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0 412736  98292  96044 212892    6   11   390   210  209  328 43  2 55  0
+[[]]vmstat,recvfrom,8,1679,1679,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0 412736  98292  96052 212884    6   11   390   210  209  328 43  2 55  0
+[[]]vmstat,mq_notify,9,1680,1680,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 1  0 412736  98292  96052 212892    6   11   390   210  209  328 43  2 55  0
+[[]]vmstat,setuid,10,1681,1681,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0 412736  98292  96052 212892    6   11   390   210  209  328 43  2 55  0
+[[]]vmstat,munmap,1,1682,1682,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 1  0 412736  98288  96052 212892    6   11   390   210  209  328 43  2 55  0
+[[]]vmstat,munmap,2,1683,1683,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0 412736  98288  96052 212896    6   11   390   210  209  328 43  2 55  0
+[[]]vmstat,mprotect,2,1684,1684,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 1  0 412736  98288  96056 212892    6   11   390   210  209  328 43  2 55  0
+[[]]vmstat,mremap,2,1685,1685,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0 412736  98308  96056 212896    6   11   390   210  209  328 43  2 55  0
+[[]]vmstat,mmap,2,1686,1686,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 1  0 412736  98308  96056 212896    6   11   390   210  209  328 43  2 55  0
+[[]]vmstat,mlock,3,1687,1687,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 1  0 412736  98304  96056 212900    6   11   390   210  209  328 43  2 55  0
+[[]]vmstat,mlockall,3,1688,1688,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 1  0 412736  98164  96056 212900    6   11   390   210  209  328 43  2 55  0
+[[]]vmstat,munlock,3,1689,1689,
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0 412736  98164  96060 212900    6   11   390   210  209  328 43  2 55  0
+[[]]vmstat,munlockall,3,1690,1690,
+

@@ -1,0 +1,408 @@
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 3 Minutes
+
+
+
+Timed MAFFT Alignment 6.864:
+    pts/mafft-1.4.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes
+        Started Run 1 @ 15:34:15
+        Started Run 2 @ 15:34:38
+        Started Run 3 @ 15:34:57  [Std. Dev: 0.12%]
+
+    Test Results:
+        17.68932390213
+        17.655059814453
+        17.648333072662
+
+    Average: 17.66 Seconds
+
+
+[[]]pts/mafft-1.4.0,rt_sigaction,4,47665,47726,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Timed MAFFT Alignment 6.864:
+    pts/mafft-1.4.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 15:35:16
+        Started Run 2 @ 15:35:39
+        Started Run 3 @ 15:35:59  [Std. Dev: 1.30%]
+
+    Test Results:
+        18.060193061829
+        17.656134843826
+        17.666029930115
+
+    Average: 17.79 Seconds
+
+
+[[]]pts/mafft-1.4.0,write,5,47726,47788,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Timed MAFFT Alignment 6.864:
+    pts/mafft-1.4.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 15:36:18
+        Started Run 2 @ 15:36:40
+        Started Run 3 @ 15:37:00  [Std. Dev: 0.03%]
+
+    Test Results:
+        17.659106969833
+        17.668090105057
+        17.659021139145
+
+    Average: 17.66 Seconds
+
+
+[[]]pts/mafft-1.4.0,read,5,47788,47849,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Timed MAFFT Alignment 6.864:
+    pts/mafft-1.4.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 15:37:19
+        Started Run 2 @ 15:37:42
+        Started Run 3 @ 15:38:01  [Std. Dev: 0.03%]
+
+    Test Results:
+        17.661216974258
+        17.662966012955
+        17.670247077942
+
+    Average: 17.66 Seconds
+
+
+[[]]pts/mafft-1.4.0,write,6,47849,47910,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Timed MAFFT Alignment 6.864:
+    pts/mafft-1.4.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 15:38:20
+        Started Run 2 @ 15:38:43
+        Started Run 3 @ 15:39:02  [Std. Dev: 0.05%]
+
+    Test Results:
+        17.649945020676
+        17.665376901627
+        17.653664827347
+
+    Average: 17.66 Seconds
+
+
+[[]]pts/mafft-1.4.0,read,6,47910,47972,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Timed MAFFT Alignment 6.864:
+    pts/mafft-1.4.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 15:39:21
+        Started Run 2 @ 15:39:44
+        Started Run 3 @ 15:40:04  [Std. Dev: 0.39%]
+
+    Test Results:
+        17.804131031036
+        17.854999065399
+        17.94285607338
+
+    Average: 17.87 Seconds
+
+
+[[]]pts/mafft-1.4.0,access,7,47972,48033,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Timed MAFFT Alignment 6.864:
+    pts/mafft-1.4.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 15:40:23
+        Started Run 2 @ 15:40:46
+        Started Run 3 @ 15:41:05  [Std. Dev: 0.06%]
+
+    Test Results:
+        17.655740022659
+        17.638151168823
+        17.659249782562
+
+    Average: 17.65 Seconds
+
+
+[[]]pts/mafft-1.4.0,write,8,48033,48095,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Timed MAFFT Alignment 6.864:
+    pts/mafft-1.4.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 15:41:24
+        Started Run 2 @ 15:41:47
+        Started Run 3 @ 15:42:07  [Std. Dev: 0.18%]
+
+    Test Results:
+        17.656454086304
+        17.679756879807
+        17.615926027298
+
+    Average: 17.65 Seconds
+
+
+[[]]pts/mafft-1.4.0,read,8,48095,48156,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Timed MAFFT Alignment 6.864:
+    pts/mafft-1.4.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 15:42:26
+        Started Run 2 @ 15:42:49
+        Started Run 3 @ 15:43:08  [Std. Dev: 0.20%]
+
+    Test Results:
+        17.678546905518
+        17.667291164398
+        17.614091873169
+
+    Average: 17.65 Seconds
+
+
+[[]]pts/mafft-1.4.0,munmap,1,48156,48218,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Timed MAFFT Alignment 6.864:
+    pts/mafft-1.4.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 15:43:27
+        Started Run 2 @ 15:43:50
+        Started Run 3 @ 15:44:10  [Std. Dev: 1.29%]
+
+    Test Results:
+        18.06098818779
+        17.677937030792
+        17.650761127472
+
+    Average: 17.80 Seconds
+
+
+[[]]pts/mafft-1.4.0,munmap,2,48218,48279,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Timed MAFFT Alignment 6.864:
+    pts/mafft-1.4.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 15:44:29
+        Started Run 2 @ 15:44:51
+        Started Run 3 @ 15:45:11  [Std. Dev: 0.08%]
+
+    Test Results:
+        17.648428201675
+        17.649541139603
+        17.626041889191
+
+    Average: 17.64 Seconds
+
+
+[[]]pts/mafft-1.4.0,mprotect,2,48279,48340,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Timed MAFFT Alignment 6.864:
+    pts/mafft-1.4.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 15:45:30
+        Started Run 2 @ 15:45:53
+        Started Run 3 @ 15:46:12  [Std. Dev: 2.86%]
+
+    Test Results:
+        17.641469955444
+        17.657619953156
+        18.537002086639
+
+    Average: 17.95 Seconds
+
+
+[[]]pts/mafft-1.4.0,mmap,2,48340,48402,
+

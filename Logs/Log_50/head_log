@@ -1,0 +1,72 @@
+ps -ef | grep bash
+uname -a
+tail -5 lap-installed-apps
+head -5 lap-installed-apps
+find . -name "runApp.sh"
+[[]]head,write,5,57904,57904,
+
+ps -ef | grep bash
+uname -a
+tail -5 lap-installed-apps
+head -5 lap-installed-apps
+find . -name "runApp.sh"
+[[]]head,read,5,57905,57905,
+
+ps -ef | grep bash
+uname -a
+tail -5 lap-installed-apps
+head -5 lap-installed-apps
+find . -name "runApp.sh"
+[[]]head,write,6,57906,57906,
+
+ps -ef | grep bash
+uname -a
+tail -5 lap-installed-apps
+head -5 lap-installed-apps
+find . -name "runApp.sh"
+[[]]head,read,6,57907,57907,
+
+ps -ef | grep bash
+uname -a
+tail -5 lap-installed-apps
+head -5 lap-installed-apps
+find . -name "runApp.sh"
+[[]]head,access,7,57908,57908,
+
+ps -ef | grep bash
+uname -a
+tail -5 lap-installed-apps
+head -5 lap-installed-apps
+find . -name "runApp.sh"
+[[]]head,write,8,57909,57909,
+
+ps -ef | grep bash
+uname -a
+tail -5 lap-installed-apps
+head -5 lap-installed-apps
+find . -name "runApp.sh"
+[[]]head,read,8,57910,57910,
+
+ps -ef | grep bash
+uname -a
+tail -5 lap-installed-apps
+head -5 lap-installed-apps
+find . -name "runApp.sh"
+[[]]head,munmap,1,57911,57911,
+
+ps -ef | grep bash
+uname -a
+tail -5 lap-installed-apps
+head -5 lap-installed-apps
+find . -name "runApp.sh"
+[[]]head,munmap,2,57912,57912,
+
+ps -ef | grep bash
+uname -a
+tail -5 lap-installed-apps
+head -5 lap-installed-apps
+find . -name "runApp.sh"
+[[]]head,mprotect,2,57913,57913,
+
+[[]]head,mmap,2,57914,57914,A
+

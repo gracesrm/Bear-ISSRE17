@@ -1,0 +1,38 @@
+Hello, world!
+[[]]ruby,rt_sigaction,4,114101,114101,
+
+Hello, world!
+[[]]ruby,rt_sigprocmask,4,114101,114101,
+
+Hello, world!
+[[]]ruby,write,5,114101,114101,
+
+Hello, world!
+[[]]ruby,read,5,114101,114101,
+
+Hello, world!
+[[]]ruby,write,6,114101,114101,
+
+Hello, world!
+[[]]ruby,read,6,114101,114101,
+
+Hello, world!
+[[]]ruby,access,7,114101,114101,
+
+Hello, world!
+[[]]ruby,write,8,114101,114101,
+
+Hello, world!
+[[]]ruby,read,8,114101,114101,
+
+Hello, world!
+[[]]ruby,munmap,1,114101,114101,
+
+Hello, world!
+[[]]ruby,munmap,2,114101,114101,
+
+Hello, world!
+[[]]ruby,mprotect,2,114101,114101,
+
+[[]]ruby,mmap,2,114101,114101,A
+

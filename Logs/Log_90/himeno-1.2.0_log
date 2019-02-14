@@ -1,0 +1,330 @@
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Himeno Benchmark 3.0:
+    pts/himeno-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes (02:22 PDT)
+        Started Run 1 @ 02:19:29
+        Started Run 2 @ 02:20:30
+        Started Run 3 @ 02:21:09  [Std. Dev: 0.34%]
+
+    Test Results:
+        1528.174512
+        1528.219958
+        1519.245354
+
+    Average: 1525.21 MFLOPS
+
+[[]]pts/himeno-1.2.0,write,5,21709,21862,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Himeno Benchmark 3.0:
+    pts/himeno-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes (02:24 PDT)
+        Started Run 1 @ 02:22:01
+        Started Run 2 @ 02:23:02
+        Started Run 3 @ 02:23:57  [Std. Dev: 0.34%]
+
+    Test Results:
+        1523.436899
+        1533.26599
+        1530.949826
+
+    Average: 1529.22 MFLOPS
+
+[[]]pts/himeno-1.2.0,read,5,21862,22022,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Himeno Benchmark 3.0:
+    pts/himeno-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes (02:27 PDT)
+        Started Run 1 @ 02:24:42
+        Started Run 2 @ 02:25:20
+        Started Run 3 @ 02:26:02  [Std. Dev: 0.34%]
+
+    Test Results:
+        1522.793458
+        1526.762913
+        1516.551445
+
+    Average: 1522.04 MFLOPS
+
+[[]]pts/himeno-1.2.0,write,6,22023,22154,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Himeno Benchmark 3.0:
+    pts/himeno-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes (02:29 PDT)
+        Started Run 1 @ 02:26:54
+        Started Run 2 @ 02:27:30
+        Started Run 3 @ 02:28:08  [Std. Dev: 0.27%]
+
+    Test Results:
+        1523.884114
+        1528.917837
+        1520.759303
+
+    Average: 1524.52 MFLOPS
+
+[[]]pts/himeno-1.2.0,read,6,22154,22266,A
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Himeno Benchmark 3.0:
+    pts/himeno-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes (02:31 PDT)
+        Started Run 1 @ 02:28:46
+        Started Run 2 @ 02:29:22
+        Started Run 3 @ 02:30:02  [Std. Dev: 0.14%]
+
+    Test Results:
+        1522.58838
+        1521.429397
+        1525.594011
+
+    Average: 1523.20 MFLOPS
+
+[[]]pts/himeno-1.2.0,access,7,22266,22392,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Himeno Benchmark 3.0:
+    pts/himeno-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes (02:33 PDT)
+        Started Run 1 @ 02:30:51
+        Started Run 2 @ 02:31:42
+        Started Run 3 @ 02:32:32  [Std. Dev: 0.28%]
+
+    Test Results:
+        1515.418715
+        1519.164392
+        1523.810812
+
+    Average: 1519.46 MFLOPS
+
+[[]]pts/himeno-1.2.0,write,8,22392,22535,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Himeno Benchmark 3.0:
+    pts/himeno-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes (02:35 PDT)
+        Started Run 1 @ 02:33:15
+        Started Run 2 @ 02:33:57
+        Started Run 3 @ 02:34:34  [Std. Dev: 0.30%]
+
+    Test Results:
+        1523.346993
+        1532.601849
+        1527.887128
+
+    Average: 1527.95 MFLOPS
+
+[[]]pts/himeno-1.2.0,read,8,22535,22667,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Himeno Benchmark 3.0:
+    pts/himeno-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes (02:37 PDT)
+        Started Run 1 @ 02:35:27
+        Started Run 2 @ 02:36:05
+        Started Run 3 @ 02:36:42  [Std. Dev: 0.16%]
+
+    Test Results:
+        1525.433312
+        1521.488024
+        1525.972949
+
+    Average: 1524.30 MFLOPS
+
+[[]]pts/himeno-1.2.0,munmap,1,22667,22783,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Himeno Benchmark 3.0:
+    pts/himeno-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes (02:39 PDT)
+        Started Run 1 @ 02:37:22
+        Started Run 2 @ 02:38:04
+        Started Run 3 @ 02:38:31  [Std. Dev: 0.51%]
+
+    Test Results:
+        1512.402165
+        1523.413635
+        1527.489774
+
+    Average: 1521.10 MFLOPS
+
+[[]]pts/himeno-1.2.0,munmap,2,22783,22905,A
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Himeno Benchmark 3.0:
+    pts/himeno-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes (02:41 PDT)
+        Started Run 1 @ 02:39:24
+        Started Run 2 @ 02:40:05
+        Started Run 3 @ 02:40:58  [Std. Dev: 0.08%]
+
+    Test Results:
+        1528.22627
+        1528.040842
+        1525.958657
+
+    Average: 1527.41 MFLOPS
+
+[[]]pts/himeno-1.2.0,mprotect,2,22905,23046,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Himeno Benchmark 3.0:
+    pts/himeno-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes (02:44 PDT)
+        Started Run 1 @ 02:41:45
+        Started Run 2 @ 02:42:26
+        Started Run 3 @ 02:43:09  [Std. Dev: 0.34%]
+
+    Test Results:
+        1530.760737
+        1526.783804
+        1520.353975
+
+    Average: 1525.97 MFLOPS
+
+[[]]pts/himeno-1.2.0,mmap,2,23046,23170,
+

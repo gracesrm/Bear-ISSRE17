@@ -1,0 +1,200 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2016-05-06 15:43 EDT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00024s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+631/tcp  open  ipp
+902/tcp  open  iss-realsecure
+6666/tcp open  irc
+6667/tcp open  irc
+6668/tcp open  irc
+6669/tcp open  irc
+
+Nmap done: 1 IP address (1 host up) scanned in 0.05 seconds
+[[]]nmap,rt_sigaction,4,58028,58028,
+
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2016-05-06 15:43 EDT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00023s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+631/tcp  open  ipp
+902/tcp  open  iss-realsecure
+6666/tcp open  irc
+6667/tcp open  irc
+6668/tcp open  irc
+6669/tcp open  irc
+
+Nmap done: 1 IP address (1 host up) scanned in 0.04 seconds
+[[]]nmap,write,5,58030,58030,
+
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2016-05-06 15:43 EDT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00026s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+631/tcp  open  ipp
+902/tcp  open  iss-realsecure
+6666/tcp open  irc
+6667/tcp open  irc
+6668/tcp open  irc
+6669/tcp open  irc
+
+Nmap done: 1 IP address (1 host up) scanned in 0.04 seconds
+[[]]nmap,read,5,58031,58031,
+
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2016-05-06 15:43 EDT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00028s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+631/tcp  open  ipp
+902/tcp  open  iss-realsecure
+6666/tcp open  irc
+6667/tcp open  irc
+6668/tcp open  irc
+6669/tcp open  irc
+
+Nmap done: 1 IP address (1 host up) scanned in 0.04 seconds
+[[]]nmap,write,6,58032,58032,
+
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2016-05-06 15:43 EDT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00025s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+631/tcp  open  ipp
+902/tcp  open  iss-realsecure
+6666/tcp open  irc
+6667/tcp open  irc
+6668/tcp open  irc
+6669/tcp open  irc
+
+Nmap done: 1 IP address (1 host up) scanned in 0.04 seconds
+[[]]nmap,read,6,58033,58033,
+
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2016-05-06 15:43 EDT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00033s latency).
+Not shown: 1202 closed ports
+PORT      STATE SERVICE
+80/tcp    open  http
+443/tcp   open  https
+631/tcp   open  ipp
+902/tcp   open  unknown
+6667/tcp  open  ircd
+17500/tcp open  db-lsp
+
+Read from /etc: services.
+Read from /usr/share/nmap: nmap-payloads.
+Nmap done: 1 IP address (1 host up) scanned in 0.03 seconds
+[[]]nmap,access,7,58034,58034,
+
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2016-05-06 15:43 EDT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00023s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+631/tcp  open  ipp
+902/tcp  open  iss-realsecure
+6666/tcp open  irc
+6667/tcp open  irc
+6668/tcp open  irc
+6669/tcp open  irc
+
+Nmap done: 1 IP address (1 host up) scanned in 0.04 seconds
+[[]]nmap,write,8,58035,58035,
+
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2016-05-06 15:43 EDT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00024s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+631/tcp  open  ipp
+902/tcp  open  iss-realsecure
+6666/tcp open  irc
+6667/tcp open  irc
+6668/tcp open  irc
+6669/tcp open  irc
+
+Nmap done: 1 IP address (1 host up) scanned in 0.04 seconds
+[[]]nmap,read,8,58036,58036,
+
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2016-05-06 15:43 EDT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00024s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+631/tcp  open  ipp
+902/tcp  open  iss-realsecure
+6666/tcp open  irc
+6667/tcp open  irc
+6668/tcp open  irc
+6669/tcp open  irc
+
+Nmap done: 1 IP address (1 host up) scanned in 0.04 seconds
+[[]]nmap,munmap,1,58037,58037,
+
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2016-05-06 15:43 EDT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00024s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+631/tcp  open  ipp
+902/tcp  open  iss-realsecure
+6666/tcp open  irc
+6667/tcp open  irc
+6668/tcp open  irc
+6669/tcp open  irc
+
+Nmap done: 1 IP address (1 host up) scanned in 0.04 seconds
+[[]]nmap,munmap,2,58038,58038,
+
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2016-05-06 15:43 EDT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00023s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+631/tcp  open  ipp
+902/tcp  open  iss-realsecure
+6666/tcp open  irc
+6667/tcp open  irc
+6668/tcp open  irc
+6669/tcp open  irc
+
+Nmap done: 1 IP address (1 host up) scanned in 0.04 seconds
+[[]]nmap,mprotect,2,58039,58039,
+
+[[]]nmap,mmap,2,58040,58040,A
+

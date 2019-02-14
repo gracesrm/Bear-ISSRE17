@@ -1,0 +1,37 @@
+-rwxrwxr-x 1 ruimin ruimin 8553 May  7 22:16 a.out*
+[[]]gcc,rt_sigaction,4,7630,7630,
+
+-rwxrwxr-x 1 ruimin ruimin 8553 May  7 22:16 a.out*
+[[]]gcc,rt_sigprocmask,4,7630,7630,
+
+-rwxrwxr-x 1 ruimin ruimin 8553 May  7 22:16 a.out*
+[[]]gcc,write,5,7630,7630,
+
+-rwxrwxr-x 1 ruimin ruimin 8553 May  7 22:16 a.out*
+[[]]gcc,read,5,7630,7630,
+
+-rwxrwxr-x 1 ruimin ruimin 8553 May  7 22:16 a.out*
+[[]]gcc,write,6,7630,7630,
+
+-rwxrwxr-x 1 ruimin ruimin 8553 May  7 22:16 a.out*
+[[]]gcc,read,6,7630,7630,
+
+[[]]gcc,access,7,7631,7631,A
+
+-rwxrwxr-x 1 ruimin ruimin 8553 May  7 22:16 a.out*
+[[]]gcc,write,8,7631,7631,
+
+-rwxrwxr-x 1 ruimin ruimin 8553 May  7 22:16 a.out*
+[[]]gcc,read,8,7631,7631,
+
+-rwxrwxr-x 1 ruimin ruimin 8553 May  7 22:16 a.out*
+[[]]gcc,munmap,1,7631,7631,
+
+-rwxrwxr-x 1 ruimin ruimin 8553 May  7 22:16 a.out*
+[[]]gcc,munmap,2,7631,7631,
+
+-rwxrwxr-x 1 ruimin ruimin 8553 May  7 22:16 a.out*
+[[]]gcc,mprotect,2,7631,7631,
+
+[[]]gcc,mmap,2,7631,7631,A
+

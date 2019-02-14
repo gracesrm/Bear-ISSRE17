@@ -1,0 +1,206 @@
+internal:
+	aio, cpu, cpu24, disk, disk24, disk24old, epoch, fs, int, int24, io, 
+	ipc, load, lock, mem, net, page, page24, proc, raw, socket, swap, 
+	swapold, sys, tcp, time, udp, unix, vm
+/usr/share/dstat:
+	battery, battery-remain, cpufreq, dbus, disk-tps, disk-util, dstat, 
+	dstat-cpu, dstat-ctxt, dstat-mem, fan, freespace, gpfs, gpfs-ops, 
+	helloworld, innodb-buffer, innodb-io, innodb-ops, lustre, 
+	memcache-hits, mysql-io, mysql-keys, mysql5-cmds, mysql5-io, 
+	mysql5-keys, net-packets, nfs3, nfs3-ops, nfsd3, nfsd3-ops, ntp, 
+	postfix, power, proc-count, qmail, rpc, rpcd, sendmail, snooze, squid, 
+	test, thermal, top-bio, top-bio-adv, top-childwait, top-cpu, 
+	top-cpu-adv, top-cputime, top-cputime-avg, top-int, top-io, 
+	top-io-adv, top-latency, top-latency-avg, top-mem, top-oom, utmp, 
+	vm-memctl, vmk-hba, vmk-int, vmk-nic, vz-cpu, vz-io, vz-ubc, wifi
+[[]]dstat,rt_sigaction,4,59493,59493,
+
+internal:
+	aio, cpu, cpu24, disk, disk24, disk24old, epoch, fs, int, int24, io, 
+	ipc, load, lock, mem, net, page, page24, proc, raw, socket, swap, 
+	swapold, sys, tcp, time, udp, unix, vm
+/usr/share/dstat:
+	battery, battery-remain, cpufreq, dbus, disk-tps, disk-util, dstat, 
+	dstat-cpu, dstat-ctxt, dstat-mem, fan, freespace, gpfs, gpfs-ops, 
+	helloworld, innodb-buffer, innodb-io, innodb-ops, lustre, 
+	memcache-hits, mysql-io, mysql-keys, mysql5-cmds, mysql5-io, 
+	mysql5-keys, net-packets, nfs3, nfs3-ops, nfsd3, nfsd3-ops, ntp, 
+	postfix, power, proc-count, qmail, rpc, rpcd, sendmail, snooze, squid, 
+	test, thermal, top-bio, top-bio-adv, top-childwait, top-cpu, 
+	top-cpu-adv, top-cputime, top-cputime-avg, top-int, top-io, 
+	top-io-adv, top-latency, top-latency-avg, top-mem, top-oom, utmp, 
+	vm-memctl, vmk-hba, vmk-int, vmk-nic, vz-cpu, vz-io, vz-ubc, wifi
+[[]]dstat,rt_sigprocmask,4,59494,59494,
+
+internal:
+	aio, cpu, cpu24, disk, disk24, disk24old, epoch, fs, int, int24, io, 
+	ipc, load, lock, mem, net, page, page24, proc, raw, socket, swap, 
+	swapold, sys, tcp, time, udp, unix, vm
+/usr/share/dstat:
+	battery, battery-remain, cpufreq, dbus, disk-tps, disk-util, dstat, 
+	dstat-cpu, dstat-ctxt, dstat-mem, fan, freespace, gpfs, gpfs-ops, 
+	helloworld, innodb-buffer, innodb-io, innodb-ops, lustre, 
+	memcache-hits, mysql-io, mysql-keys, mysql5-cmds, mysql5-io, 
+	mysql5-keys, net-packets, nfs3, nfs3-ops, nfsd3, nfsd3-ops, ntp, 
+	postfix, power, proc-count, qmail, rpc, rpcd, sendmail, snooze, squid, 
+	test, thermal, top-bio, top-bio-adv, top-childwait, top-cpu, 
+	top-cpu-adv, top-cputime, top-cputime-avg, top-int, top-io, 
+	top-io-adv, top-latency, top-latency-avg, top-mem, top-oom, utmp, 
+	vm-memctl, vmk-hba, vmk-int, vmk-nic, vz-cpu, vz-io, vz-ubc, wifi
+[[]]dstat,write,5,59495,59495,
+
+internal:
+	aio, cpu, cpu24, disk, disk24, disk24old, epoch, fs, int, int24, io, 
+	ipc, load, lock, mem, net, page, page24, proc, raw, socket, swap, 
+	swapold, sys, tcp, time, udp, unix, vm
+/usr/share/dstat:
+	battery, battery-remain, cpufreq, dbus, disk-tps, disk-util, dstat, 
+	dstat-cpu, dstat-ctxt, dstat-mem, fan, freespace, gpfs, gpfs-ops, 
+	helloworld, innodb-buffer, innodb-io, innodb-ops, lustre, 
+	memcache-hits, mysql-io, mysql-keys, mysql5-cmds, mysql5-io, 
+	mysql5-keys, net-packets, nfs3, nfs3-ops, nfsd3, nfsd3-ops, ntp, 
+	postfix, power, proc-count, qmail, rpc, rpcd, sendmail, snooze, squid, 
+	test, thermal, top-bio, top-bio-adv, top-childwait, top-cpu, 
+	top-cpu-adv, top-cputime, top-cputime-avg, top-int, top-io, 
+	top-io-adv, top-latency, top-latency-avg, top-mem, top-oom, utmp, 
+	vm-memctl, vmk-hba, vmk-int, vmk-nic, vz-cpu, vz-io, vz-ubc, wifi
+[[]]dstat,read,5,59496,59496,
+
+internal:
+	aio, cpu, cpu24, disk, disk24, disk24old, epoch, fs, int, int24, io, 
+	ipc, load, lock, mem, net, page, page24, proc, raw, socket, swap, 
+	swapold, sys, tcp, time, udp, unix, vm
+/usr/share/dstat:
+	battery, battery-remain, cpufreq, dbus, disk-tps, disk-util, dstat, 
+	dstat-cpu, dstat-ctxt, dstat-mem, fan, freespace, gpfs, gpfs-ops, 
+	helloworld, innodb-buffer, innodb-io, innodb-ops, lustre, 
+	memcache-hits, mysql-io, mysql-keys, mysql5-cmds, mysql5-io, 
+	mysql5-keys, net-packets, nfs3, nfs3-ops, nfsd3, nfsd3-ops, ntp, 
+	postfix, power, proc-count, qmail, rpc, rpcd, sendmail, snooze, squid, 
+	test, thermal, top-bio, top-bio-adv, top-childwait, top-cpu, 
+	top-cpu-adv, top-cputime, top-cputime-avg, top-int, top-io, 
+	top-io-adv, top-latency, top-latency-avg, top-mem, top-oom, utmp, 
+	vm-memctl, vmk-hba, vmk-int, vmk-nic, vz-cpu, vz-io, vz-ubc, wifi
+[[]]dstat,write,6,59497,59497,
+
+internal:
+	aio, cpu, cpu24, disk, disk24, disk24old, epoch, fs, int, int24, io, 
+	ipc, load, lock, mem, net, page, page24, proc, raw, socket, swap, 
+	swapold, sys, tcp, time, udp, unix, vm
+/usr/share/dstat:
+	battery, battery-remain, cpufreq, dbus, disk-tps, disk-util, dstat, 
+	dstat-cpu, dstat-ctxt, dstat-mem, fan, freespace, gpfs, gpfs-ops, 
+	helloworld, innodb-buffer, innodb-io, innodb-ops, lustre, 
+	memcache-hits, mysql-io, mysql-keys, mysql5-cmds, mysql5-io, 
+	mysql5-keys, net-packets, nfs3, nfs3-ops, nfsd3, nfsd3-ops, ntp, 
+	postfix, power, proc-count, qmail, rpc, rpcd, sendmail, snooze, squid, 
+	test, thermal, top-bio, top-bio-adv, top-childwait, top-cpu, 
+	top-cpu-adv, top-cputime, top-cputime-avg, top-int, top-io, 
+	top-io-adv, top-latency, top-latency-avg, top-mem, top-oom, utmp, 
+	vm-memctl, vmk-hba, vmk-int, vmk-nic, vz-cpu, vz-io, vz-ubc, wifi
+[[]]dstat,read,6,59498,59498,
+
+internal:
+	aio, cpu, cpu24, disk, disk24, disk24old, epoch, fs, int, int24, io, 
+	ipc, load, lock, mem, net, page, page24, proc, raw, socket, swap, 
+	swapold, sys, tcp, time, udp, unix, vm
+/usr/share/dstat:
+	battery, battery-remain, cpufreq, dbus, disk-tps, disk-util, dstat, 
+	dstat-cpu, dstat-ctxt, dstat-mem, fan, freespace, gpfs, gpfs-ops, 
+	helloworld, innodb-buffer, innodb-io, innodb-ops, lustre, 
+	memcache-hits, mysql-io, mysql-keys, mysql5-cmds, mysql5-io, 
+	mysql5-keys, net-packets, nfs3, nfs3-ops, nfsd3, nfsd3-ops, ntp, 
+	postfix, power, proc-count, qmail, rpc, rpcd, sendmail, snooze, squid, 
+	test, thermal, top-bio, top-bio-adv, top-childwait, top-cpu, 
+	top-cpu-adv, top-cputime, top-cputime-avg, top-int, top-io, 
+	top-io-adv, top-latency, top-latency-avg, top-mem, top-oom, utmp, 
+	vm-memctl, vmk-hba, vmk-int, vmk-nic, vz-cpu, vz-io, vz-ubc, wifi
+[[]]dstat,access,7,59499,59499,
+
+internal:
+	aio, cpu, cpu24, disk, disk24, disk24old, epoch, fs, int, int24, io, 
+	ipc, load, lock, mem, net, page, page24, proc, raw, socket, swap, 
+	swapold, sys, tcp, time, udp, unix, vm
+/usr/share/dstat:
+	battery, battery-remain, cpufreq, dbus, disk-tps, disk-util, dstat, 
+	dstat-cpu, dstat-ctxt, dstat-mem, fan, freespace, gpfs, gpfs-ops, 
+	helloworld, innodb-buffer, innodb-io, innodb-ops, lustre, 
+	memcache-hits, mysql-io, mysql-keys, mysql5-cmds, mysql5-io, 
+	mysql5-keys, net-packets, nfs3, nfs3-ops, nfsd3, nfsd3-ops, ntp, 
+	postfix, power, proc-count, qmail, rpc, rpcd, sendmail, snooze, squid, 
+	test, thermal, top-bio, top-bio-adv, top-childwait, top-cpu, 
+	top-cpu-adv, top-cputime, top-cputime-avg, top-int, top-io, 
+	top-io-adv, top-latency, top-latency-avg, top-mem, top-oom, utmp, 
+	vm-memctl, vmk-hba, vmk-int, vmk-nic, vz-cpu, vz-io, vz-ubc, wifi
+[[]]dstat,write,8,59500,59500,
+
+internal:
+	aio, cpu, cpu24, disk, disk24, disk24old, epoch, fs, int, int24, io, 
+	ipc, load, lock, mem, net, page, page24, proc, raw, socket, swap, 
+	swapold, sys, tcp, time, udp, unix, vm
+/usr/share/dstat:
+	battery, battery-remain, cpufreq, dbus, disk-tps, disk-util, dstat, 
+	dstat-cpu, dstat-ctxt, dstat-mem, fan, freespace, gpfs, gpfs-ops, 
+	helloworld, innodb-buffer, innodb-io, innodb-ops, lustre, 
+	memcache-hits, mysql-io, mysql-keys, mysql5-cmds, mysql5-io, 
+	mysql5-keys, net-packets, nfs3, nfs3-ops, nfsd3, nfsd3-ops, ntp, 
+	postfix, power, proc-count, qmail, rpc, rpcd, sendmail, snooze, squid, 
+	test, thermal, top-bio, top-bio-adv, top-childwait, top-cpu, 
+	top-cpu-adv, top-cputime, top-cputime-avg, top-int, top-io, 
+	top-io-adv, top-latency, top-latency-avg, top-mem, top-oom, utmp, 
+	vm-memctl, vmk-hba, vmk-int, vmk-nic, vz-cpu, vz-io, vz-ubc, wifi
+[[]]dstat,read,8,59501,59501,
+
+internal:
+	aio, cpu, cpu24, disk, disk24, disk24old, epoch, fs, int, int24, io, 
+	ipc, load, lock, mem, net, page, page24, proc, raw, socket, swap, 
+	swapold, sys, tcp, time, udp, unix, vm
+/usr/share/dstat:
+	battery, battery-remain, cpufreq, dbus, disk-tps, disk-util, dstat, 
+	dstat-cpu, dstat-ctxt, dstat-mem, fan, freespace, gpfs, gpfs-ops, 
+	helloworld, innodb-buffer, innodb-io, innodb-ops, lustre, 
+	memcache-hits, mysql-io, mysql-keys, mysql5-cmds, mysql5-io, 
+	mysql5-keys, net-packets, nfs3, nfs3-ops, nfsd3, nfsd3-ops, ntp, 
+	postfix, power, proc-count, qmail, rpc, rpcd, sendmail, snooze, squid, 
+	test, thermal, top-bio, top-bio-adv, top-childwait, top-cpu, 
+	top-cpu-adv, top-cputime, top-cputime-avg, top-int, top-io, 
+	top-io-adv, top-latency, top-latency-avg, top-mem, top-oom, utmp, 
+	vm-memctl, vmk-hba, vmk-int, vmk-nic, vz-cpu, vz-io, vz-ubc, wifi
+[[]]dstat,munmap,1,59502,59502,
+
+internal:
+	aio, cpu, cpu24, disk, disk24, disk24old, epoch, fs, int, int24, io, 
+	ipc, load, lock, mem, net, page, page24, proc, raw, socket, swap, 
+	swapold, sys, tcp, time, udp, unix, vm
+/usr/share/dstat:
+	battery, battery-remain, cpufreq, dbus, disk-tps, disk-util, dstat, 
+	dstat-cpu, dstat-ctxt, dstat-mem, fan, freespace, gpfs, gpfs-ops, 
+	helloworld, innodb-buffer, innodb-io, innodb-ops, lustre, 
+	memcache-hits, mysql-io, mysql-keys, mysql5-cmds, mysql5-io, 
+	mysql5-keys, net-packets, nfs3, nfs3-ops, nfsd3, nfsd3-ops, ntp, 
+	postfix, power, proc-count, qmail, rpc, rpcd, sendmail, snooze, squid, 
+	test, thermal, top-bio, top-bio-adv, top-childwait, top-cpu, 
+	top-cpu-adv, top-cputime, top-cputime-avg, top-int, top-io, 
+	top-io-adv, top-latency, top-latency-avg, top-mem, top-oom, utmp, 
+	vm-memctl, vmk-hba, vmk-int, vmk-nic, vz-cpu, vz-io, vz-ubc, wifi
+[[]]dstat,munmap,2,59503,59503,
+
+internal:
+	aio, cpu, cpu24, disk, disk24, disk24old, epoch, fs, int, int24, io, 
+	ipc, load, lock, mem, net, page, page24, proc, raw, socket, swap, 
+	swapold, sys, tcp, time, udp, unix, vm
+/usr/share/dstat:
+	battery, battery-remain, cpufreq, dbus, disk-tps, disk-util, dstat, 
+	dstat-cpu, dstat-ctxt, dstat-mem, fan, freespace, gpfs, gpfs-ops, 
+	helloworld, innodb-buffer, innodb-io, innodb-ops, lustre, 
+	memcache-hits, mysql-io, mysql-keys, mysql5-cmds, mysql5-io, 
+	mysql5-keys, net-packets, nfs3, nfs3-ops, nfsd3, nfsd3-ops, ntp, 
+	postfix, power, proc-count, qmail, rpc, rpcd, sendmail, snooze, squid, 
+	test, thermal, top-bio, top-bio-adv, top-childwait, top-cpu, 
+	top-cpu-adv, top-cputime, top-cputime-avg, top-int, top-io, 
+	top-io-adv, top-latency, top-latency-avg, top-mem, top-oom, utmp, 
+	vm-memctl, vmk-hba, vmk-int, vmk-nic, vz-cpu, vz-io, vz-ubc, wifi
+[[]]dstat,mprotect,2,59504,59504,
+
+[[]]dstat,mmap,2,59505,59505,A
+

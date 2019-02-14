@@ -1,0 +1,28 @@
+-rw-rw-r-- 1 ruimin ruimin 416 May  6 18:42 files/Hello.class
+[[]]javac,rt_sigaction,4,112994,112995,
+
+-rw-rw-r-- 1 ruimin ruimin 416 May  6 18:42 files/Hello.class
+[[]]javac,rt_sigprocmask,4,112996,112997,
+
+-rw-rw-r-- 1 ruimin ruimin 416 May  6 18:43 files/Hello.class
+[[]]javac,read,5,113000,113000,
+
+-rw-rw-r-- 1 ruimin ruimin 416 May  6 18:43 files/Hello.class
+[[]]javac,read,6,113003,113004,
+
+[[]]javac,access,7,113005,113005,A
+
+-rw-rw-r-- 1 ruimin ruimin 416 May  6 18:43 files/Hello.class
+[[]]javac,read,8,113008,113009,
+
+-rw-rw-r-- 1 ruimin ruimin 416 May  6 18:43 files/Hello.class
+[[]]javac,munmap,1,113011,113012,
+
+-rw-rw-r-- 1 ruimin ruimin 416 May  6 18:43 files/Hello.class
+[[]]javac,munmap,2,113014,113015,
+
+-rw-rw-r-- 1 ruimin ruimin 416 May  6 18:43 files/Hello.class
+[[]]javac,mprotect,2,113017,113018,
+
+[[]]javac,mmap,2,113020,113020,A
+

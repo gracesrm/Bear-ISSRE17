@@ -1,0 +1,494 @@
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 16 Minutes
+
+
+
+Timed MPlayer Compilation 1.0-rc3:
+    pts/build-mplayer-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 16 Minutes
+        Running Pre-Test Script @ 15:58:31
+        Started Run 1 @ 15:58:46
+        The test did not produce a result.
+        Running Interim Test Script @ 15:58:51
+        Started Run 2 @ 15:58:53
+        The test did not produce a result.
+        Running Interim Test Script @ 15:58:55
+        Started Run 3 @ 15:58:57
+        The test did not produce a result.
+        Running Post-Test Script @ 15:58:58
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-mplayer-1.3.0,rt_sigaction,4,65006,65034,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 16 Minutes
+
+
+
+Timed MPlayer Compilation 1.0-rc3:
+    pts/build-mplayer-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 16 Minutes
+        Running Pre-Test Script @ 15:58:59
+        Started Run 1 @ 15:59:12
+        The test did not produce a result.
+        Running Interim Test Script @ 15:59:17
+        Started Run 2 @ 15:59:19
+        The test did not produce a result.
+        Running Interim Test Script @ 15:59:21
+        Started Run 3 @ 15:59:23
+        The test did not produce a result.
+        Running Post-Test Script @ 15:59:25
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-mplayer-1.3.0,rt_sigprocmask,4,65034,65061,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 16 Minutes
+
+
+
+Timed MPlayer Compilation 1.0-rc3:
+    pts/build-mplayer-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 16 Minutes
+        Running Pre-Test Script @ 15:59:26
+        Started Run 1 @ 15:59:39
+        The test did not produce a result.
+        Running Interim Test Script @ 15:59:43
+        Started Run 2 @ 15:59:45
+        The test did not produce a result.
+        Running Interim Test Script @ 15:59:47
+        Started Run 3 @ 15:59:49
+        The test did not produce a result.
+        Running Post-Test Script @ 15:59:51
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-mplayer-1.3.0,write,5,65061,65087,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 16 Minutes
+
+
+
+Timed MPlayer Compilation 1.0-rc3:
+    pts/build-mplayer-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 16 Minutes
+        Running Pre-Test Script @ 15:59:52
+        Started Run 1 @ 16:00:04
+        The test did not produce a result.
+        Running Interim Test Script @ 16:00:09
+        Started Run 2 @ 16:00:11
+        The test did not produce a result.
+        Running Interim Test Script @ 16:00:13
+        Started Run 3 @ 16:00:15
+        The test did not produce a result.
+        Running Post-Test Script @ 16:00:16
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-mplayer-1.3.0,read,5,65087,65112,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 16 Minutes
+
+
+
+Timed MPlayer Compilation 1.0-rc3:
+    pts/build-mplayer-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 16 Minutes
+        Running Pre-Test Script @ 16:00:17
+        Started Run 1 @ 16:00:30
+        The test did not produce a result.
+        Running Interim Test Script @ 16:00:35
+        Started Run 2 @ 16:00:37
+        The test did not produce a result.
+        Running Interim Test Script @ 16:00:38
+        Started Run 3 @ 16:00:40
+        The test did not produce a result.
+        Running Post-Test Script @ 16:00:42
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-mplayer-1.3.0,write,6,65112,65138,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 16 Minutes
+
+
+
+Timed MPlayer Compilation 1.0-rc3:
+    pts/build-mplayer-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 16 Minutes
+        Running Pre-Test Script @ 16:00:43
+        Started Run 1 @ 16:00:56
+        The test did not produce a result.
+        Running Interim Test Script @ 16:01:00
+        Started Run 2 @ 16:01:02
+        The test did not produce a result.
+        Running Interim Test Script @ 16:01:04
+        Started Run 3 @ 16:01:06
+        The test did not produce a result.
+        Running Post-Test Script @ 16:01:08
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-mplayer-1.3.0,read,6,65138,65164,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 16 Minutes
+
+
+
+Timed MPlayer Compilation 1.0-rc3:
+    pts/build-mplayer-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 16 Minutes
+        Running Pre-Test Script @ 16:01:09
+        Started Run 1 @ 16:01:21
+        The test did not produce a result.
+        Running Interim Test Script @ 16:01:26
+        Started Run 2 @ 16:01:28
+        The test did not produce a result.
+        Running Interim Test Script @ 16:01:29
+        Started Run 3 @ 16:01:31
+        The test did not produce a result.
+        Running Post-Test Script @ 16:01:33
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-mplayer-1.3.0,access,7,65164,65189,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 16 Minutes
+
+
+
+Timed MPlayer Compilation 1.0-rc3:
+    pts/build-mplayer-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 16 Minutes
+        Running Pre-Test Script @ 16:01:34
+        Started Run 1 @ 16:01:46
+        The test did not produce a result.
+        Running Interim Test Script @ 16:01:51
+        Started Run 2 @ 16:01:53
+        The test did not produce a result.
+        Running Interim Test Script @ 16:01:55
+        Started Run 3 @ 16:01:57
+        The test did not produce a result.
+        Running Post-Test Script @ 16:01:58
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-mplayer-1.3.0,write,8,65189,65214,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 16 Minutes
+
+
+
+Timed MPlayer Compilation 1.0-rc3:
+    pts/build-mplayer-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 16 Minutes
+        Running Pre-Test Script @ 16:01:59
+        Started Run 1 @ 16:02:12
+        The test did not produce a result.
+        Running Interim Test Script @ 16:02:16
+        Started Run 2 @ 16:02:18
+        The test did not produce a result.
+        Running Interim Test Script @ 16:02:20
+        Started Run 3 @ 16:02:22
+        The test did not produce a result.
+        Running Post-Test Script @ 16:02:24
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-mplayer-1.3.0,read,8,65214,65240,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 16 Minutes
+
+
+
+Timed MPlayer Compilation 1.0-rc3:
+    pts/build-mplayer-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 16 Minutes
+        Running Pre-Test Script @ 16:02:24
+        Started Run 1 @ 16:02:37
+        The test did not produce a result.
+        Running Interim Test Script @ 16:02:41
+        Started Run 2 @ 16:02:43
+        The test did not produce a result.
+        Running Interim Test Script @ 16:02:45
+        Started Run 3 @ 16:02:47
+        The test did not produce a result.
+        Running Post-Test Script @ 16:02:49
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-mplayer-1.3.0,munmap,1,65240,65265,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 16 Minutes
+
+
+
+Timed MPlayer Compilation 1.0-rc3:
+    pts/build-mplayer-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 16 Minutes
+        Running Pre-Test Script @ 16:02:50
+        Started Run 1 @ 16:03:02
+        The test did not produce a result.
+        Running Interim Test Script @ 16:03:07
+        Started Run 2 @ 16:03:09
+        The test did not produce a result.
+        Running Interim Test Script @ 16:03:10
+        Started Run 3 @ 16:03:12
+        The test did not produce a result.
+        Running Post-Test Script @ 16:03:14
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-mplayer-1.3.0,munmap,2,65265,65290,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 16 Minutes
+
+
+
+Timed MPlayer Compilation 1.0-rc3:
+    pts/build-mplayer-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 16 Minutes
+        Running Pre-Test Script @ 16:03:15
+        Started Run 1 @ 16:03:27
+        The test did not produce a result.
+        Running Interim Test Script @ 16:03:32
+        Started Run 2 @ 16:03:34
+        The test did not produce a result.
+        Running Interim Test Script @ 16:03:35
+        Started Run 3 @ 16:03:37
+        The test did not produce a result.
+        Running Post-Test Script @ 16:03:39
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-mplayer-1.3.0,mprotect,2,65290,65315,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 16 Minutes
+
+
+
+Timed MPlayer Compilation 1.0-rc3:
+    pts/build-mplayer-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 16 Minutes
+        Running Pre-Test Script @ 16:03:40
+        Started Run 1 @ 16:03:53
+        The test did not produce a result.
+        Running Interim Test Script @ 16:03:57
+        Started Run 2 @ 16:04:00
+        The test did not produce a result.
+        Running Interim Test Script @ 16:04:01
+        Started Run 3 @ 16:04:03
+        The test did not produce a result.
+        Running Post-Test Script @ 16:04:05
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-mplayer-1.3.0,mmap,2,65315,65341,A
+

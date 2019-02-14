@@ -1,0 +1,428 @@
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 4 Minutes
+
+
+
+FLAC Audio Encoding 1.3.1:
+    pts/encode-flac-1.5.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 4 Minutes
+        Started Run 1 @ 14:33:53
+        Started Run 2 @ 14:34:05
+        Started Run 3 @ 14:34:15
+        Started Run 4 @ 14:34:24
+        Started Run 5 @ 14:34:33  [Std. Dev: 0.10%]
+
+    Test Results:
+        7.3331799507141
+        7.3159251213074
+        7.3292620182037
+        7.3190090656281
+        7.3246760368347
+
+    Average: 7.32 Seconds
+
+
+[[]]pts/encode-flac-1.5.0,write,5,44043,44092,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+FLAC Audio Encoding 1.3.1:
+    pts/encode-flac-1.5.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 14:34:42
+        Started Run 2 @ 14:34:54
+        Started Run 3 @ 14:35:04
+        Started Run 4 @ 14:35:13
+        Started Run 5 @ 14:35:22  [Std. Dev: 11.88%]
+        Started Run 6 @ 14:35:34  [Std. Dev: 67.47%]
+        Started Run 7 @ 14:36:01  [Std. Dev: 60.01%]
+        Started Run 8 @ 14:36:19  [Std. Dev: 59.58%]
+        Started Run 9 @ 14:36:28  [Std. Dev: 57.39%]
+        Started Run 10 @ 14:36:39 [Std. Dev: 56.81%]
+
+    Test Results:
+        7.3176958560944
+        7.7729721069336
+        7.3174071311951
+        7.3297970294952
+        9.4715120792389
+        25.567075967789
+        15.401601791382
+        7.4019110202789
+        8.7735459804535
+        7.3307158946991
+
+    Average: 10.37 Seconds
+
+
+[[]]pts/encode-flac-1.5.0,read,5,44092,44218,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+FLAC Audio Encoding 1.3.1:
+    pts/encode-flac-1.5.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 14:36:48
+        Started Run 2 @ 14:37:00
+        Started Run 3 @ 14:37:10
+        Started Run 4 @ 14:37:19
+        Started Run 5 @ 14:37:28  [Std. Dev: 1.24%]
+
+    Test Results:
+        7.3998301029205
+        7.3429119586945
+        7.5497341156006
+        7.3280899524689
+        7.3462240695953
+
+    Average: 7.39 Seconds
+
+
+[[]]pts/encode-flac-1.5.0,write,6,44218,44267,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+FLAC Audio Encoding 1.3.1:
+    pts/encode-flac-1.5.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 14:37:37
+        Started Run 2 @ 14:37:49
+        Started Run 3 @ 14:37:58
+        Started Run 4 @ 14:38:08
+        Started Run 5 @ 14:38:17  [Std. Dev: 0.09%]
+
+    Test Results:
+        7.3234670162201
+        7.3341240882874
+        7.329715013504
+        7.3322529792786
+        7.3177349567413
+
+    Average: 7.33 Seconds
+
+
+[[]]pts/encode-flac-1.5.0,read,6,44267,44316,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+FLAC Audio Encoding 1.3.1:
+    pts/encode-flac-1.5.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 14:38:27
+        Started Run 2 @ 14:38:39
+        Started Run 3 @ 14:38:49
+        Started Run 4 @ 14:38:58
+        Started Run 5 @ 14:39:08  [Std. Dev: 2.36%]
+
+    Test Results:
+        7.7331938743591
+        7.3315970897675
+        7.4658451080322
+        7.3337647914886
+        7.3238389492035
+
+    Average: 7.44 Seconds
+
+
+[[]]pts/encode-flac-1.5.0,access,7,44316,44366,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+FLAC Audio Encoding 1.3.1:
+    pts/encode-flac-1.5.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 14:39:16
+        Started Run 2 @ 14:39:28
+        Started Run 3 @ 14:39:38
+        Started Run 4 @ 14:39:47
+        Started Run 5 @ 14:39:56  [Std. Dev: 0.42%]
+
+    Test Results:
+        7.3318629264832
+        7.4031429290771
+        7.3563170433044
+        7.3423929214478
+        7.3244099617004
+
+    Average: 7.35 Seconds
+
+
+[[]]pts/encode-flac-1.5.0,write,8,44366,44415,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+FLAC Audio Encoding 1.3.1:
+    pts/encode-flac-1.5.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 14:40:05
+        Started Run 2 @ 14:40:17
+        Started Run 3 @ 14:40:26
+        Started Run 4 @ 14:40:36
+        Started Run 5 @ 14:40:45  [Std. Dev: 0.10%]
+
+    Test Results:
+        7.330561876297
+        7.317036151886
+        7.3200790882111
+        7.3354878425598
+        7.3268411159515
+
+    Average: 7.33 Seconds
+
+
+[[]]pts/encode-flac-1.5.0,read,8,44415,44464,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+FLAC Audio Encoding 1.3.1:
+    pts/encode-flac-1.5.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 14:40:53
+        Started Run 2 @ 14:41:06
+        Started Run 3 @ 14:41:15
+        Started Run 4 @ 14:41:24
+        Started Run 5 @ 14:41:34  [Std. Dev: 0.74%]
+
+    Test Results:
+        7.4534831047058
+        7.3204491138458
+        7.3400719165802
+        7.3328211307526
+        7.3394258022308
+
+    Average: 7.36 Seconds
+
+
+[[]]pts/encode-flac-1.5.0,munmap,1,44464,44512,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+FLAC Audio Encoding 1.3.1:
+    pts/encode-flac-1.5.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 14:41:42
+        Started Run 2 @ 14:41:54
+        Started Run 3 @ 14:42:04
+        Started Run 4 @ 14:42:13
+        Started Run 5 @ 14:42:23  [Std. Dev: 1.76%]
+
+    Test Results:
+        7.3143408298492
+        7.3314130306244
+        7.5150558948517
+        7.5926568508148
+        7.3183948993683
+
+    Average: 7.41 Seconds
+
+
+[[]]pts/encode-flac-1.5.0,munmap,2,44512,44561,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+FLAC Audio Encoding 1.3.1:
+    pts/encode-flac-1.5.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 14:42:31
+        Started Run 2 @ 14:42:43
+        Started Run 3 @ 14:42:53
+        Started Run 4 @ 14:43:02
+        Started Run 5 @ 14:43:12  [Std. Dev: 1.64%]
+
+    Test Results:
+        7.3167700767517
+        7.3223648071289
+        7.545037984848
+        7.5431251525879
+        7.3290920257568
+
+    Average: 7.41 Seconds
+
+
+[[]]pts/encode-flac-1.5.0,mprotect,2,44561,44611,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+FLAC Audio Encoding 1.3.1:
+    pts/encode-flac-1.5.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 14:43:20
+        Started Run 2 @ 14:43:33
+        Started Run 3 @ 14:43:42
+        Started Run 4 @ 14:43:51
+        Started Run 5 @ 14:44:01  [Std. Dev: 0.14%]
+
+    Test Results:
+        7.3205959796906
+        7.3360679149628
+        7.3477959632874
+        7.3377070426941
+        7.3422939777374
+
+    Average: 7.34 Seconds
+
+
+[[]]pts/encode-flac-1.5.0,mmap,2,44611,44659,
+

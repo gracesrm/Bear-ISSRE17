@@ -1,0 +1,286 @@
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name
+tcp        0      0 0.0.0.0:6667            0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6668            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:48141         0.0.0.0:*               LISTEN      3017/GoogleTalkPlug
+tcp        0      0 0.0.0.0:6669            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:43154         0.0.0.0:*               LISTEN      3017/GoogleTalkPlug
+tcp        0      0 127.0.0.1:5939          0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:8307          0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.1.1:53            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:443             0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:17500           0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 127.0.0.1:17600         0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 127.0.0.1:17603         0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 0.0.0.0:902             0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:10022           0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6665            0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6666            0.0.0.0:*               LISTEN      -               
+tcp6       0      0 :::80                   :::*                    LISTEN      -               
+tcp6       0      0 ::1:631                 :::*                    LISTEN      -               
+tcp6       0      0 :::443                  :::*                    LISTEN      -               
+tcp6       0      0 :::17500                :::*                    LISTEN      2481/dropbox    
+tcp6       0      0 :::10022                :::*                    LISTEN      -               
+[[]]netstat,write,5,59587,59587,
+
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name
+tcp        0      0 0.0.0.0:6667            0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6668            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:48141         0.0.0.0:*               LISTEN      3017/GoogleTalkPlug
+tcp        0      0 0.0.0.0:6669            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:43154         0.0.0.0:*               LISTEN      3017/GoogleTalkPlug
+tcp        0      0 127.0.0.1:5939          0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:8307          0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.1.1:53            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:443             0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:17500           0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 127.0.0.1:17600         0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 127.0.0.1:17603         0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 0.0.0.0:902             0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:10022           0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6665            0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6666            0.0.0.0:*               LISTEN      -               
+tcp6       0      0 :::80                   :::*                    LISTEN      -               
+tcp6       0      0 ::1:631                 :::*                    LISTEN      -               
+tcp6       0      0 :::443                  :::*                    LISTEN      -               
+tcp6       0      0 :::17500                :::*                    LISTEN      2481/dropbox    
+tcp6       0      0 :::10022                :::*                    LISTEN      -               
+[[]]netstat,read,5,59588,59588,
+
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name
+tcp        0      0 0.0.0.0:6667            0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6668            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:48141         0.0.0.0:*               LISTEN      3017/GoogleTalkPlug
+tcp        0      0 0.0.0.0:6669            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:43154         0.0.0.0:*               LISTEN      3017/GoogleTalkPlug
+tcp        0      0 127.0.0.1:5939          0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:8307          0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.1.1:53            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:443             0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:17500           0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 127.0.0.1:17600         0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 127.0.0.1:17603         0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 0.0.0.0:902             0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:10022           0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6665            0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6666            0.0.0.0:*               LISTEN      -               
+tcp6       0      0 :::80                   :::*                    LISTEN      -               
+tcp6       0      0 ::1:631                 :::*                    LISTEN      -               
+tcp6       0      0 :::443                  :::*                    LISTEN      -               
+tcp6       0      0 :::17500                :::*                    LISTEN      2481/dropbox    
+tcp6       0      0 :::10022                :::*                    LISTEN      -               
+[[]]netstat,write,6,59589,59589,
+
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name
+tcp        0      0 0.0.0.0:6667            0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6668            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:48141         0.0.0.0:*               LISTEN      3017/GoogleTalkPlug
+tcp        0      0 0.0.0.0:6669            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:43154         0.0.0.0:*               LISTEN      3017/GoogleTalkPlug
+tcp        0      0 127.0.0.1:5939          0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:8307          0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.1.1:53            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:443             0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:17500           0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 127.0.0.1:17600         0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 127.0.0.1:17603         0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 0.0.0.0:902             0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:10022           0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6665            0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6666            0.0.0.0:*               LISTEN      -               
+tcp6       0      0 :::80                   :::*                    LISTEN      -               
+tcp6       0      0 ::1:631                 :::*                    LISTEN      -               
+tcp6       0      0 :::443                  :::*                    LISTEN      -               
+tcp6       0      0 :::17500                :::*                    LISTEN      2481/dropbox    
+tcp6       0      0 :::10022                :::*                    LISTEN      -               
+[[]]netstat,read,6,59590,59590,
+
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name
+tcp        0      0 0.0.0.0:6667            0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6668            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:48141         0.0.0.0:*               LISTEN      3017/GoogleTalkPlug
+tcp        0      0 0.0.0.0:6669            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:43154         0.0.0.0:*               LISTEN      3017/GoogleTalkPlug
+tcp        0      0 127.0.0.1:5939          0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:8307          0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.1.1:53            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:443             0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:17500           0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 127.0.0.1:17600         0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 127.0.0.1:17603         0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 0.0.0.0:902             0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:10022           0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6665            0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6666            0.0.0.0:*               LISTEN      -               
+tcp6       0      0 :::80                   :::*                    LISTEN      -               
+tcp6       0      0 ::1:631                 :::*                    LISTEN      -               
+tcp6       0      0 :::443                  :::*                    LISTEN      -               
+tcp6       0      0 :::17500                :::*                    LISTEN      2481/dropbox    
+tcp6       0      0 :::10022                :::*                    LISTEN      -               
+[[]]netstat,access,7,59591,59591,
+
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name
+tcp        0      0 0.0.0.0:6667            0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6668            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:48141         0.0.0.0:*               LISTEN      3017/GoogleTalkPlug
+tcp        0      0 0.0.0.0:6669            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:43154         0.0.0.0:*               LISTEN      3017/GoogleTalkPlug
+tcp        0      0 127.0.0.1:5939          0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:8307          0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.1.1:53            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:443             0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:17500           0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 127.0.0.1:17600         0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 127.0.0.1:17603         0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 0.0.0.0:902             0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:10022           0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6665            0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6666            0.0.0.0:*               LISTEN      -               
+tcp6       0      0 :::80                   :::*                    LISTEN      -               
+tcp6       0      0 ::1:631                 :::*                    LISTEN      -               
+tcp6       0      0 :::443                  :::*                    LISTEN      -               
+tcp6       0      0 :::17500                :::*                    LISTEN      2481/dropbox    
+tcp6       0      0 :::10022                :::*                    LISTEN      -               
+[[]]netstat,write,8,59592,59592,
+
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name
+tcp        0      0 0.0.0.0:6667            0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6668            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:48141         0.0.0.0:*               LISTEN      3017/GoogleTalkPlug
+tcp        0      0 0.0.0.0:6669            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:43154         0.0.0.0:*               LISTEN      3017/GoogleTalkPlug
+tcp        0      0 127.0.0.1:5939          0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:8307          0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.1.1:53            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:443             0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:17500           0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 127.0.0.1:17600         0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 127.0.0.1:17603         0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 0.0.0.0:902             0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:10022           0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6665            0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6666            0.0.0.0:*               LISTEN      -               
+tcp6       0      0 :::80                   :::*                    LISTEN      -               
+tcp6       0      0 ::1:631                 :::*                    LISTEN      -               
+tcp6       0      0 :::443                  :::*                    LISTEN      -               
+tcp6       0      0 :::17500                :::*                    LISTEN      2481/dropbox    
+tcp6       0      0 :::10022                :::*                    LISTEN      -               
+[[]]netstat,read,8,59593,59593,
+
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name
+tcp        0      0 0.0.0.0:6667            0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6668            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:48141         0.0.0.0:*               LISTEN      3017/GoogleTalkPlug
+tcp        0      0 0.0.0.0:6669            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:43154         0.0.0.0:*               LISTEN      3017/GoogleTalkPlug
+tcp        0      0 127.0.0.1:5939          0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:8307          0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.1.1:53            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:443             0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:17500           0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 127.0.0.1:17600         0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 127.0.0.1:17603         0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 0.0.0.0:902             0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:10022           0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6665            0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6666            0.0.0.0:*               LISTEN      -               
+tcp6       0      0 :::80                   :::*                    LISTEN      -               
+tcp6       0      0 ::1:631                 :::*                    LISTEN      -               
+tcp6       0      0 :::443                  :::*                    LISTEN      -               
+tcp6       0      0 :::17500                :::*                    LISTEN      2481/dropbox    
+tcp6       0      0 :::10022                :::*                    LISTEN      -               
+[[]]netstat,munmap,1,59594,59594,
+
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name
+tcp        0      0 0.0.0.0:6667            0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6668            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:48141         0.0.0.0:*               LISTEN      3017/GoogleTalkPlug
+tcp        0      0 0.0.0.0:6669            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:43154         0.0.0.0:*               LISTEN      3017/GoogleTalkPlug
+tcp        0      0 127.0.0.1:5939          0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:8307          0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.1.1:53            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:443             0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:17500           0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 127.0.0.1:17600         0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 127.0.0.1:17603         0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 0.0.0.0:902             0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:10022           0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6665            0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6666            0.0.0.0:*               LISTEN      -               
+tcp6       0      0 :::80                   :::*                    LISTEN      -               
+tcp6       0      0 ::1:631                 :::*                    LISTEN      -               
+tcp6       0      0 :::443                  :::*                    LISTEN      -               
+tcp6       0      0 :::17500                :::*                    LISTEN      2481/dropbox    
+tcp6       0      0 :::10022                :::*                    LISTEN      -               
+[[]]netstat,munmap,2,59595,59595,
+
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name
+tcp        0      0 0.0.0.0:6667            0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6668            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:48141         0.0.0.0:*               LISTEN      3017/GoogleTalkPlug
+tcp        0      0 0.0.0.0:6669            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:43154         0.0.0.0:*               LISTEN      3017/GoogleTalkPlug
+tcp        0      0 127.0.0.1:5939          0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:8307          0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.1.1:53            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:443             0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:17500           0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 127.0.0.1:17600         0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 127.0.0.1:17603         0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 0.0.0.0:902             0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:10022           0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6665            0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6666            0.0.0.0:*               LISTEN      -               
+tcp6       0      0 :::80                   :::*                    LISTEN      -               
+tcp6       0      0 ::1:631                 :::*                    LISTEN      -               
+tcp6       0      0 :::443                  :::*                    LISTEN      -               
+tcp6       0      0 :::17500                :::*                    LISTEN      2481/dropbox    
+tcp6       0      0 :::10022                :::*                    LISTEN      -               
+[[]]netstat,mprotect,2,59596,59596,
+
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name
+tcp        0      0 0.0.0.0:6667            0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6668            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:48141         0.0.0.0:*               LISTEN      3017/GoogleTalkPlug
+tcp        0      0 0.0.0.0:6669            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:43154         0.0.0.0:*               LISTEN      3017/GoogleTalkPlug
+tcp        0      0 127.0.0.1:5939          0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:8307          0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.1.1:53            0.0.0.0:*               LISTEN      -               
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:443             0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:17500           0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 127.0.0.1:17600         0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 127.0.0.1:17603         0.0.0.0:*               LISTEN      2481/dropbox    
+tcp        0      0 0.0.0.0:902             0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:10022           0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6665            0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:6666            0.0.0.0:*               LISTEN      -               
+tcp6       0      0 :::80                   :::*                    LISTEN      -               
+tcp6       0      0 ::1:631                 :::*                    LISTEN      -               
+tcp6       0      0 :::443                  :::*                    LISTEN      -               
+tcp6       0      0 :::17500                :::*                    LISTEN      2481/dropbox    
+tcp6       0      0 :::10022                :::*                    LISTEN      -               
+[[]]netstat,mmap,2,59597,59597,
+

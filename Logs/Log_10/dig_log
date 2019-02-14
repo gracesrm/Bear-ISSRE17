@@ -1,0 +1,242 @@
+
+; <<>> DiG 9.9.5-3ubuntu0.8-Ubuntu <<>> 8.8.8.8
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 61956
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;8.8.8.8.			IN	A
+
+;; ANSWER SECTION:
+8.8.8.8.		0	IN	A	8.8.8.8
+
+;; Query time: 0 msec
+;; SERVER: 127.0.1.1#53(127.0.1.1)
+;; WHEN: Fri May 06 16:09:45 EDT 2016
+;; MSG SIZE  rcvd: 41
+
+[[]]dig,rt_sigaction,4,59629,59629,
+
+
+; <<>> DiG 9.9.5-3ubuntu0.8-Ubuntu <<>> 8.8.8.8
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19306
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;8.8.8.8.			IN	A
+
+;; ANSWER SECTION:
+8.8.8.8.		0	IN	A	8.8.8.8
+
+;; Query time: 0 msec
+;; SERVER: 127.0.1.1#53(127.0.1.1)
+;; WHEN: Fri May 06 16:09:46 EDT 2016
+;; MSG SIZE  rcvd: 41
+
+[[]]dig,rt_sigprocmask,4,59630,59630,
+
+
+; <<>> DiG 9.9.5-3ubuntu0.8-Ubuntu <<>> 8.8.8.8
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 53180
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;8.8.8.8.			IN	A
+
+;; ANSWER SECTION:
+8.8.8.8.		0	IN	A	8.8.8.8
+
+;; Query time: 0 msec
+;; SERVER: 127.0.1.1#53(127.0.1.1)
+;; WHEN: Fri May 06 16:09:47 EDT 2016
+;; MSG SIZE  rcvd: 41
+
+[[]]dig,write,5,59631,59631,
+
+
+; <<>> DiG 9.9.5-3ubuntu0.8-Ubuntu <<>> 8.8.8.8
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5096
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;8.8.8.8.			IN	A
+
+;; ANSWER SECTION:
+8.8.8.8.		0	IN	A	8.8.8.8
+
+;; Query time: 0 msec
+;; SERVER: 127.0.1.1#53(127.0.1.1)
+;; WHEN: Fri May 06 16:09:49 EDT 2016
+;; MSG SIZE  rcvd: 41
+
+[[]]dig,read,5,59633,59633,
+
+
+; <<>> DiG 9.9.5-3ubuntu0.8-Ubuntu <<>> 8.8.8.8
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 40439
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;8.8.8.8.			IN	A
+
+;; ANSWER SECTION:
+8.8.8.8.		0	IN	A	8.8.8.8
+
+;; Query time: 0 msec
+;; SERVER: 127.0.1.1#53(127.0.1.1)
+;; WHEN: Fri May 06 16:09:50 EDT 2016
+;; MSG SIZE  rcvd: 41
+
+[[]]dig,write,6,59634,59634,
+
+
+; <<>> DiG 9.9.5-3ubuntu0.8-Ubuntu <<>> 8.8.8.8
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52009
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;8.8.8.8.			IN	A
+
+;; ANSWER SECTION:
+8.8.8.8.		0	IN	A	8.8.8.8
+
+;; Query time: 0 msec
+;; SERVER: 127.0.1.1#53(127.0.1.1)
+;; WHEN: Fri May 06 16:09:51 EDT 2016
+;; MSG SIZE  rcvd: 41
+
+[[]]dig,read,6,59635,59635,
+
+
+; <<>> DiG 9.9.5-3ubuntu0.8-Ubuntu <<>> 8.8.8.8
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 55723
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;8.8.8.8.			IN	A
+
+;; ANSWER SECTION:
+8.8.8.8.		0	IN	A	8.8.8.8
+
+;; Query time: 0 msec
+;; SERVER: 127.0.1.1#53(127.0.1.1)
+;; WHEN: Fri May 06 16:09:52 EDT 2016
+;; MSG SIZE  rcvd: 41
+
+[[]]dig,access,7,59636,59636,
+
+
+; <<>> DiG 9.9.5-3ubuntu0.8-Ubuntu <<>> 8.8.8.8
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 58432
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;8.8.8.8.			IN	A
+
+;; ANSWER SECTION:
+8.8.8.8.		0	IN	A	8.8.8.8
+
+;; Query time: 0 msec
+;; SERVER: 127.0.1.1#53(127.0.1.1)
+;; WHEN: Fri May 06 16:09:53 EDT 2016
+;; MSG SIZE  rcvd: 41
+
+[[]]dig,write,8,59637,59637,
+
+
+; <<>> DiG 9.9.5-3ubuntu0.8-Ubuntu <<>> 8.8.8.8
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29376
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;8.8.8.8.			IN	A
+
+;; ANSWER SECTION:
+8.8.8.8.		0	IN	A	8.8.8.8
+
+;; Query time: 0 msec
+;; SERVER: 127.0.1.1#53(127.0.1.1)
+;; WHEN: Fri May 06 16:09:54 EDT 2016
+;; MSG SIZE  rcvd: 41
+
+[[]]dig,read,8,59638,59638,
+
+
+; <<>> DiG 9.9.5-3ubuntu0.8-Ubuntu <<>> 8.8.8.8
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 53031
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;8.8.8.8.			IN	A
+
+;; ANSWER SECTION:
+8.8.8.8.		0	IN	A	8.8.8.8
+
+;; Query time: 0 msec
+;; SERVER: 127.0.1.1#53(127.0.1.1)
+;; WHEN: Fri May 06 16:09:55 EDT 2016
+;; MSG SIZE  rcvd: 41
+
+[[]]dig,munmap,1,59639,59639,
+
+
+; <<>> DiG 9.9.5-3ubuntu0.8-Ubuntu <<>> 8.8.8.8
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 58827
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;8.8.8.8.			IN	A
+
+;; ANSWER SECTION:
+8.8.8.8.		0	IN	A	8.8.8.8
+
+;; Query time: 0 msec
+;; SERVER: 127.0.1.1#53(127.0.1.1)
+;; WHEN: Fri May 06 16:09:56 EDT 2016
+;; MSG SIZE  rcvd: 41
+
+[[]]dig,munmap,2,59640,59640,
+
+
+; <<>> DiG 9.9.5-3ubuntu0.8-Ubuntu <<>> 8.8.8.8
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 44360
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;8.8.8.8.			IN	A
+
+;; ANSWER SECTION:
+8.8.8.8.		0	IN	A	8.8.8.8
+
+;; Query time: 0 msec
+;; SERVER: 127.0.1.1#53(127.0.1.1)
+;; WHEN: Fri May 06 16:09:57 EDT 2016
+;; MSG SIZE  rcvd: 41
+
+[[]]dig,mprotect,2,59641,59641,
+
+[[]]dig,mmap,2,59642,59642,A
+

@@ -1,0 +1,13 @@
+[[]]cyclictest,nocallblock,0,3129,3439,
+[[]]cyclictest,rt_sigaction,4,3567,3875,
+[[]]cyclictest,rt_sigprocmask,4,3983,4292,
+[[]]cyclictest,write,5,4471,4778,A
+[[]]cyclictest,write,6,4813,5120,
+[[]]cyclictest,write,8,5164,5777,
+[[]]cyclictest,read,5,5852,6163,
+[[]]cyclictest,read,6,16,326,
+[[]]cyclictest,read,8,5,313,
+[[]]cyclictest,access,7,11,319,
+[[]]cyclictest,munmap,1,392,1004,
+[[]]cyclictest,munmap,2,1178,1484,
+[[]]cyclictest,mmap,2,1527,1534,A

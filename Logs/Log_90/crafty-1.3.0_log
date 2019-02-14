@@ -1,0 +1,330 @@
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Crafty 23.4:
+    pts/crafty-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 7 Minutes (23:11 PDT)
+        Started Run 1 @ 23:04:04
+        Started Run 2 @ 23:05:24
+        Started Run 3 @ 23:06:44  [Std. Dev: 0.23%]
+
+    Test Results:
+        80.29
+        79.93
+        80.02
+
+    Average: 80.08 Seconds
+
+[[]]pts/crafty-1.3.0,write,5,9985,10225,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Crafty 23.4:
+    pts/crafty-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 5 Minutes (23:12 PDT)
+        Started Run 1 @ 23:08:05
+        Started Run 2 @ 23:09:25
+        Started Run 3 @ 23:10:45  [Std. Dev: 0.25%]
+
+    Test Results:
+        80.02
+        80.4
+        80.08
+
+    Average: 80.17 Seconds
+
+[[]]pts/crafty-1.3.0,read,5,10225,10466,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Crafty 23.4:
+    pts/crafty-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 5 Minutes (23:16 PDT)
+        Started Run 1 @ 23:12:06
+        Started Run 2 @ 23:13:26
+        Started Run 3 @ 23:14:47  [Std. Dev: 0.55%]
+
+    Test Results:
+        79.96
+        80.78
+        80.1
+
+    Average: 80.28 Seconds
+
+[[]]pts/crafty-1.3.0,write,6,10467,10708,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Crafty 23.4:
+    pts/crafty-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 5 Minutes (23:20 PDT)
+        Started Run 1 @ 23:16:07
+        Started Run 2 @ 23:17:28
+        Started Run 3 @ 23:18:48  [Std. Dev: 0.34%]
+
+    Test Results:
+        80.49
+        80.04
+        79.99
+
+    Average: 80.17 Seconds
+
+[[]]pts/crafty-1.3.0,read,6,10708,10949,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Crafty 23.4:
+    pts/crafty-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 5 Minutes (23:24 PDT)
+        Started Run 1 @ 23:20:10
+        Started Run 2 @ 23:21:30
+        Started Run 3 @ 23:22:51  [Std. Dev: 0.17%]
+
+    Test Results:
+        80.67
+        80.4
+        80.59
+
+    Average: 80.55 Seconds
+
+[[]]pts/crafty-1.3.0,access,7,10949,11193,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Crafty 23.4:
+    pts/crafty-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 5 Minutes (23:28 PDT)
+        Started Run 1 @ 23:24:12
+        Started Run 2 @ 23:25:32
+        Started Run 3 @ 23:26:52  [Std. Dev: 0.14%]
+
+    Test Results:
+        80.14
+        80.2
+        80.36
+
+    Average: 80.23 Seconds
+
+[[]]pts/crafty-1.3.0,write,8,11193,11434,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Crafty 23.4:
+    pts/crafty-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 5 Minutes (23:32 PDT)
+        Started Run 1 @ 23:28:13
+        Started Run 2 @ 23:29:33
+        Started Run 3 @ 23:30:53  [Std. Dev: 0.18%]
+
+    Test Results:
+        80.14
+        79.86
+        80.01
+
+    Average: 80.00 Seconds
+
+[[]]pts/crafty-1.3.0,read,8,11434,11674,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Crafty 23.4:
+    pts/crafty-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 5 Minutes (23:36 PDT)
+        Started Run 1 @ 23:32:14
+        Started Run 2 @ 23:33:34
+        Started Run 3 @ 23:34:54  [Std. Dev: 0.24%]
+
+    Test Results:
+        80.25
+        80.02
+        79.86
+
+    Average: 80.04 Seconds
+
+[[]]pts/crafty-1.3.0,munmap,1,11674,11915,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Crafty 23.4:
+    pts/crafty-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 5 Minutes (23:40 PDT)
+        Started Run 1 @ 23:36:14
+        Started Run 2 @ 23:37:35
+        Started Run 3 @ 23:38:55  [Std. Dev: 0.27%]
+
+    Test Results:
+        80.06
+        80.39
+        79.99
+
+    Average: 80.15 Seconds
+
+[[]]pts/crafty-1.3.0,munmap,2,11915,12156,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Crafty 23.4:
+    pts/crafty-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 5 Minutes (23:44 PDT)
+        Started Run 1 @ 23:40:15
+        Started Run 2 @ 23:41:36
+        Started Run 3 @ 23:42:56  [Std. Dev: 0.26%]
+
+    Test Results:
+        80.56
+        80.27
+        80.16
+
+    Average: 80.33 Seconds
+
+[[]]pts/crafty-1.3.0,mprotect,2,12156,12398,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Crafty 23.4:
+    pts/crafty-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 5 Minutes (23:48 PDT)
+        Started Run 1 @ 23:44:17
+        Started Run 2 @ 23:45:37
+        Started Run 3 @ 23:46:58  [Std. Dev: 0.05%]
+
+    Test Results:
+        80.39
+        80.33
+        80.31
+
+    Average: 80.34 Seconds
+
+[[]]pts/crafty-1.3.0,mmap,2,12398,12639,
+

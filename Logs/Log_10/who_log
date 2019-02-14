@@ -1,0 +1,167 @@
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,rt_sigaction,4,289,289,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,rt_sigprocmask,4,290,290,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,rt_sigpending,4,291,291,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,kill,4,292,292,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,write,5,293,293,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,read,5,295,295,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,pread64,5,296,296,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,pwrite64,5,297,297,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,sendto,5,298,298,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,recvfrom,5,299,299,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,write,6,300,300,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,read,6,301,301,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,pread64,6,302,302,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,pwrite64,6,303,303,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,sendto,6,304,304,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,recvfrom,6,305,305,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,access,7,306,306,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,write,8,307,307,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,read,8,308,308,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,pread64,8,309,309,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,pwrite64,8,310,310,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,sendto,8,311,311,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,recvfrom,8,312,312,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,mq_notify,9,313,313,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,setuid,10,314,314,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,munmap,1,315,315,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,munmap,2,316,316,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,mprotect,2,317,317,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,mremap,2,318,318,
+
+[[]]who,mmap,2,319,319,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,mlock,3,320,320,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,mlockall,3,321,321,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,munlock,3,322,322,
+
+ruimin   tty7         2016-05-03 20:10
+ruimin   pts/0        2016-05-03 20:11 (:0)
+ruimin   pts/1        2016-05-03 20:17 (:0)
+[[]]who,munlockall,3,323,323,
+

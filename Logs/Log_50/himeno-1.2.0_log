@@ -1,0 +1,442 @@
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 4 Minutes
+
+
+
+Himeno Benchmark 3.0:
+    pts/himeno-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes
+        Started Run 1 @ 00:05:15
+        The test did not produce a result.
+        Started Run 2 @ 00:05:17
+        The test did not produce a result.
+        Started Run 3 @ 00:05:19
+        The test did not produce a result.
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/himeno-1.2.0,rt_sigaction,4,94211,94215,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 4 Minutes
+
+
+
+Himeno Benchmark 3.0:
+    pts/himeno-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes
+        Started Run 1 @ 00:05:20
+        The test did not produce a result.
+        Started Run 2 @ 00:05:22
+        The test did not produce a result.
+        Started Run 3 @ 00:05:24
+        The test did not produce a result.
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/himeno-1.2.0,rt_sigprocmask,4,94215,94220,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 4 Minutes
+
+
+
+Himeno Benchmark 3.0:
+    pts/himeno-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes
+        Started Run 1 @ 00:05:24
+        The test did not produce a result.
+        Started Run 2 @ 00:05:26
+        The test did not produce a result.
+        Started Run 3 @ 00:05:29
+        The test did not produce a result.
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/himeno-1.2.0,write,5,94220,94225,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 4 Minutes
+
+
+
+Himeno Benchmark 3.0:
+    pts/himeno-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes
+        Started Run 1 @ 00:05:29
+        The test did not produce a result.
+        Started Run 2 @ 00:05:31
+        The test did not produce a result.
+        Started Run 3 @ 00:05:33
+        The test did not produce a result.
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/himeno-1.2.0,read,5,94225,94229,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 4 Minutes
+
+
+
+Himeno Benchmark 3.0:
+    pts/himeno-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes
+        Started Run 1 @ 00:05:34
+        The test did not produce a result.
+        Started Run 2 @ 00:05:36
+        The test did not produce a result.
+        Started Run 3 @ 00:05:38
+        The test did not produce a result.
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/himeno-1.2.0,write,6,94229,94234,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 4 Minutes
+
+
+
+Himeno Benchmark 3.0:
+    pts/himeno-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes
+        Started Run 1 @ 00:05:39
+        The test did not produce a result.
+        Started Run 2 @ 00:05:41
+        The test did not produce a result.
+        Started Run 3 @ 00:05:43
+        The test did not produce a result.
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/himeno-1.2.0,read,6,94234,94239,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 4 Minutes
+
+
+
+Himeno Benchmark 3.0:
+    pts/himeno-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes
+        Started Run 1 @ 00:05:43
+        The test did not produce a result.
+        Started Run 2 @ 00:05:45
+        The test did not produce a result.
+        Started Run 3 @ 00:05:47
+        The test did not produce a result.
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/himeno-1.2.0,access,7,94239,94243,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 4 Minutes
+
+
+
+Himeno Benchmark 3.0:
+    pts/himeno-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes
+        Started Run 1 @ 00:05:48
+        The test did not produce a result.
+        Started Run 2 @ 00:05:50
+        The test did not produce a result.
+        Started Run 3 @ 00:05:52
+        The test did not produce a result.
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/himeno-1.2.0,write,8,94243,94248,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 4 Minutes
+
+
+
+Himeno Benchmark 3.0:
+    pts/himeno-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes
+        Started Run 1 @ 00:05:53
+        The test did not produce a result.
+        Started Run 2 @ 00:05:55
+        The test did not produce a result.
+        Started Run 3 @ 00:05:57
+        The test did not produce a result.
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/himeno-1.2.0,read,8,94248,94253,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 4 Minutes
+
+
+
+Himeno Benchmark 3.0:
+    pts/himeno-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes
+        Started Run 1 @ 00:05:57
+        The test did not produce a result.
+        Started Run 2 @ 00:05:59
+        The test did not produce a result.
+        Started Run 3 @ 00:06:01
+        The test did not produce a result.
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/himeno-1.2.0,munmap,1,94253,94257,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 4 Minutes
+
+
+
+Himeno Benchmark 3.0:
+    pts/himeno-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes
+        Started Run 1 @ 00:06:02
+        The test did not produce a result.
+        Started Run 2 @ 00:06:04
+        The test did not produce a result.
+        Started Run 3 @ 00:06:06
+        The test did not produce a result.
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/himeno-1.2.0,munmap,2,94257,94262,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 4 Minutes
+
+
+
+Himeno Benchmark 3.0:
+    pts/himeno-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes
+        Started Run 1 @ 00:06:06
+        The test did not produce a result.
+        Started Run 2 @ 00:06:08
+        The test did not produce a result.
+        Started Run 3 @ 00:06:10
+        The test did not produce a result.
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/himeno-1.2.0,mprotect,2,94262,94267,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 4 Minutes
+
+
+
+Himeno Benchmark 3.0:
+    pts/himeno-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes
+        Started Run 1 @ 00:06:11
+        The test did not produce a result.
+        Started Run 2 @ 00:06:13
+        The test did not produce a result.
+        Started Run 3 @ 00:06:15
+        The test did not produce a result.
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/himeno-1.2.0,mmap,2,94267,94271,A
+

@@ -1,0 +1,5022 @@
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 6 Minutes
+        Running Pre-Test Script @ 08:58:44
+        Started Run 1 @ 08:59:24
+        Running Interim Test Script @ 09:01:58
+        Started Run 2 @ 09:02:01
+        Running Interim Test Script @ 09:04:31
+        Started Run 3 @ 09:04:34  [Std. Dev: 0.51%]
+        Running Post-Test Script @ 09:07:05
+
+    Test Results:
+        150.01126289368
+        149.51954889297
+        151.02090501785
+
+    Average: 150.18 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,12726,13230,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 9 Minutes
+        Running Pre-Test Script @ 09:07:08
+        Started Run 1 @ 09:07:43
+        Running Interim Test Script @ 09:10:19
+        Started Run 2 @ 09:10:22
+        Running Interim Test Script @ 09:12:53
+        Started Run 3 @ 09:12:55  [Std. Dev: 0.59%]
+        Running Post-Test Script @ 09:15:27
+
+    Test Results:
+        152.43917393684
+        150.67811107635
+        151.34813809395
+
+    Average: 151.49 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,13231,13731,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 9 Minutes
+        Running Pre-Test Script @ 09:15:30
+        Started Run 1 @ 09:16:04
+        Running Interim Test Script @ 09:18:38
+        Started Run 2 @ 09:18:42
+        Running Interim Test Script @ 09:21:24
+        Started Run 3 @ 09:21:28
+        Running Interim Test Script @ 09:25:01  [Std. Dev: 19.05%]
+        Started Run 4 @ 09:25:05
+        Running Interim Test Script @ 09:28:52  [Std. Dev: 20.00%]
+        Started Run 5 @ 09:28:56
+        Running Interim Test Script @ 09:32:37  [Std. Dev: 18.38%]
+        Started Run 6 @ 09:32:41  [Std. Dev: 16.68%]
+        Running Post-Test Script @ 09:36:16
+
+    Test Results:
+        150.37306904793
+        162.80172514915
+        213.51976394653
+        227.55150699615
+        221.7828040123
+        215.17424798012
+
+    Average: 198.53 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,13732,14980,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 13 Minutes
+        Running Pre-Test Script @ 09:44:37
+        Started Run 1 @ 09:45:14
+        Running Interim Test Script @ 09:47:57
+        Started Run 2 @ 09:47:59
+        Running Interim Test Script @ 09:50:37
+        Started Run 3 @ 09:50:40  [Std. Dev: 2.01%]
+        Running Post-Test Script @ 09:53:12
+
+    Test Results:
+        158.05047488213
+        157.23984694481
+        152.27415204048
+
+    Average: 155.85 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,15479,15996,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 12 Minutes
+        Running Pre-Test Script @ 09:53:15
+        Started Run 1 @ 09:53:48
+        Running Interim Test Script @ 09:56:24
+        Started Run 2 @ 09:56:27
+        Running Interim Test Script @ 09:58:59
+        Started Run 3 @ 09:59:01  [Std. Dev: 0.50%]
+        Running Post-Test Script @ 10:01:34
+
+    Test Results:
+        152.09234786034
+        151.4102499485
+        152.93997812271
+
+    Average: 152.15 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,15997,16498,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:01:37
+        Started Run 1 @ 10:02:11
+        Running Interim Test Script @ 10:05:20
+        Started Run 2 @ 10:05:22
+        Running Interim Test Script @ 10:08:00
+        Started Run 3 @ 10:08:03
+        Running Interim Test Script @ 10:10:37  [Std. Dev: 9.79%]
+        Started Run 4 @ 10:10:40
+        Running Interim Test Script @ 10:13:27  [Std. Dev: 7.99%]
+        Started Run 5 @ 10:13:30
+        Running Interim Test Script @ 10:16:10  [Std. Dev: 7.17%]
+        Started Run 6 @ 10:16:13
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:19:22
+        Started Run 1 @ 10:20:00
+        Running Interim Test Script @ 10:22:38
+        Started Run 2 @ 10:22:41
+        Running Interim Test Script @ 10:25:15
+        Started Run 3 @ 10:25:17  [Std. Dev: 0.26%]
+        Running Post-Test Script @ 10:27:51
+
+    Test Results:
+        153.90891003609
+        153.46230697632
+        153.12381505966
+
+    Average: 153.50 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,17565,18075,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:27:54
+        Started Run 1 @ 10:28:31
+        Running Interim Test Script @ 10:31:11
+        Started Run 2 @ 10:31:13
+        Running Interim Test Script @ 10:33:50
+        Started Run 3 @ 10:33:52  [Std. Dev: 1.07%]
+        Running Post-Test Script @ 10:36:31
+
+    Test Results:
+        155.17927312851
+        156.09488797188
+        158.43293213844
+
+    Average: 156.57 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,18076,18595,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:36:34
+        Started Run 1 @ 10:37:11
+        Running Interim Test Script @ 10:39:50
+        Started Run 2 @ 10:39:52
+        Running Interim Test Script @ 10:42:34
+        Started Run 3 @ 10:42:37  [Std. Dev: 2.05%]
+        Running Post-Test Script @ 10:45:15
+
+    Test Results:
+        155.04400396347
+        161.51630806923
+        158.06007099152
+
+    Average: 158.21 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,18596,19119,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:45:18
+        Started Run 1 @ 10:45:59
+        Running Interim Test Script @ 10:48:42
+        Started Run 2 @ 10:48:45
+        Running Interim Test Script @ 10:51:17
+        Started Run 3 @ 10:51:21  [Std. Dev: 2.17%]
+        Running Post-Test Script @ 10:53:59
+
+    Test Results:
+        158.77636289597
+        152.6974670887
+        158.39727592468
+
+    Average: 156.62 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,19120,19644,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 10:54:02
+        Started Run 1 @ 10:54:37
+        Running Interim Test Script @ 10:57:18
+        Started Run 2 @ 10:57:21
+        Running Interim Test Script @ 10:59:55
+        Started Run 3 @ 10:59:58  [Std. Dev: 1.33%]
+        Running Post-Test Script @ 11:02:32
+
+    Test Results:
+        157.276252985
+        154.00790500641
+        153.48493099213
+
+    Average: 154.92 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,19645,20155,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:02:34
+        Started Run 1 @ 11:03:09
+        Running Interim Test Script @ 11:05:46
+        Started Run 2 @ 11:05:49
+        Running Interim Test Script @ 11:08:20
+        Started Run 3 @ 11:08:23  [Std. Dev: 1.07%]
+        Running Post-Test Script @ 11:10:54
+
+    Test Results:
+        153.48333287239
+        150.42099785805
+        151.0582678318
+
+    Average: 151.65 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mremap,2,20156,20658,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:10:57
+        Started Run 1 @ 11:11:32
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:15:28
+        Started Run 1 @ 11:16:12
+        Running Interim Test Script @ 11:18:53
+        Started Run 2 @ 11:18:56
+        Running Interim Test Script @ 11:21:30
+        Started Run 3 @ 11:21:33  [Std. Dev: 1.85%]
+        Running Post-Test Script @ 11:24:13
+
+    Test Results:
+        157.36160516739
+        153.9491250515
+        159.72886800766
+
+    Average: 157.01 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,20931,21459,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:24:17
+        Started Run 1 @ 11:25:08
+        Running Interim Test Script @ 11:28:09
+        Started Run 2 @ 11:28:12
+        Running Interim Test Script @ 11:31:00
+        Started Run 3 @ 11:31:03  [Std. Dev: 3.40%]
+        Running Post-Test Script @ 11:34:02
+
+[[]]head,write,5,92903,92903,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 6 Minutes
+        Running Pre-Test Script @ 08:58:44
+        Started Run 1 @ 08:59:24
+        Running Interim Test Script @ 09:01:58
+        Started Run 2 @ 09:02:01
+        Running Interim Test Script @ 09:04:31
+        Started Run 3 @ 09:04:34  [Std. Dev: 0.51%]
+        Running Post-Test Script @ 09:07:05
+
+    Test Results:
+        150.01126289368
+        149.51954889297
+        151.02090501785
+
+    Average: 150.18 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,12726,13230,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 9 Minutes
+        Running Pre-Test Script @ 09:07:08
+        Started Run 1 @ 09:07:43
+        Running Interim Test Script @ 09:10:19
+        Started Run 2 @ 09:10:22
+        Running Interim Test Script @ 09:12:53
+        Started Run 3 @ 09:12:55  [Std. Dev: 0.59%]
+        Running Post-Test Script @ 09:15:27
+
+    Test Results:
+        152.43917393684
+        150.67811107635
+        151.34813809395
+
+    Average: 151.49 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,13231,13731,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 9 Minutes
+        Running Pre-Test Script @ 09:15:30
+        Started Run 1 @ 09:16:04
+        Running Interim Test Script @ 09:18:38
+        Started Run 2 @ 09:18:42
+        Running Interim Test Script @ 09:21:24
+        Started Run 3 @ 09:21:28
+        Running Interim Test Script @ 09:25:01  [Std. Dev: 19.05%]
+        Started Run 4 @ 09:25:05
+        Running Interim Test Script @ 09:28:52  [Std. Dev: 20.00%]
+        Started Run 5 @ 09:28:56
+        Running Interim Test Script @ 09:32:37  [Std. Dev: 18.38%]
+        Started Run 6 @ 09:32:41  [Std. Dev: 16.68%]
+        Running Post-Test Script @ 09:36:16
+
+    Test Results:
+        150.37306904793
+        162.80172514915
+        213.51976394653
+        227.55150699615
+        221.7828040123
+        215.17424798012
+
+    Average: 198.53 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,13732,14980,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 13 Minutes
+        Running Pre-Test Script @ 09:44:37
+        Started Run 1 @ 09:45:14
+        Running Interim Test Script @ 09:47:57
+        Started Run 2 @ 09:47:59
+        Running Interim Test Script @ 09:50:37
+        Started Run 3 @ 09:50:40  [Std. Dev: 2.01%]
+        Running Post-Test Script @ 09:53:12
+
+    Test Results:
+        158.05047488213
+        157.23984694481
+        152.27415204048
+
+    Average: 155.85 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,15479,15996,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 12 Minutes
+        Running Pre-Test Script @ 09:53:15
+        Started Run 1 @ 09:53:48
+        Running Interim Test Script @ 09:56:24
+        Started Run 2 @ 09:56:27
+        Running Interim Test Script @ 09:58:59
+        Started Run 3 @ 09:59:01  [Std. Dev: 0.50%]
+        Running Post-Test Script @ 10:01:34
+
+    Test Results:
+        152.09234786034
+        151.4102499485
+        152.93997812271
+
+    Average: 152.15 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,15997,16498,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:01:37
+        Started Run 1 @ 10:02:11
+        Running Interim Test Script @ 10:05:20
+        Started Run 2 @ 10:05:22
+        Running Interim Test Script @ 10:08:00
+        Started Run 3 @ 10:08:03
+        Running Interim Test Script @ 10:10:37  [Std. Dev: 9.79%]
+        Started Run 4 @ 10:10:40
+        Running Interim Test Script @ 10:13:27  [Std. Dev: 7.99%]
+        Started Run 5 @ 10:13:30
+        Running Interim Test Script @ 10:16:10  [Std. Dev: 7.17%]
+        Started Run 6 @ 10:16:13
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:19:22
+        Started Run 1 @ 10:20:00
+        Running Interim Test Script @ 10:22:38
+        Started Run 2 @ 10:22:41
+        Running Interim Test Script @ 10:25:15
+        Started Run 3 @ 10:25:17  [Std. Dev: 0.26%]
+        Running Post-Test Script @ 10:27:51
+
+    Test Results:
+        153.90891003609
+        153.46230697632
+        153.12381505966
+
+    Average: 153.50 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,17565,18075,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:27:54
+        Started Run 1 @ 10:28:31
+        Running Interim Test Script @ 10:31:11
+        Started Run 2 @ 10:31:13
+        Running Interim Test Script @ 10:33:50
+        Started Run 3 @ 10:33:52  [Std. Dev: 1.07%]
+        Running Post-Test Script @ 10:36:31
+
+    Test Results:
+        155.17927312851
+        156.09488797188
+        158.43293213844
+
+    Average: 156.57 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,18076,18595,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:36:34
+        Started Run 1 @ 10:37:11
+        Running Interim Test Script @ 10:39:50
+        Started Run 2 @ 10:39:52
+        Running Interim Test Script @ 10:42:34
+        Started Run 3 @ 10:42:37  [Std. Dev: 2.05%]
+        Running Post-Test Script @ 10:45:15
+
+    Test Results:
+        155.04400396347
+        161.51630806923
+        158.06007099152
+
+    Average: 158.21 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,18596,19119,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:45:18
+        Started Run 1 @ 10:45:59
+        Running Interim Test Script @ 10:48:42
+        Started Run 2 @ 10:48:45
+        Running Interim Test Script @ 10:51:17
+        Started Run 3 @ 10:51:21  [Std. Dev: 2.17%]
+        Running Post-Test Script @ 10:53:59
+
+    Test Results:
+        158.77636289597
+        152.6974670887
+        158.39727592468
+
+    Average: 156.62 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,19120,19644,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 10:54:02
+        Started Run 1 @ 10:54:37
+        Running Interim Test Script @ 10:57:18
+        Started Run 2 @ 10:57:21
+        Running Interim Test Script @ 10:59:55
+        Started Run 3 @ 10:59:58  [Std. Dev: 1.33%]
+        Running Post-Test Script @ 11:02:32
+
+    Test Results:
+        157.276252985
+        154.00790500641
+        153.48493099213
+
+    Average: 154.92 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,19645,20155,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:02:34
+        Started Run 1 @ 11:03:09
+        Running Interim Test Script @ 11:05:46
+        Started Run 2 @ 11:05:49
+        Running Interim Test Script @ 11:08:20
+        Started Run 3 @ 11:08:23  [Std. Dev: 1.07%]
+        Running Post-Test Script @ 11:10:54
+
+    Test Results:
+        153.48333287239
+        150.42099785805
+        151.0582678318
+
+    Average: 151.65 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mremap,2,20156,20658,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:10:57
+        Started Run 1 @ 11:11:32
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:15:28
+        Started Run 1 @ 11:16:12
+        Running Interim Test Script @ 11:18:53
+        Started Run 2 @ 11:18:56
+        Running Interim Test Script @ 11:21:30
+        Started Run 3 @ 11:21:33  [Std. Dev: 1.85%]
+        Running Post-Test Script @ 11:24:13
+
+    Test Results:
+        157.36160516739
+        153.9491250515
+        159.72886800766
+
+    Average: 157.01 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,20931,21459,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:24:17
+        Started Run 1 @ 11:25:08
+        Running Interim Test Script @ 11:28:09
+        Started Run 2 @ 11:28:12
+        Running Interim Test Script @ 11:31:00
+        Started Run 3 @ 11:31:03  [Std. Dev: 3.40%]
+        Running Post-Test Script @ 11:34:02
+
+[[]]head,read,5,92903,92903,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 6 Minutes
+        Running Pre-Test Script @ 08:58:44
+        Started Run 1 @ 08:59:24
+        Running Interim Test Script @ 09:01:58
+        Started Run 2 @ 09:02:01
+        Running Interim Test Script @ 09:04:31
+        Started Run 3 @ 09:04:34  [Std. Dev: 0.51%]
+        Running Post-Test Script @ 09:07:05
+
+    Test Results:
+        150.01126289368
+        149.51954889297
+        151.02090501785
+
+    Average: 150.18 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,12726,13230,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 9 Minutes
+        Running Pre-Test Script @ 09:07:08
+        Started Run 1 @ 09:07:43
+        Running Interim Test Script @ 09:10:19
+        Started Run 2 @ 09:10:22
+        Running Interim Test Script @ 09:12:53
+        Started Run 3 @ 09:12:55  [Std. Dev: 0.59%]
+        Running Post-Test Script @ 09:15:27
+
+    Test Results:
+        152.43917393684
+        150.67811107635
+        151.34813809395
+
+    Average: 151.49 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,13231,13731,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 9 Minutes
+        Running Pre-Test Script @ 09:15:30
+        Started Run 1 @ 09:16:04
+        Running Interim Test Script @ 09:18:38
+        Started Run 2 @ 09:18:42
+        Running Interim Test Script @ 09:21:24
+        Started Run 3 @ 09:21:28
+        Running Interim Test Script @ 09:25:01  [Std. Dev: 19.05%]
+        Started Run 4 @ 09:25:05
+        Running Interim Test Script @ 09:28:52  [Std. Dev: 20.00%]
+        Started Run 5 @ 09:28:56
+        Running Interim Test Script @ 09:32:37  [Std. Dev: 18.38%]
+        Started Run 6 @ 09:32:41  [Std. Dev: 16.68%]
+        Running Post-Test Script @ 09:36:16
+
+    Test Results:
+        150.37306904793
+        162.80172514915
+        213.51976394653
+        227.55150699615
+        221.7828040123
+        215.17424798012
+
+    Average: 198.53 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,13732,14980,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 13 Minutes
+        Running Pre-Test Script @ 09:44:37
+        Started Run 1 @ 09:45:14
+        Running Interim Test Script @ 09:47:57
+        Started Run 2 @ 09:47:59
+        Running Interim Test Script @ 09:50:37
+        Started Run 3 @ 09:50:40  [Std. Dev: 2.01%]
+        Running Post-Test Script @ 09:53:12
+
+    Test Results:
+        158.05047488213
+        157.23984694481
+        152.27415204048
+
+    Average: 155.85 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,15479,15996,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 12 Minutes
+        Running Pre-Test Script @ 09:53:15
+        Started Run 1 @ 09:53:48
+        Running Interim Test Script @ 09:56:24
+        Started Run 2 @ 09:56:27
+        Running Interim Test Script @ 09:58:59
+        Started Run 3 @ 09:59:01  [Std. Dev: 0.50%]
+        Running Post-Test Script @ 10:01:34
+
+    Test Results:
+        152.09234786034
+        151.4102499485
+        152.93997812271
+
+    Average: 152.15 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,15997,16498,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:01:37
+        Started Run 1 @ 10:02:11
+        Running Interim Test Script @ 10:05:20
+        Started Run 2 @ 10:05:22
+        Running Interim Test Script @ 10:08:00
+        Started Run 3 @ 10:08:03
+        Running Interim Test Script @ 10:10:37  [Std. Dev: 9.79%]
+        Started Run 4 @ 10:10:40
+        Running Interim Test Script @ 10:13:27  [Std. Dev: 7.99%]
+        Started Run 5 @ 10:13:30
+        Running Interim Test Script @ 10:16:10  [Std. Dev: 7.17%]
+        Started Run 6 @ 10:16:13
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:19:22
+        Started Run 1 @ 10:20:00
+        Running Interim Test Script @ 10:22:38
+        Started Run 2 @ 10:22:41
+        Running Interim Test Script @ 10:25:15
+        Started Run 3 @ 10:25:17  [Std. Dev: 0.26%]
+        Running Post-Test Script @ 10:27:51
+
+    Test Results:
+        153.90891003609
+        153.46230697632
+        153.12381505966
+
+    Average: 153.50 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,17565,18075,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:27:54
+        Started Run 1 @ 10:28:31
+        Running Interim Test Script @ 10:31:11
+        Started Run 2 @ 10:31:13
+        Running Interim Test Script @ 10:33:50
+        Started Run 3 @ 10:33:52  [Std. Dev: 1.07%]
+        Running Post-Test Script @ 10:36:31
+
+    Test Results:
+        155.17927312851
+        156.09488797188
+        158.43293213844
+
+    Average: 156.57 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,18076,18595,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:36:34
+        Started Run 1 @ 10:37:11
+        Running Interim Test Script @ 10:39:50
+        Started Run 2 @ 10:39:52
+        Running Interim Test Script @ 10:42:34
+        Started Run 3 @ 10:42:37  [Std. Dev: 2.05%]
+        Running Post-Test Script @ 10:45:15
+
+    Test Results:
+        155.04400396347
+        161.51630806923
+        158.06007099152
+
+    Average: 158.21 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,18596,19119,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:45:18
+        Started Run 1 @ 10:45:59
+        Running Interim Test Script @ 10:48:42
+        Started Run 2 @ 10:48:45
+        Running Interim Test Script @ 10:51:17
+        Started Run 3 @ 10:51:21  [Std. Dev: 2.17%]
+        Running Post-Test Script @ 10:53:59
+
+    Test Results:
+        158.77636289597
+        152.6974670887
+        158.39727592468
+
+    Average: 156.62 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,19120,19644,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 10:54:02
+        Started Run 1 @ 10:54:37
+        Running Interim Test Script @ 10:57:18
+        Started Run 2 @ 10:57:21
+        Running Interim Test Script @ 10:59:55
+        Started Run 3 @ 10:59:58  [Std. Dev: 1.33%]
+        Running Post-Test Script @ 11:02:32
+
+    Test Results:
+        157.276252985
+        154.00790500641
+        153.48493099213
+
+    Average: 154.92 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,19645,20155,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:02:34
+        Started Run 1 @ 11:03:09
+        Running Interim Test Script @ 11:05:46
+        Started Run 2 @ 11:05:49
+        Running Interim Test Script @ 11:08:20
+        Started Run 3 @ 11:08:23  [Std. Dev: 1.07%]
+        Running Post-Test Script @ 11:10:54
+
+    Test Results:
+        153.48333287239
+        150.42099785805
+        151.0582678318
+
+    Average: 151.65 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mremap,2,20156,20658,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:10:57
+        Started Run 1 @ 11:11:32
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:15:28
+        Started Run 1 @ 11:16:12
+        Running Interim Test Script @ 11:18:53
+        Started Run 2 @ 11:18:56
+        Running Interim Test Script @ 11:21:30
+        Started Run 3 @ 11:21:33  [Std. Dev: 1.85%]
+        Running Post-Test Script @ 11:24:13
+
+    Test Results:
+        157.36160516739
+        153.9491250515
+        159.72886800766
+
+    Average: 157.01 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,20931,21459,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:24:17
+        Started Run 1 @ 11:25:08
+        Running Interim Test Script @ 11:28:09
+        Started Run 2 @ 11:28:12
+        Running Interim Test Script @ 11:31:00
+        Started Run 3 @ 11:31:03  [Std. Dev: 3.40%]
+        Running Post-Test Script @ 11:34:02
+
+[[]]head,write,6,92903,92903,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 6 Minutes
+        Running Pre-Test Script @ 08:58:44
+        Started Run 1 @ 08:59:24
+        Running Interim Test Script @ 09:01:58
+        Started Run 2 @ 09:02:01
+        Running Interim Test Script @ 09:04:31
+        Started Run 3 @ 09:04:34  [Std. Dev: 0.51%]
+        Running Post-Test Script @ 09:07:05
+
+    Test Results:
+        150.01126289368
+        149.51954889297
+        151.02090501785
+
+    Average: 150.18 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,12726,13230,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 9 Minutes
+        Running Pre-Test Script @ 09:07:08
+        Started Run 1 @ 09:07:43
+        Running Interim Test Script @ 09:10:19
+        Started Run 2 @ 09:10:22
+        Running Interim Test Script @ 09:12:53
+        Started Run 3 @ 09:12:55  [Std. Dev: 0.59%]
+        Running Post-Test Script @ 09:15:27
+
+    Test Results:
+        152.43917393684
+        150.67811107635
+        151.34813809395
+
+    Average: 151.49 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,13231,13731,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 9 Minutes
+        Running Pre-Test Script @ 09:15:30
+        Started Run 1 @ 09:16:04
+        Running Interim Test Script @ 09:18:38
+        Started Run 2 @ 09:18:42
+        Running Interim Test Script @ 09:21:24
+        Started Run 3 @ 09:21:28
+        Running Interim Test Script @ 09:25:01  [Std. Dev: 19.05%]
+        Started Run 4 @ 09:25:05
+        Running Interim Test Script @ 09:28:52  [Std. Dev: 20.00%]
+        Started Run 5 @ 09:28:56
+        Running Interim Test Script @ 09:32:37  [Std. Dev: 18.38%]
+        Started Run 6 @ 09:32:41  [Std. Dev: 16.68%]
+        Running Post-Test Script @ 09:36:16
+
+    Test Results:
+        150.37306904793
+        162.80172514915
+        213.51976394653
+        227.55150699615
+        221.7828040123
+        215.17424798012
+
+    Average: 198.53 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,13732,14980,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 13 Minutes
+        Running Pre-Test Script @ 09:44:37
+        Started Run 1 @ 09:45:14
+        Running Interim Test Script @ 09:47:57
+        Started Run 2 @ 09:47:59
+        Running Interim Test Script @ 09:50:37
+        Started Run 3 @ 09:50:40  [Std. Dev: 2.01%]
+        Running Post-Test Script @ 09:53:12
+
+    Test Results:
+        158.05047488213
+        157.23984694481
+        152.27415204048
+
+    Average: 155.85 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,15479,15996,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 12 Minutes
+        Running Pre-Test Script @ 09:53:15
+        Started Run 1 @ 09:53:48
+        Running Interim Test Script @ 09:56:24
+        Started Run 2 @ 09:56:27
+        Running Interim Test Script @ 09:58:59
+        Started Run 3 @ 09:59:01  [Std. Dev: 0.50%]
+        Running Post-Test Script @ 10:01:34
+
+    Test Results:
+        152.09234786034
+        151.4102499485
+        152.93997812271
+
+    Average: 152.15 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,15997,16498,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:01:37
+        Started Run 1 @ 10:02:11
+        Running Interim Test Script @ 10:05:20
+        Started Run 2 @ 10:05:22
+        Running Interim Test Script @ 10:08:00
+        Started Run 3 @ 10:08:03
+        Running Interim Test Script @ 10:10:37  [Std. Dev: 9.79%]
+        Started Run 4 @ 10:10:40
+        Running Interim Test Script @ 10:13:27  [Std. Dev: 7.99%]
+        Started Run 5 @ 10:13:30
+        Running Interim Test Script @ 10:16:10  [Std. Dev: 7.17%]
+        Started Run 6 @ 10:16:13
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:19:22
+        Started Run 1 @ 10:20:00
+        Running Interim Test Script @ 10:22:38
+        Started Run 2 @ 10:22:41
+        Running Interim Test Script @ 10:25:15
+        Started Run 3 @ 10:25:17  [Std. Dev: 0.26%]
+        Running Post-Test Script @ 10:27:51
+
+    Test Results:
+        153.90891003609
+        153.46230697632
+        153.12381505966
+
+    Average: 153.50 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,17565,18075,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:27:54
+        Started Run 1 @ 10:28:31
+        Running Interim Test Script @ 10:31:11
+        Started Run 2 @ 10:31:13
+        Running Interim Test Script @ 10:33:50
+        Started Run 3 @ 10:33:52  [Std. Dev: 1.07%]
+        Running Post-Test Script @ 10:36:31
+
+    Test Results:
+        155.17927312851
+        156.09488797188
+        158.43293213844
+
+    Average: 156.57 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,18076,18595,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:36:34
+        Started Run 1 @ 10:37:11
+        Running Interim Test Script @ 10:39:50
+        Started Run 2 @ 10:39:52
+        Running Interim Test Script @ 10:42:34
+        Started Run 3 @ 10:42:37  [Std. Dev: 2.05%]
+        Running Post-Test Script @ 10:45:15
+
+    Test Results:
+        155.04400396347
+        161.51630806923
+        158.06007099152
+
+    Average: 158.21 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,18596,19119,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:45:18
+        Started Run 1 @ 10:45:59
+        Running Interim Test Script @ 10:48:42
+        Started Run 2 @ 10:48:45
+        Running Interim Test Script @ 10:51:17
+        Started Run 3 @ 10:51:21  [Std. Dev: 2.17%]
+        Running Post-Test Script @ 10:53:59
+
+    Test Results:
+        158.77636289597
+        152.6974670887
+        158.39727592468
+
+    Average: 156.62 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,19120,19644,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 10:54:02
+        Started Run 1 @ 10:54:37
+        Running Interim Test Script @ 10:57:18
+        Started Run 2 @ 10:57:21
+        Running Interim Test Script @ 10:59:55
+        Started Run 3 @ 10:59:58  [Std. Dev: 1.33%]
+        Running Post-Test Script @ 11:02:32
+
+    Test Results:
+        157.276252985
+        154.00790500641
+        153.48493099213
+
+    Average: 154.92 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,19645,20155,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:02:34
+        Started Run 1 @ 11:03:09
+        Running Interim Test Script @ 11:05:46
+        Started Run 2 @ 11:05:49
+        Running Interim Test Script @ 11:08:20
+        Started Run 3 @ 11:08:23  [Std. Dev: 1.07%]
+        Running Post-Test Script @ 11:10:54
+
+    Test Results:
+        153.48333287239
+        150.42099785805
+        151.0582678318
+
+    Average: 151.65 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mremap,2,20156,20658,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:10:57
+        Started Run 1 @ 11:11:32
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:15:28
+        Started Run 1 @ 11:16:12
+        Running Interim Test Script @ 11:18:53
+        Started Run 2 @ 11:18:56
+        Running Interim Test Script @ 11:21:30
+        Started Run 3 @ 11:21:33  [Std. Dev: 1.85%]
+        Running Post-Test Script @ 11:24:13
+
+    Test Results:
+        157.36160516739
+        153.9491250515
+        159.72886800766
+
+    Average: 157.01 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,20931,21459,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:24:17
+        Started Run 1 @ 11:25:08
+        Running Interim Test Script @ 11:28:09
+        Started Run 2 @ 11:28:12
+        Running Interim Test Script @ 11:31:00
+        Started Run 3 @ 11:31:03  [Std. Dev: 3.40%]
+        Running Post-Test Script @ 11:34:02
+
+[[]]head,read,6,92903,92903,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 6 Minutes
+        Running Pre-Test Script @ 08:58:44
+        Started Run 1 @ 08:59:24
+        Running Interim Test Script @ 09:01:58
+        Started Run 2 @ 09:02:01
+        Running Interim Test Script @ 09:04:31
+        Started Run 3 @ 09:04:34  [Std. Dev: 0.51%]
+        Running Post-Test Script @ 09:07:05
+
+    Test Results:
+        150.01126289368
+        149.51954889297
+        151.02090501785
+
+    Average: 150.18 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,12726,13230,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 9 Minutes
+        Running Pre-Test Script @ 09:07:08
+        Started Run 1 @ 09:07:43
+        Running Interim Test Script @ 09:10:19
+        Started Run 2 @ 09:10:22
+        Running Interim Test Script @ 09:12:53
+        Started Run 3 @ 09:12:55  [Std. Dev: 0.59%]
+        Running Post-Test Script @ 09:15:27
+
+    Test Results:
+        152.43917393684
+        150.67811107635
+        151.34813809395
+
+    Average: 151.49 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,13231,13731,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 9 Minutes
+        Running Pre-Test Script @ 09:15:30
+        Started Run 1 @ 09:16:04
+        Running Interim Test Script @ 09:18:38
+        Started Run 2 @ 09:18:42
+        Running Interim Test Script @ 09:21:24
+        Started Run 3 @ 09:21:28
+        Running Interim Test Script @ 09:25:01  [Std. Dev: 19.05%]
+        Started Run 4 @ 09:25:05
+        Running Interim Test Script @ 09:28:52  [Std. Dev: 20.00%]
+        Started Run 5 @ 09:28:56
+        Running Interim Test Script @ 09:32:37  [Std. Dev: 18.38%]
+        Started Run 6 @ 09:32:41  [Std. Dev: 16.68%]
+        Running Post-Test Script @ 09:36:16
+
+    Test Results:
+        150.37306904793
+        162.80172514915
+        213.51976394653
+        227.55150699615
+        221.7828040123
+        215.17424798012
+
+    Average: 198.53 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,13732,14980,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 13 Minutes
+        Running Pre-Test Script @ 09:44:37
+        Started Run 1 @ 09:45:14
+        Running Interim Test Script @ 09:47:57
+        Started Run 2 @ 09:47:59
+        Running Interim Test Script @ 09:50:37
+        Started Run 3 @ 09:50:40  [Std. Dev: 2.01%]
+        Running Post-Test Script @ 09:53:12
+
+    Test Results:
+        158.05047488213
+        157.23984694481
+        152.27415204048
+
+    Average: 155.85 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,15479,15996,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 12 Minutes
+        Running Pre-Test Script @ 09:53:15
+        Started Run 1 @ 09:53:48
+        Running Interim Test Script @ 09:56:24
+        Started Run 2 @ 09:56:27
+        Running Interim Test Script @ 09:58:59
+        Started Run 3 @ 09:59:01  [Std. Dev: 0.50%]
+        Running Post-Test Script @ 10:01:34
+
+    Test Results:
+        152.09234786034
+        151.4102499485
+        152.93997812271
+
+    Average: 152.15 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,15997,16498,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:01:37
+        Started Run 1 @ 10:02:11
+        Running Interim Test Script @ 10:05:20
+        Started Run 2 @ 10:05:22
+        Running Interim Test Script @ 10:08:00
+        Started Run 3 @ 10:08:03
+        Running Interim Test Script @ 10:10:37  [Std. Dev: 9.79%]
+        Started Run 4 @ 10:10:40
+        Running Interim Test Script @ 10:13:27  [Std. Dev: 7.99%]
+        Started Run 5 @ 10:13:30
+        Running Interim Test Script @ 10:16:10  [Std. Dev: 7.17%]
+        Started Run 6 @ 10:16:13
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:19:22
+        Started Run 1 @ 10:20:00
+        Running Interim Test Script @ 10:22:38
+        Started Run 2 @ 10:22:41
+        Running Interim Test Script @ 10:25:15
+        Started Run 3 @ 10:25:17  [Std. Dev: 0.26%]
+        Running Post-Test Script @ 10:27:51
+
+    Test Results:
+        153.90891003609
+        153.46230697632
+        153.12381505966
+
+    Average: 153.50 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,17565,18075,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:27:54
+        Started Run 1 @ 10:28:31
+        Running Interim Test Script @ 10:31:11
+        Started Run 2 @ 10:31:13
+        Running Interim Test Script @ 10:33:50
+        Started Run 3 @ 10:33:52  [Std. Dev: 1.07%]
+        Running Post-Test Script @ 10:36:31
+
+    Test Results:
+        155.17927312851
+        156.09488797188
+        158.43293213844
+
+    Average: 156.57 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,18076,18595,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:36:34
+        Started Run 1 @ 10:37:11
+        Running Interim Test Script @ 10:39:50
+        Started Run 2 @ 10:39:52
+        Running Interim Test Script @ 10:42:34
+        Started Run 3 @ 10:42:37  [Std. Dev: 2.05%]
+        Running Post-Test Script @ 10:45:15
+
+    Test Results:
+        155.04400396347
+        161.51630806923
+        158.06007099152
+
+    Average: 158.21 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,18596,19119,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:45:18
+        Started Run 1 @ 10:45:59
+        Running Interim Test Script @ 10:48:42
+        Started Run 2 @ 10:48:45
+        Running Interim Test Script @ 10:51:17
+        Started Run 3 @ 10:51:21  [Std. Dev: 2.17%]
+        Running Post-Test Script @ 10:53:59
+
+    Test Results:
+        158.77636289597
+        152.6974670887
+        158.39727592468
+
+    Average: 156.62 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,19120,19644,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 10:54:02
+        Started Run 1 @ 10:54:37
+        Running Interim Test Script @ 10:57:18
+        Started Run 2 @ 10:57:21
+        Running Interim Test Script @ 10:59:55
+        Started Run 3 @ 10:59:58  [Std. Dev: 1.33%]
+        Running Post-Test Script @ 11:02:32
+
+    Test Results:
+        157.276252985
+        154.00790500641
+        153.48493099213
+
+    Average: 154.92 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,19645,20155,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:02:34
+        Started Run 1 @ 11:03:09
+        Running Interim Test Script @ 11:05:46
+        Started Run 2 @ 11:05:49
+        Running Interim Test Script @ 11:08:20
+        Started Run 3 @ 11:08:23  [Std. Dev: 1.07%]
+        Running Post-Test Script @ 11:10:54
+
+    Test Results:
+        153.48333287239
+        150.42099785805
+        151.0582678318
+
+    Average: 151.65 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mremap,2,20156,20658,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:10:57
+        Started Run 1 @ 11:11:32
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:15:28
+        Started Run 1 @ 11:16:12
+        Running Interim Test Script @ 11:18:53
+        Started Run 2 @ 11:18:56
+        Running Interim Test Script @ 11:21:30
+        Started Run 3 @ 11:21:33  [Std. Dev: 1.85%]
+        Running Post-Test Script @ 11:24:13
+
+    Test Results:
+        157.36160516739
+        153.9491250515
+        159.72886800766
+
+    Average: 157.01 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,20931,21459,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:24:17
+        Started Run 1 @ 11:25:08
+        Running Interim Test Script @ 11:28:09
+        Started Run 2 @ 11:28:12
+        Running Interim Test Script @ 11:31:00
+        Started Run 3 @ 11:31:03  [Std. Dev: 3.40%]
+        Running Post-Test Script @ 11:34:02
+
+[[]]head,access,7,92903,92903,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 6 Minutes
+        Running Pre-Test Script @ 08:58:44
+        Started Run 1 @ 08:59:24
+        Running Interim Test Script @ 09:01:58
+        Started Run 2 @ 09:02:01
+        Running Interim Test Script @ 09:04:31
+        Started Run 3 @ 09:04:34  [Std. Dev: 0.51%]
+        Running Post-Test Script @ 09:07:05
+
+    Test Results:
+        150.01126289368
+        149.51954889297
+        151.02090501785
+
+    Average: 150.18 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,12726,13230,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 9 Minutes
+        Running Pre-Test Script @ 09:07:08
+        Started Run 1 @ 09:07:43
+        Running Interim Test Script @ 09:10:19
+        Started Run 2 @ 09:10:22
+        Running Interim Test Script @ 09:12:53
+        Started Run 3 @ 09:12:55  [Std. Dev: 0.59%]
+        Running Post-Test Script @ 09:15:27
+
+    Test Results:
+        152.43917393684
+        150.67811107635
+        151.34813809395
+
+    Average: 151.49 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,13231,13731,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 9 Minutes
+        Running Pre-Test Script @ 09:15:30
+        Started Run 1 @ 09:16:04
+        Running Interim Test Script @ 09:18:38
+        Started Run 2 @ 09:18:42
+        Running Interim Test Script @ 09:21:24
+        Started Run 3 @ 09:21:28
+        Running Interim Test Script @ 09:25:01  [Std. Dev: 19.05%]
+        Started Run 4 @ 09:25:05
+        Running Interim Test Script @ 09:28:52  [Std. Dev: 20.00%]
+        Started Run 5 @ 09:28:56
+        Running Interim Test Script @ 09:32:37  [Std. Dev: 18.38%]
+        Started Run 6 @ 09:32:41  [Std. Dev: 16.68%]
+        Running Post-Test Script @ 09:36:16
+
+    Test Results:
+        150.37306904793
+        162.80172514915
+        213.51976394653
+        227.55150699615
+        221.7828040123
+        215.17424798012
+
+    Average: 198.53 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,13732,14980,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 13 Minutes
+        Running Pre-Test Script @ 09:44:37
+        Started Run 1 @ 09:45:14
+        Running Interim Test Script @ 09:47:57
+        Started Run 2 @ 09:47:59
+        Running Interim Test Script @ 09:50:37
+        Started Run 3 @ 09:50:40  [Std. Dev: 2.01%]
+        Running Post-Test Script @ 09:53:12
+
+    Test Results:
+        158.05047488213
+        157.23984694481
+        152.27415204048
+
+    Average: 155.85 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,15479,15996,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 12 Minutes
+        Running Pre-Test Script @ 09:53:15
+        Started Run 1 @ 09:53:48
+        Running Interim Test Script @ 09:56:24
+        Started Run 2 @ 09:56:27
+        Running Interim Test Script @ 09:58:59
+        Started Run 3 @ 09:59:01  [Std. Dev: 0.50%]
+        Running Post-Test Script @ 10:01:34
+
+    Test Results:
+        152.09234786034
+        151.4102499485
+        152.93997812271
+
+    Average: 152.15 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,15997,16498,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:01:37
+        Started Run 1 @ 10:02:11
+        Running Interim Test Script @ 10:05:20
+        Started Run 2 @ 10:05:22
+        Running Interim Test Script @ 10:08:00
+        Started Run 3 @ 10:08:03
+        Running Interim Test Script @ 10:10:37  [Std. Dev: 9.79%]
+        Started Run 4 @ 10:10:40
+        Running Interim Test Script @ 10:13:27  [Std. Dev: 7.99%]
+        Started Run 5 @ 10:13:30
+        Running Interim Test Script @ 10:16:10  [Std. Dev: 7.17%]
+        Started Run 6 @ 10:16:13
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:19:22
+        Started Run 1 @ 10:20:00
+        Running Interim Test Script @ 10:22:38
+        Started Run 2 @ 10:22:41
+        Running Interim Test Script @ 10:25:15
+        Started Run 3 @ 10:25:17  [Std. Dev: 0.26%]
+        Running Post-Test Script @ 10:27:51
+
+    Test Results:
+        153.90891003609
+        153.46230697632
+        153.12381505966
+
+    Average: 153.50 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,17565,18075,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:27:54
+        Started Run 1 @ 10:28:31
+        Running Interim Test Script @ 10:31:11
+        Started Run 2 @ 10:31:13
+        Running Interim Test Script @ 10:33:50
+        Started Run 3 @ 10:33:52  [Std. Dev: 1.07%]
+        Running Post-Test Script @ 10:36:31
+
+    Test Results:
+        155.17927312851
+        156.09488797188
+        158.43293213844
+
+    Average: 156.57 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,18076,18595,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:36:34
+        Started Run 1 @ 10:37:11
+        Running Interim Test Script @ 10:39:50
+        Started Run 2 @ 10:39:52
+        Running Interim Test Script @ 10:42:34
+        Started Run 3 @ 10:42:37  [Std. Dev: 2.05%]
+        Running Post-Test Script @ 10:45:15
+
+    Test Results:
+        155.04400396347
+        161.51630806923
+        158.06007099152
+
+    Average: 158.21 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,18596,19119,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:45:18
+        Started Run 1 @ 10:45:59
+        Running Interim Test Script @ 10:48:42
+        Started Run 2 @ 10:48:45
+        Running Interim Test Script @ 10:51:17
+        Started Run 3 @ 10:51:21  [Std. Dev: 2.17%]
+        Running Post-Test Script @ 10:53:59
+
+    Test Results:
+        158.77636289597
+        152.6974670887
+        158.39727592468
+
+    Average: 156.62 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,19120,19644,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 10:54:02
+        Started Run 1 @ 10:54:37
+        Running Interim Test Script @ 10:57:18
+        Started Run 2 @ 10:57:21
+        Running Interim Test Script @ 10:59:55
+        Started Run 3 @ 10:59:58  [Std. Dev: 1.33%]
+        Running Post-Test Script @ 11:02:32
+
+    Test Results:
+        157.276252985
+        154.00790500641
+        153.48493099213
+
+    Average: 154.92 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,19645,20155,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:02:34
+        Started Run 1 @ 11:03:09
+        Running Interim Test Script @ 11:05:46
+        Started Run 2 @ 11:05:49
+        Running Interim Test Script @ 11:08:20
+        Started Run 3 @ 11:08:23  [Std. Dev: 1.07%]
+        Running Post-Test Script @ 11:10:54
+
+    Test Results:
+        153.48333287239
+        150.42099785805
+        151.0582678318
+
+    Average: 151.65 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mremap,2,20156,20658,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:10:57
+        Started Run 1 @ 11:11:32
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:15:28
+        Started Run 1 @ 11:16:12
+        Running Interim Test Script @ 11:18:53
+        Started Run 2 @ 11:18:56
+        Running Interim Test Script @ 11:21:30
+        Started Run 3 @ 11:21:33  [Std. Dev: 1.85%]
+        Running Post-Test Script @ 11:24:13
+
+    Test Results:
+        157.36160516739
+        153.9491250515
+        159.72886800766
+
+    Average: 157.01 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,20931,21459,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:24:17
+        Started Run 1 @ 11:25:08
+        Running Interim Test Script @ 11:28:09
+        Started Run 2 @ 11:28:12
+        Running Interim Test Script @ 11:31:00
+        Started Run 3 @ 11:31:03  [Std. Dev: 3.40%]
+        Running Post-Test Script @ 11:34:02
+
+[[]]head,write,8,92903,92903,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 6 Minutes
+        Running Pre-Test Script @ 08:58:44
+        Started Run 1 @ 08:59:24
+        Running Interim Test Script @ 09:01:58
+        Started Run 2 @ 09:02:01
+        Running Interim Test Script @ 09:04:31
+        Started Run 3 @ 09:04:34  [Std. Dev: 0.51%]
+        Running Post-Test Script @ 09:07:05
+
+    Test Results:
+        150.01126289368
+        149.51954889297
+        151.02090501785
+
+    Average: 150.18 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,12726,13230,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 9 Minutes
+        Running Pre-Test Script @ 09:07:08
+        Started Run 1 @ 09:07:43
+        Running Interim Test Script @ 09:10:19
+        Started Run 2 @ 09:10:22
+        Running Interim Test Script @ 09:12:53
+        Started Run 3 @ 09:12:55  [Std. Dev: 0.59%]
+        Running Post-Test Script @ 09:15:27
+
+    Test Results:
+        152.43917393684
+        150.67811107635
+        151.34813809395
+
+    Average: 151.49 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,13231,13731,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 9 Minutes
+        Running Pre-Test Script @ 09:15:30
+        Started Run 1 @ 09:16:04
+        Running Interim Test Script @ 09:18:38
+        Started Run 2 @ 09:18:42
+        Running Interim Test Script @ 09:21:24
+        Started Run 3 @ 09:21:28
+        Running Interim Test Script @ 09:25:01  [Std. Dev: 19.05%]
+        Started Run 4 @ 09:25:05
+        Running Interim Test Script @ 09:28:52  [Std. Dev: 20.00%]
+        Started Run 5 @ 09:28:56
+        Running Interim Test Script @ 09:32:37  [Std. Dev: 18.38%]
+        Started Run 6 @ 09:32:41  [Std. Dev: 16.68%]
+        Running Post-Test Script @ 09:36:16
+
+    Test Results:
+        150.37306904793
+        162.80172514915
+        213.51976394653
+        227.55150699615
+        221.7828040123
+        215.17424798012
+
+    Average: 198.53 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,13732,14980,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 13 Minutes
+        Running Pre-Test Script @ 09:44:37
+        Started Run 1 @ 09:45:14
+        Running Interim Test Script @ 09:47:57
+        Started Run 2 @ 09:47:59
+        Running Interim Test Script @ 09:50:37
+        Started Run 3 @ 09:50:40  [Std. Dev: 2.01%]
+        Running Post-Test Script @ 09:53:12
+
+    Test Results:
+        158.05047488213
+        157.23984694481
+        152.27415204048
+
+    Average: 155.85 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,15479,15996,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 12 Minutes
+        Running Pre-Test Script @ 09:53:15
+        Started Run 1 @ 09:53:48
+        Running Interim Test Script @ 09:56:24
+        Started Run 2 @ 09:56:27
+        Running Interim Test Script @ 09:58:59
+        Started Run 3 @ 09:59:01  [Std. Dev: 0.50%]
+        Running Post-Test Script @ 10:01:34
+
+    Test Results:
+        152.09234786034
+        151.4102499485
+        152.93997812271
+
+    Average: 152.15 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,15997,16498,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:01:37
+        Started Run 1 @ 10:02:11
+        Running Interim Test Script @ 10:05:20
+        Started Run 2 @ 10:05:22
+        Running Interim Test Script @ 10:08:00
+        Started Run 3 @ 10:08:03
+        Running Interim Test Script @ 10:10:37  [Std. Dev: 9.79%]
+        Started Run 4 @ 10:10:40
+        Running Interim Test Script @ 10:13:27  [Std. Dev: 7.99%]
+        Started Run 5 @ 10:13:30
+        Running Interim Test Script @ 10:16:10  [Std. Dev: 7.17%]
+        Started Run 6 @ 10:16:13
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:19:22
+        Started Run 1 @ 10:20:00
+        Running Interim Test Script @ 10:22:38
+        Started Run 2 @ 10:22:41
+        Running Interim Test Script @ 10:25:15
+        Started Run 3 @ 10:25:17  [Std. Dev: 0.26%]
+        Running Post-Test Script @ 10:27:51
+
+    Test Results:
+        153.90891003609
+        153.46230697632
+        153.12381505966
+
+    Average: 153.50 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,17565,18075,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:27:54
+        Started Run 1 @ 10:28:31
+        Running Interim Test Script @ 10:31:11
+        Started Run 2 @ 10:31:13
+        Running Interim Test Script @ 10:33:50
+        Started Run 3 @ 10:33:52  [Std. Dev: 1.07%]
+        Running Post-Test Script @ 10:36:31
+
+    Test Results:
+        155.17927312851
+        156.09488797188
+        158.43293213844
+
+    Average: 156.57 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,18076,18595,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:36:34
+        Started Run 1 @ 10:37:11
+        Running Interim Test Script @ 10:39:50
+        Started Run 2 @ 10:39:52
+        Running Interim Test Script @ 10:42:34
+        Started Run 3 @ 10:42:37  [Std. Dev: 2.05%]
+        Running Post-Test Script @ 10:45:15
+
+    Test Results:
+        155.04400396347
+        161.51630806923
+        158.06007099152
+
+    Average: 158.21 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,18596,19119,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:45:18
+        Started Run 1 @ 10:45:59
+        Running Interim Test Script @ 10:48:42
+        Started Run 2 @ 10:48:45
+        Running Interim Test Script @ 10:51:17
+        Started Run 3 @ 10:51:21  [Std. Dev: 2.17%]
+        Running Post-Test Script @ 10:53:59
+
+    Test Results:
+        158.77636289597
+        152.6974670887
+        158.39727592468
+
+    Average: 156.62 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,19120,19644,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 10:54:02
+        Started Run 1 @ 10:54:37
+        Running Interim Test Script @ 10:57:18
+        Started Run 2 @ 10:57:21
+        Running Interim Test Script @ 10:59:55
+        Started Run 3 @ 10:59:58  [Std. Dev: 1.33%]
+        Running Post-Test Script @ 11:02:32
+
+    Test Results:
+        157.276252985
+        154.00790500641
+        153.48493099213
+
+    Average: 154.92 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,19645,20155,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:02:34
+        Started Run 1 @ 11:03:09
+        Running Interim Test Script @ 11:05:46
+        Started Run 2 @ 11:05:49
+        Running Interim Test Script @ 11:08:20
+        Started Run 3 @ 11:08:23  [Std. Dev: 1.07%]
+        Running Post-Test Script @ 11:10:54
+
+    Test Results:
+        153.48333287239
+        150.42099785805
+        151.0582678318
+
+    Average: 151.65 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mremap,2,20156,20658,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:10:57
+        Started Run 1 @ 11:11:32
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:15:28
+        Started Run 1 @ 11:16:12
+        Running Interim Test Script @ 11:18:53
+        Started Run 2 @ 11:18:56
+        Running Interim Test Script @ 11:21:30
+        Started Run 3 @ 11:21:33  [Std. Dev: 1.85%]
+        Running Post-Test Script @ 11:24:13
+
+    Test Results:
+        157.36160516739
+        153.9491250515
+        159.72886800766
+
+    Average: 157.01 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,20931,21459,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:24:17
+        Started Run 1 @ 11:25:08
+        Running Interim Test Script @ 11:28:09
+        Started Run 2 @ 11:28:12
+        Running Interim Test Script @ 11:31:00
+        Started Run 3 @ 11:31:03  [Std. Dev: 3.40%]
+        Running Post-Test Script @ 11:34:02
+
+[[]]head,read,8,92903,92903,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 6 Minutes
+        Running Pre-Test Script @ 08:58:44
+        Started Run 1 @ 08:59:24
+        Running Interim Test Script @ 09:01:58
+        Started Run 2 @ 09:02:01
+        Running Interim Test Script @ 09:04:31
+        Started Run 3 @ 09:04:34  [Std. Dev: 0.51%]
+        Running Post-Test Script @ 09:07:05
+
+    Test Results:
+        150.01126289368
+        149.51954889297
+        151.02090501785
+
+    Average: 150.18 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,12726,13230,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 9 Minutes
+        Running Pre-Test Script @ 09:07:08
+        Started Run 1 @ 09:07:43
+        Running Interim Test Script @ 09:10:19
+        Started Run 2 @ 09:10:22
+        Running Interim Test Script @ 09:12:53
+        Started Run 3 @ 09:12:55  [Std. Dev: 0.59%]
+        Running Post-Test Script @ 09:15:27
+
+    Test Results:
+        152.43917393684
+        150.67811107635
+        151.34813809395
+
+    Average: 151.49 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,13231,13731,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 9 Minutes
+        Running Pre-Test Script @ 09:15:30
+        Started Run 1 @ 09:16:04
+        Running Interim Test Script @ 09:18:38
+        Started Run 2 @ 09:18:42
+        Running Interim Test Script @ 09:21:24
+        Started Run 3 @ 09:21:28
+        Running Interim Test Script @ 09:25:01  [Std. Dev: 19.05%]
+        Started Run 4 @ 09:25:05
+        Running Interim Test Script @ 09:28:52  [Std. Dev: 20.00%]
+        Started Run 5 @ 09:28:56
+        Running Interim Test Script @ 09:32:37  [Std. Dev: 18.38%]
+        Started Run 6 @ 09:32:41  [Std. Dev: 16.68%]
+        Running Post-Test Script @ 09:36:16
+
+    Test Results:
+        150.37306904793
+        162.80172514915
+        213.51976394653
+        227.55150699615
+        221.7828040123
+        215.17424798012
+
+    Average: 198.53 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,13732,14980,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 13 Minutes
+        Running Pre-Test Script @ 09:44:37
+        Started Run 1 @ 09:45:14
+        Running Interim Test Script @ 09:47:57
+        Started Run 2 @ 09:47:59
+        Running Interim Test Script @ 09:50:37
+        Started Run 3 @ 09:50:40  [Std. Dev: 2.01%]
+        Running Post-Test Script @ 09:53:12
+
+    Test Results:
+        158.05047488213
+        157.23984694481
+        152.27415204048
+
+    Average: 155.85 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,15479,15996,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 12 Minutes
+        Running Pre-Test Script @ 09:53:15
+        Started Run 1 @ 09:53:48
+        Running Interim Test Script @ 09:56:24
+        Started Run 2 @ 09:56:27
+        Running Interim Test Script @ 09:58:59
+        Started Run 3 @ 09:59:01  [Std. Dev: 0.50%]
+        Running Post-Test Script @ 10:01:34
+
+    Test Results:
+        152.09234786034
+        151.4102499485
+        152.93997812271
+
+    Average: 152.15 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,15997,16498,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:01:37
+        Started Run 1 @ 10:02:11
+        Running Interim Test Script @ 10:05:20
+        Started Run 2 @ 10:05:22
+        Running Interim Test Script @ 10:08:00
+        Started Run 3 @ 10:08:03
+        Running Interim Test Script @ 10:10:37  [Std. Dev: 9.79%]
+        Started Run 4 @ 10:10:40
+        Running Interim Test Script @ 10:13:27  [Std. Dev: 7.99%]
+        Started Run 5 @ 10:13:30
+        Running Interim Test Script @ 10:16:10  [Std. Dev: 7.17%]
+        Started Run 6 @ 10:16:13
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:19:22
+        Started Run 1 @ 10:20:00
+        Running Interim Test Script @ 10:22:38
+        Started Run 2 @ 10:22:41
+        Running Interim Test Script @ 10:25:15
+        Started Run 3 @ 10:25:17  [Std. Dev: 0.26%]
+        Running Post-Test Script @ 10:27:51
+
+    Test Results:
+        153.90891003609
+        153.46230697632
+        153.12381505966
+
+    Average: 153.50 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,17565,18075,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:27:54
+        Started Run 1 @ 10:28:31
+        Running Interim Test Script @ 10:31:11
+        Started Run 2 @ 10:31:13
+        Running Interim Test Script @ 10:33:50
+        Started Run 3 @ 10:33:52  [Std. Dev: 1.07%]
+        Running Post-Test Script @ 10:36:31
+
+    Test Results:
+        155.17927312851
+        156.09488797188
+        158.43293213844
+
+    Average: 156.57 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,18076,18595,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:36:34
+        Started Run 1 @ 10:37:11
+        Running Interim Test Script @ 10:39:50
+        Started Run 2 @ 10:39:52
+        Running Interim Test Script @ 10:42:34
+        Started Run 3 @ 10:42:37  [Std. Dev: 2.05%]
+        Running Post-Test Script @ 10:45:15
+
+    Test Results:
+        155.04400396347
+        161.51630806923
+        158.06007099152
+
+    Average: 158.21 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,18596,19119,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:45:18
+        Started Run 1 @ 10:45:59
+        Running Interim Test Script @ 10:48:42
+        Started Run 2 @ 10:48:45
+        Running Interim Test Script @ 10:51:17
+        Started Run 3 @ 10:51:21  [Std. Dev: 2.17%]
+        Running Post-Test Script @ 10:53:59
+
+    Test Results:
+        158.77636289597
+        152.6974670887
+        158.39727592468
+
+    Average: 156.62 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,19120,19644,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 10:54:02
+        Started Run 1 @ 10:54:37
+        Running Interim Test Script @ 10:57:18
+        Started Run 2 @ 10:57:21
+        Running Interim Test Script @ 10:59:55
+        Started Run 3 @ 10:59:58  [Std. Dev: 1.33%]
+        Running Post-Test Script @ 11:02:32
+
+    Test Results:
+        157.276252985
+        154.00790500641
+        153.48493099213
+
+    Average: 154.92 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,19645,20155,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:02:34
+        Started Run 1 @ 11:03:09
+        Running Interim Test Script @ 11:05:46
+        Started Run 2 @ 11:05:49
+        Running Interim Test Script @ 11:08:20
+        Started Run 3 @ 11:08:23  [Std. Dev: 1.07%]
+        Running Post-Test Script @ 11:10:54
+
+    Test Results:
+        153.48333287239
+        150.42099785805
+        151.0582678318
+
+    Average: 151.65 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mremap,2,20156,20658,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:10:57
+        Started Run 1 @ 11:11:32
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:15:28
+        Started Run 1 @ 11:16:12
+        Running Interim Test Script @ 11:18:53
+        Started Run 2 @ 11:18:56
+        Running Interim Test Script @ 11:21:30
+        Started Run 3 @ 11:21:33  [Std. Dev: 1.85%]
+        Running Post-Test Script @ 11:24:13
+
+    Test Results:
+        157.36160516739
+        153.9491250515
+        159.72886800766
+
+    Average: 157.01 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,20931,21459,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:24:17
+        Started Run 1 @ 11:25:08
+        Running Interim Test Script @ 11:28:09
+        Started Run 2 @ 11:28:12
+        Running Interim Test Script @ 11:31:00
+        Started Run 3 @ 11:31:03  [Std. Dev: 3.40%]
+        Running Post-Test Script @ 11:34:02
+
+[[]]head,munmap,1,92903,92903,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 6 Minutes
+        Running Pre-Test Script @ 08:58:44
+        Started Run 1 @ 08:59:24
+        Running Interim Test Script @ 09:01:58
+        Started Run 2 @ 09:02:01
+        Running Interim Test Script @ 09:04:31
+        Started Run 3 @ 09:04:34  [Std. Dev: 0.51%]
+        Running Post-Test Script @ 09:07:05
+
+    Test Results:
+        150.01126289368
+        149.51954889297
+        151.02090501785
+
+    Average: 150.18 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,12726,13230,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 9 Minutes
+        Running Pre-Test Script @ 09:07:08
+        Started Run 1 @ 09:07:43
+        Running Interim Test Script @ 09:10:19
+        Started Run 2 @ 09:10:22
+        Running Interim Test Script @ 09:12:53
+        Started Run 3 @ 09:12:55  [Std. Dev: 0.59%]
+        Running Post-Test Script @ 09:15:27
+
+    Test Results:
+        152.43917393684
+        150.67811107635
+        151.34813809395
+
+    Average: 151.49 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,13231,13731,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 9 Minutes
+        Running Pre-Test Script @ 09:15:30
+        Started Run 1 @ 09:16:04
+        Running Interim Test Script @ 09:18:38
+        Started Run 2 @ 09:18:42
+        Running Interim Test Script @ 09:21:24
+        Started Run 3 @ 09:21:28
+        Running Interim Test Script @ 09:25:01  [Std. Dev: 19.05%]
+        Started Run 4 @ 09:25:05
+        Running Interim Test Script @ 09:28:52  [Std. Dev: 20.00%]
+        Started Run 5 @ 09:28:56
+        Running Interim Test Script @ 09:32:37  [Std. Dev: 18.38%]
+        Started Run 6 @ 09:32:41  [Std. Dev: 16.68%]
+        Running Post-Test Script @ 09:36:16
+
+    Test Results:
+        150.37306904793
+        162.80172514915
+        213.51976394653
+        227.55150699615
+        221.7828040123
+        215.17424798012
+
+    Average: 198.53 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,13732,14980,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 13 Minutes
+        Running Pre-Test Script @ 09:44:37
+        Started Run 1 @ 09:45:14
+        Running Interim Test Script @ 09:47:57
+        Started Run 2 @ 09:47:59
+        Running Interim Test Script @ 09:50:37
+        Started Run 3 @ 09:50:40  [Std. Dev: 2.01%]
+        Running Post-Test Script @ 09:53:12
+
+    Test Results:
+        158.05047488213
+        157.23984694481
+        152.27415204048
+
+    Average: 155.85 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,15479,15996,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 12 Minutes
+        Running Pre-Test Script @ 09:53:15
+        Started Run 1 @ 09:53:48
+        Running Interim Test Script @ 09:56:24
+        Started Run 2 @ 09:56:27
+        Running Interim Test Script @ 09:58:59
+        Started Run 3 @ 09:59:01  [Std. Dev: 0.50%]
+        Running Post-Test Script @ 10:01:34
+
+    Test Results:
+        152.09234786034
+        151.4102499485
+        152.93997812271
+
+    Average: 152.15 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,15997,16498,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:01:37
+        Started Run 1 @ 10:02:11
+        Running Interim Test Script @ 10:05:20
+        Started Run 2 @ 10:05:22
+        Running Interim Test Script @ 10:08:00
+        Started Run 3 @ 10:08:03
+        Running Interim Test Script @ 10:10:37  [Std. Dev: 9.79%]
+        Started Run 4 @ 10:10:40
+        Running Interim Test Script @ 10:13:27  [Std. Dev: 7.99%]
+        Started Run 5 @ 10:13:30
+        Running Interim Test Script @ 10:16:10  [Std. Dev: 7.17%]
+        Started Run 6 @ 10:16:13
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:19:22
+        Started Run 1 @ 10:20:00
+        Running Interim Test Script @ 10:22:38
+        Started Run 2 @ 10:22:41
+        Running Interim Test Script @ 10:25:15
+        Started Run 3 @ 10:25:17  [Std. Dev: 0.26%]
+        Running Post-Test Script @ 10:27:51
+
+    Test Results:
+        153.90891003609
+        153.46230697632
+        153.12381505966
+
+    Average: 153.50 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,17565,18075,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:27:54
+        Started Run 1 @ 10:28:31
+        Running Interim Test Script @ 10:31:11
+        Started Run 2 @ 10:31:13
+        Running Interim Test Script @ 10:33:50
+        Started Run 3 @ 10:33:52  [Std. Dev: 1.07%]
+        Running Post-Test Script @ 10:36:31
+
+    Test Results:
+        155.17927312851
+        156.09488797188
+        158.43293213844
+
+    Average: 156.57 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,18076,18595,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:36:34
+        Started Run 1 @ 10:37:11
+        Running Interim Test Script @ 10:39:50
+        Started Run 2 @ 10:39:52
+        Running Interim Test Script @ 10:42:34
+        Started Run 3 @ 10:42:37  [Std. Dev: 2.05%]
+        Running Post-Test Script @ 10:45:15
+
+    Test Results:
+        155.04400396347
+        161.51630806923
+        158.06007099152
+
+    Average: 158.21 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,18596,19119,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:45:18
+        Started Run 1 @ 10:45:59
+        Running Interim Test Script @ 10:48:42
+        Started Run 2 @ 10:48:45
+        Running Interim Test Script @ 10:51:17
+        Started Run 3 @ 10:51:21  [Std. Dev: 2.17%]
+        Running Post-Test Script @ 10:53:59
+
+    Test Results:
+        158.77636289597
+        152.6974670887
+        158.39727592468
+
+    Average: 156.62 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,19120,19644,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 10:54:02
+        Started Run 1 @ 10:54:37
+        Running Interim Test Script @ 10:57:18
+        Started Run 2 @ 10:57:21
+        Running Interim Test Script @ 10:59:55
+        Started Run 3 @ 10:59:58  [Std. Dev: 1.33%]
+        Running Post-Test Script @ 11:02:32
+
+    Test Results:
+        157.276252985
+        154.00790500641
+        153.48493099213
+
+    Average: 154.92 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,19645,20155,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:02:34
+        Started Run 1 @ 11:03:09
+        Running Interim Test Script @ 11:05:46
+        Started Run 2 @ 11:05:49
+        Running Interim Test Script @ 11:08:20
+        Started Run 3 @ 11:08:23  [Std. Dev: 1.07%]
+        Running Post-Test Script @ 11:10:54
+
+    Test Results:
+        153.48333287239
+        150.42099785805
+        151.0582678318
+
+    Average: 151.65 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mremap,2,20156,20658,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:10:57
+        Started Run 1 @ 11:11:32
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:15:28
+        Started Run 1 @ 11:16:12
+        Running Interim Test Script @ 11:18:53
+        Started Run 2 @ 11:18:56
+        Running Interim Test Script @ 11:21:30
+        Started Run 3 @ 11:21:33  [Std. Dev: 1.85%]
+        Running Post-Test Script @ 11:24:13
+
+    Test Results:
+        157.36160516739
+        153.9491250515
+        159.72886800766
+
+    Average: 157.01 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,20931,21459,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:24:17
+        Started Run 1 @ 11:25:08
+        Running Interim Test Script @ 11:28:09
+        Started Run 2 @ 11:28:12
+        Running Interim Test Script @ 11:31:00
+        Started Run 3 @ 11:31:03  [Std. Dev: 3.40%]
+        Running Post-Test Script @ 11:34:02
+
+[[]]head,munmap,2,92903,92903,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 6 Minutes
+        Running Pre-Test Script @ 08:58:44
+        Started Run 1 @ 08:59:24
+        Running Interim Test Script @ 09:01:58
+        Started Run 2 @ 09:02:01
+        Running Interim Test Script @ 09:04:31
+        Started Run 3 @ 09:04:34  [Std. Dev: 0.51%]
+        Running Post-Test Script @ 09:07:05
+
+    Test Results:
+        150.01126289368
+        149.51954889297
+        151.02090501785
+
+    Average: 150.18 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,12726,13230,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 9 Minutes
+        Running Pre-Test Script @ 09:07:08
+        Started Run 1 @ 09:07:43
+        Running Interim Test Script @ 09:10:19
+        Started Run 2 @ 09:10:22
+        Running Interim Test Script @ 09:12:53
+        Started Run 3 @ 09:12:55  [Std. Dev: 0.59%]
+        Running Post-Test Script @ 09:15:27
+
+    Test Results:
+        152.43917393684
+        150.67811107635
+        151.34813809395
+
+    Average: 151.49 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,13231,13731,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 9 Minutes
+        Running Pre-Test Script @ 09:15:30
+        Started Run 1 @ 09:16:04
+        Running Interim Test Script @ 09:18:38
+        Started Run 2 @ 09:18:42
+        Running Interim Test Script @ 09:21:24
+        Started Run 3 @ 09:21:28
+        Running Interim Test Script @ 09:25:01  [Std. Dev: 19.05%]
+        Started Run 4 @ 09:25:05
+        Running Interim Test Script @ 09:28:52  [Std. Dev: 20.00%]
+        Started Run 5 @ 09:28:56
+        Running Interim Test Script @ 09:32:37  [Std. Dev: 18.38%]
+        Started Run 6 @ 09:32:41  [Std. Dev: 16.68%]
+        Running Post-Test Script @ 09:36:16
+
+    Test Results:
+        150.37306904793
+        162.80172514915
+        213.51976394653
+        227.55150699615
+        221.7828040123
+        215.17424798012
+
+    Average: 198.53 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,13732,14980,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 13 Minutes
+        Running Pre-Test Script @ 09:44:37
+        Started Run 1 @ 09:45:14
+        Running Interim Test Script @ 09:47:57
+        Started Run 2 @ 09:47:59
+        Running Interim Test Script @ 09:50:37
+        Started Run 3 @ 09:50:40  [Std. Dev: 2.01%]
+        Running Post-Test Script @ 09:53:12
+
+    Test Results:
+        158.05047488213
+        157.23984694481
+        152.27415204048
+
+    Average: 155.85 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,15479,15996,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 12 Minutes
+        Running Pre-Test Script @ 09:53:15
+        Started Run 1 @ 09:53:48
+        Running Interim Test Script @ 09:56:24
+        Started Run 2 @ 09:56:27
+        Running Interim Test Script @ 09:58:59
+        Started Run 3 @ 09:59:01  [Std. Dev: 0.50%]
+        Running Post-Test Script @ 10:01:34
+
+    Test Results:
+        152.09234786034
+        151.4102499485
+        152.93997812271
+
+    Average: 152.15 Seconds
+
+
+[[]]pts/build-apache-1.5.1,munmap,1,15997,16498,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:01:37
+        Started Run 1 @ 10:02:11
+        Running Interim Test Script @ 10:05:20
+        Started Run 2 @ 10:05:22
+        Running Interim Test Script @ 10:08:00
+        Started Run 3 @ 10:08:03
+        Running Interim Test Script @ 10:10:37  [Std. Dev: 9.79%]
+        Started Run 4 @ 10:10:40
+        Running Interim Test Script @ 10:13:27  [Std. Dev: 7.99%]
+        Started Run 5 @ 10:13:30
+        Running Interim Test Script @ 10:16:10  [Std. Dev: 7.17%]
+        Started Run 6 @ 10:16:13
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:19:22
+        Started Run 1 @ 10:20:00
+        Running Interim Test Script @ 10:22:38
+        Started Run 2 @ 10:22:41
+        Running Interim Test Script @ 10:25:15
+        Started Run 3 @ 10:25:17  [Std. Dev: 0.26%]
+        Running Post-Test Script @ 10:27:51
+
+    Test Results:
+        153.90891003609
+        153.46230697632
+        153.12381505966
+
+    Average: 153.50 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,17565,18075,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:27:54
+        Started Run 1 @ 10:28:31
+        Running Interim Test Script @ 10:31:11
+        Started Run 2 @ 10:31:13
+        Running Interim Test Script @ 10:33:50
+        Started Run 3 @ 10:33:52  [Std. Dev: 1.07%]
+        Running Post-Test Script @ 10:36:31
+
+    Test Results:
+        155.17927312851
+        156.09488797188
+        158.43293213844
+
+    Average: 156.57 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,18076,18595,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:36:34
+        Started Run 1 @ 10:37:11
+        Running Interim Test Script @ 10:39:50
+        Started Run 2 @ 10:39:52
+        Running Interim Test Script @ 10:42:34
+        Started Run 3 @ 10:42:37  [Std. Dev: 2.05%]
+        Running Post-Test Script @ 10:45:15
+
+    Test Results:
+        155.04400396347
+        161.51630806923
+        158.06007099152
+
+    Average: 158.21 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,18596,19119,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 10:45:18
+        Started Run 1 @ 10:45:59
+        Running Interim Test Script @ 10:48:42
+        Started Run 2 @ 10:48:45
+        Running Interim Test Script @ 10:51:17
+        Started Run 3 @ 10:51:21  [Std. Dev: 2.17%]
+        Running Post-Test Script @ 10:53:59
+
+    Test Results:
+        158.77636289597
+        152.6974670887
+        158.39727592468
+
+    Average: 156.62 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,19120,19644,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 10:54:02
+        Started Run 1 @ 10:54:37
+        Running Interim Test Script @ 10:57:18
+        Started Run 2 @ 10:57:21
+        Running Interim Test Script @ 10:59:55
+        Started Run 3 @ 10:59:58  [Std. Dev: 1.33%]
+        Running Post-Test Script @ 11:02:32
+
+    Test Results:
+        157.276252985
+        154.00790500641
+        153.48493099213
+
+    Average: 154.92 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,19645,20155,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:02:34
+        Started Run 1 @ 11:03:09
+        Running Interim Test Script @ 11:05:46
+        Started Run 2 @ 11:05:49
+        Running Interim Test Script @ 11:08:20
+        Started Run 3 @ 11:08:23  [Std. Dev: 1.07%]
+        Running Post-Test Script @ 11:10:54
+
+    Test Results:
+        153.48333287239
+        150.42099785805
+        151.0582678318
+
+    Average: 151.65 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mremap,2,20156,20658,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:10:57
+        Started Run 1 @ 11:11:32
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:15:28
+        Started Run 1 @ 11:16:12
+        Running Interim Test Script @ 11:18:53
+        Started Run 2 @ 11:18:56
+        Running Interim Test Script @ 11:21:30
+        Started Run 3 @ 11:21:33  [Std. Dev: 1.85%]
+        Running Post-Test Script @ 11:24:13
+
+    Test Results:
+        157.36160516739
+        153.9491250515
+        159.72886800766
+
+    Average: 157.01 Seconds
+
+
+[[]]pts/build-apache-1.5.1,mprotect,2,20931,21459,
+
+
+Phoronix Test Suite v4.8.3
+System Information
+
+Hardware:
+Processor: Intel Core i5-4250U @ 1.90GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 32GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371 / Creative, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-49-generic (x86_64), Desktop: Unity 7.2.4, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, OpenGL: 2.1 Mesa 10.1.3 Gallium 0.4, Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Apache Compilation 2.4.7:
+    pts/build-apache-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 10 Minutes
+        Running Pre-Test Script @ 11:24:17
+        Started Run 1 @ 11:25:08
+        Running Interim Test Script @ 11:28:09
+        Started Run 2 @ 11:28:12
+        Running Interim Test Script @ 11:31:00
+        Started Run 3 @ 11:31:03  [Std. Dev: 3.40%]
+        Running Post-Test Script @ 11:34:02
+
+[[]]head,mprotect,2,92903,92903,
+
+[[]]head,mmap,2,92903,92903,A
+

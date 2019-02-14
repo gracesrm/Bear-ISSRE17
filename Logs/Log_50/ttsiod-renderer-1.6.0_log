@@ -1,0 +1,1236 @@
+
+NOTICE: The following PHP extensions are OPTIONAL but recommended:
+
+CURL     PHP CURL is recommended for an enhanced download experience.
+PHP FPDF PHP FPDF is recommended if wishing to generate PDF reports.
+
+
+Phoronix Test Suite v3.6.1
+User Agreement
+
+The Phoronix Test Suite is the most comprehensive testing and
+benchmarking platform available for Linux, OpenSolaris, Mac OS X,
+and BSD operating systems. The Phoronix Test Suite is designed to
+carry out tests in a clean, reproducible, and easy-to-use manner.
+
+- The Phoronix Test Suite is open-source and licensed under the
+GNU GPLv3. However, some tests supported by the Phoronix Test
+Suite are not open-source software or available for free of
+charge.
+
+- The Phoronix Test Suite contains tests which may stress your
+system and in some cases could exhibit stability problems of the
+system's hardware or software configuration. The Phoronix Test
+Suite is provided WITHOUT ANY WARRANTY. In no event shall
+OpenBenchmarking.org, Phoronix Media, the Phoronix Test Suite, or
+any associated stakeholder be liable to any party for any direct
+or indirect damages for any use of OpenBenchmarking.org --
+including, without limitation, any lost profits, business
+interruption, loss of programs, loss of programmed data, or
+otherwise.
+
+- For enterprise support, sponsorship, or other professional
+inquiries, contact phoronix@phoronix.com. Community support can
+be found in the Phoronix Forums at
+http://www.phoronix.com/forums/.
+
+- If you opt to submit your test results to OpenBenchmarking.org,
+the final results as well as basic hardware and software details
+(what is shown in the results viewer) will be shared and publicly
+accessible through http://www.openbenchmarking.org/.
+
+- Public bug reports, feature requests, and other issues can be
+brought up in the Phoronix Test Suite forums, mailing list, or a
+direct email to Phoronix Media.
+
+Anonymous Usage Reporting / Statistics: If enabling the anonymous
+usage reporting / statistics feature, some information about the
+Phoronix Test Suite runs will be submitted to
+OpenBenchmarking.org. This information is used for analytical
+purposes, including but not limited to, determining the most
+popular tests / suites and calculating average run-times for
+different test profiles. The test results are not reported in
+this process nor the installed software / hardware information,
+but ambient information about the testing process. This
+information is stored anonymously. More information on this
+feature is available with the included documentation.
+
+Anonymous Software / Hardware Reporting: If enabling the
+anonymous hardware / software reporting, general information on
+your installed hardware / software components will be reported to
+OpenBenchmarking.org. Hardware information is general details
+such as, but not limited to, the installed CPU, motherboard, and
+other general components. Software information is general and
+contains details such as your operating system, graphics
+processor driver, kernel, and software architecture. No personal
+information is collected. This information is pooled along with
+the submissions from all other users to show general trends and
+other details on OpenBenchmarking.org.
+
+For more information on the Phoronix Test Suite and its features,
+visit http://www.phoronix-test-suite.com/ or view the included
+documentation.
+
+    Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Enable anonymous usage / statistics reporting (Y/n):     Enable anonymous statistical reporting of installed software / hardware (Y/n): 
+
+[NOTICE] file_put_contents(): Only 0 of 951 bytes written, possibly out of free disk space in pts_storage_object.php:61
+[[]]pts/ttsiod-renderer-1.6.0,rt_sigaction,4,38205,38206,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 16:29:04
+        Started Run 2 @ 16:31:24
+        Started Run 3 @ 16:33:46  [Std. Dev: 0.60%]
+
+    Test Results:
+        38.3292
+        37.8742
+        38.0715
+
+    Average: 38.09 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,munmap,1,5008,5430,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 16:36:06
+        Started Run 2 @ 16:38:27
+        Started Run 3 @ 16:40:49  [Std. Dev: 0.11%]
+
+    Test Results:
+        38.0084
+        37.9345
+        38.0104
+
+    Average: 37.98 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,munmap,2,5430,5853,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 16:43:09
+        Started Run 2 @ 16:45:31
+        Started Run 3 @ 16:47:53  [Std. Dev: 0.42%]
+
+    Test Results:
+        37.9164
+        37.6302
+        37.8992
+
+    Average: 37.82 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,mprotect,2,5853,6278,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 16:50:14
+        Started Run 2 @ 16:52:36
+        Started Run 3 @ 16:54:58  [Std. Dev: 0.43%]
+
+    Test Results:
+        37.8616
+        37.6739
+        37.9957
+
+    Average: 37.84 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,mremap,2,6278,6703,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 16:57:19
+        Started Run 2 @ 16:59:41
+        Started Run 3 @ 17:02:01  [Std. Dev: 0.56%]
+
+    Test Results:
+        37.8069
+        38.2248
+        37.9322
+
+    Average: 37.99 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,mmap,2,6703,7126,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 17:04:22
+        Started Run 2 @ 17:06:45
+        Started Run 3 @ 17:09:07  [Std. Dev: 0.20%]
+
+    Test Results:
+        37.6506
+        37.7863
+        37.7778
+
+    Average: 37.74 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,mlock,3,7126,7553,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 17:11:28
+        Started Run 2 @ 17:13:49
+        Started Run 3 @ 17:16:10  [Std. Dev: 0.39%]
+
+    Test Results:
+        38.165
+        38.1822
+        37.9147
+
+    Average: 38.09 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,mlockall,3,7553,7975,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 17:18:30
+        Started Run 2 @ 17:20:51
+        Started Run 3 @ 17:23:12  [Std. Dev: 0.13%]
+
+    Test Results:
+        38.0555
+        38.1545
+        38.0862
+
+    Average: 38.10 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,munlock,3,7975,8397,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 17:25:32
+        Started Run 2 @ 17:27:53
+        Started Run 3 @ 17:30:14  [Std. Dev: 0.19%]
+
+    Test Results:
+        38.2132
+        38.1298
+        38.2725
+
+    Average: 38.21 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,munlockall,3,8397,8817,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 17:32:33
+        Started Run 2 @ 17:34:54
+        Started Run 3 @ 17:37:15  [Std. Dev: 0.16%]
+
+    Test Results:
+        38.1508
+        38.0489
+        38.0431
+
+    Average: 38.08 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,rt_sigaction,4,8817,9239,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 17:39:35
+        Started Run 2 @ 17:41:55
+        Started Run 3 @ 17:44:16  [Std. Dev: 0.02%]
+
+    Test Results:
+        38.2825
+        38.2725
+        38.2676
+
+    Average: 38.27 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,rt_sigprocmask,4,9239,9660,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 17:46:35
+        Started Run 2 @ 17:48:57
+        Started Run 3 @ 17:51:17  [Std. Dev: 0.45%]
+
+    Test Results:
+        37.9461
+        38.2831
+        38.1831
+
+    Average: 38.14 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,rt_sigpending,4,9660,10081,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 17:53:37
+        Started Run 2 @ 17:55:58
+        Started Run 3 @ 17:58:18  [Std. Dev: 0.32%]
+
+    Test Results:
+        38.0555
+        38.2658
+        38.2717
+
+    Average: 38.20 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,kill,4,10081,10502,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 18:00:37
+        Started Run 2 @ 18:02:58
+        Started Run 3 @ 18:05:19  [Std. Dev: 0.20%]
+
+    Test Results:
+        38.3039
+        38.1986
+        38.3459
+
+    Average: 38.28 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,write,5,10502,10922,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 18:07:38
+        Started Run 2 @ 18:09:58
+        Started Run 3 @ 18:12:18  [Std. Dev: 0.23%]
+
+    Test Results:
+        38.3168
+        38.4163
+        38.2415
+
+    Average: 38.32 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,read,5,10922,11342,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 18:14:37
+        Started Run 2 @ 18:16:57
+        Started Run 3 @ 18:19:17  [Std. Dev: 0.16%]
+
+    Test Results:
+        38.393
+        38.373
+        38.4888
+
+    Average: 38.42 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,pread64,5,11342,11760,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 18:21:36
+        Started Run 2 @ 18:23:57
+        Started Run 3 @ 18:26:17  [Std. Dev: 0.50%]
+
+    Test Results:
+        38.0628
+        38.3544
+        38.4261
+
+    Average: 38.28 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,pwrite64,5,11760,12180,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 18:28:36
+        Started Run 2 @ 18:30:56
+        Started Run 3 @ 18:33:18  [Std. Dev: 0.47%]
+
+    Test Results:
+        38.2696
+        37.9752
+        38.2951
+
+    Average: 38.18 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,sendto,5,12180,12601,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 18:35:37
+        Started Run 2 @ 18:37:57
+        Started Run 3 @ 18:40:18  [Std. Dev: 0.19%]
+
+    Test Results:
+        38.3109
+        38.1994
+        38.3344
+
+    Average: 38.28 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,recvfrom,5,12601,13022,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 18:42:37
+        Started Run 2 @ 18:44:58
+        Started Run 3 @ 18:47:19  [Std. Dev: 0.42%]
+
+    Test Results:
+        38.1732
+        37.972
+        38.2916
+
+    Average: 38.15 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,write,6,13022,13443,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 18:49:39
+        Started Run 2 @ 18:51:59
+        Started Run 3 @ 18:54:20  [Std. Dev: 0.10%]
+
+    Test Results:
+        38.298
+        38.279
+        38.2216
+
+    Average: 38.27 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,read,6,13443,13863,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 18:56:39
+        Started Run 2 @ 18:59:00
+        Started Run 3 @ 19:01:21  [Std. Dev: 4.01%]
+        Started Run 4 @ 19:03:51  [Std. Dev: 3.37%]
+
+    Test Results:
+        38.0292
+        38.2734
+        35.5695
+        37.9343
+
+    Average: 37.45 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,pread64,6,13863,14436,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 19:06:12
+        Started Run 2 @ 19:08:32
+        Started Run 3 @ 19:10:53  [Std. Dev: 0.18%]
+
+    Test Results:
+        38.231
+        38.298
+        38.3697
+
+    Average: 38.30 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,pwrite64,6,14436,14856,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 19:13:12
+        Started Run 2 @ 19:15:32
+        Started Run 3 @ 19:17:53  [Std. Dev: 0.28%]
+
+    Test Results:
+        38.179
+        38.2719
+        38.3913
+
+    Average: 38.28 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,sendto,6,14856,15276,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 19:20:12
+        Started Run 2 @ 19:22:32
+        Started Run 3 @ 19:24:52  [Std. Dev: 0.14%]
+
+    Test Results:
+        38.313
+        38.2687
+        38.2047
+
+    Average: 38.26 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,recvfrom,6,15276,15696,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 19:27:12
+        Started Run 2 @ 19:29:33
+        Started Run 3 @ 19:31:53  [Std. Dev: 0.66%]
+
+    Test Results:
+        38.1095
+        38.276
+        37.7849
+
+    Average: 38.06 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,access,7,15696,16119,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 19:34:14
+        Started Run 2 @ 19:36:35
+        Started Run 3 @ 19:38:56  [Std. Dev: 0.28%]
+
+    Test Results:
+        38.179
+        38.068
+        38.2781
+
+    Average: 38.18 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,write,8,16119,16540,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 19:41:15
+        Started Run 2 @ 19:43:36
+        Started Run 3 @ 19:45:56  [Std. Dev: 0.37%]
+
+    Test Results:
+        38.2801
+        38.2623
+        38.0269
+
+    Average: 38.19 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,read,8,16540,16961,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 19:48:16
+        Started Run 2 @ 19:50:37
+        Started Run 3 @ 19:52:58  [Std. Dev: 0.08%]
+
+    Test Results:
+        38.1604
+        38.2038
+        38.2205
+
+    Average: 38.19 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,pread64,8,16961,17382,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 19:55:18
+        Started Run 2 @ 19:57:38
+        Started Run 3 @ 19:59:59  [Std. Dev: 0.13%]
+
+    Test Results:
+        38.3689
+        38.2687
+        38.3389
+
+    Average: 38.33 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,pwrite64,8,17382,17802,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 20:02:18
+        Started Run 2 @ 20:04:38
+        Started Run 3 @ 20:06:59  [Std. Dev: 0.26%]
+
+    Test Results:
+        38.2632
+        38.0636
+        38.1746
+
+    Average: 38.17 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,sendto,8,17802,18223,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 20:09:19
+        Started Run 2 @ 20:11:39
+        Started Run 3 @ 20:14:00  [Std. Dev: 0.21%]
+
+    Test Results:
+        38.3347
+        38.2828
+        38.4382
+
+    Average: 38.35 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,recvfrom,8,18223,18643,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 20:16:18
+        Started Run 2 @ 20:18:39
+        Started Run 3 @ 20:21:00  [Std. Dev: 0.59%]
+
+    Test Results:
+        38.1735
+        38.2678
+        37.8387
+
+    Average: 38.09 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,mq_notify,9,18643,19065,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+TTSIOD 3D Renderer 2.3a:
+    pts/ttsiod-renderer-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 20:23:20
+        Started Run 2 @ 20:25:43
+        Started Run 3 @ 20:28:03  [Std. Dev: 0.94%]
+
+    Test Results:
+        37.7159
+        38.3995
+        38.2538
+
+    Average: 38.12 FPS
+
+
+[[]]pts/ttsiod-renderer-1.6.0,setuid,10,19065,19486,
+

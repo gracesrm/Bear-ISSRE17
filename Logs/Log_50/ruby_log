@@ -1,0 +1,242 @@
+Strange procedure.
+Insane procedure.
+Fresh procedure.
+Alarming procedure.
+Alarming sounds.
+Strange sounds.
+Insane sounds.
+Fresh sounds.
+Strange throughway.
+Alarming throughway.
+Insane throughway.
+Fresh throughway.
+Fresh lemonade.
+Strange lemonade.
+Alarming lemonade.
+Insane lemonade.
+
+Fresh Strange Alarming Insane
+[[]]ruby,rt_sigaction,4,114101,114101,
+
+Alarming procedure.
+Insane procedure.
+Fresh procedure.
+Strange procedure.
+Insane throughway.
+Fresh throughway.
+Alarming throughway.
+Strange throughway.
+Strange sounds.
+Insane sounds.
+Alarming sounds.
+Fresh sounds.
+Alarming lemonade.
+Fresh lemonade.
+Strange lemonade.
+Insane lemonade.
+
+Alarming Fresh Strange Insane
+[[]]ruby,rt_sigprocmask,4,114101,114101,
+
+Strange sounds.
+Alarming sounds.
+Insane sounds.
+Fresh sounds.
+Alarming procedure.
+Fresh procedure.
+Insane procedure.
+Strange procedure.
+Alarming throughway.
+Fresh throughway.
+Insane throughway.
+Strange throughway.
+Fresh lemonade.
+Strange lemonade.
+Alarming lemonade.
+Insane lemonade.
+
+Fresh Strange Alarming Insane
+[[]]ruby,write,5,114101,114101,
+
+Strange throughway.
+Alarming throughway.
+Fresh throughway.
+Insane throughway.
+Strange lemonade.
+Insane lemonade.
+Fresh lemonade.
+Alarming lemonade.
+Insane procedure.
+Fresh procedure.
+Strange procedure.
+Alarming procedure.
+Insane sounds.
+Fresh sounds.
+Alarming sounds.
+Strange sounds.
+
+Insane Fresh Alarming Strange
+[[]]ruby,read,5,114101,114101,
+
+Fresh lemonade.
+Insane lemonade.
+Alarming lemonade.
+Strange lemonade.
+Insane throughway.
+Alarming throughway.
+Fresh throughway.
+Strange throughway.
+Strange procedure.
+Insane procedure.
+Fresh procedure.
+Alarming procedure.
+Insane sounds.
+Strange sounds.
+Alarming sounds.
+Fresh sounds.
+
+Insane Strange Alarming Fresh
+[[]]ruby,write,6,114101,114101,
+
+Fresh sounds.
+Insane sounds.
+Alarming sounds.
+Strange sounds.
+Strange procedure.
+Insane procedure.
+Fresh procedure.
+Alarming procedure.
+Strange throughway.
+Fresh throughway.
+Insane throughway.
+Alarming throughway.
+Fresh lemonade.
+Alarming lemonade.
+Strange lemonade.
+Insane lemonade.
+
+Fresh Alarming Strange Insane
+[[]]ruby,read,6,114101,114101,
+
+Alarming lemonade.
+Strange lemonade.
+Insane lemonade.
+Fresh lemonade.
+Alarming procedure.
+Insane procedure.
+Strange procedure.
+Fresh procedure.
+Alarming sounds.
+Fresh sounds.
+Insane sounds.
+Strange sounds.
+Strange throughway.
+Insane throughway.
+Fresh throughway.
+Alarming throughway.
+
+Strange Insane Fresh Alarming
+[[]]ruby,access,7,114101,114101,
+
+Fresh lemonade.
+Insane lemonade.
+Alarming lemonade.
+Strange lemonade.
+Alarming sounds.
+Insane sounds.
+Strange sounds.
+Fresh sounds.
+Insane throughway.
+Strange throughway.
+Alarming throughway.
+Fresh throughway.
+Strange procedure.
+Fresh procedure.
+Insane procedure.
+Alarming procedure.
+
+Strange Fresh Insane Alarming
+[[]]ruby,write,8,114101,114101,
+
+Insane sounds.
+Alarming sounds.
+Fresh sounds.
+Strange sounds.
+Fresh lemonade.
+Alarming lemonade.
+Insane lemonade.
+Strange lemonade.
+Strange procedure.
+Alarming procedure.
+Insane procedure.
+Fresh procedure.
+Strange throughway.
+Alarming throughway.
+Fresh throughway.
+Insane throughway.
+
+Strange Alarming Fresh Insane
+[[]]ruby,read,8,114101,114101,
+
+Insane sounds.
+Fresh sounds.
+Alarming sounds.
+Strange sounds.
+Fresh lemonade.
+Insane lemonade.
+Strange lemonade.
+Alarming lemonade.
+Fresh throughway.
+Alarming throughway.
+Strange throughway.
+Insane throughway.
+Insane procedure.
+Fresh procedure.
+Alarming procedure.
+Strange procedure.
+
+Insane Fresh Alarming Strange
+[[]]ruby,munmap,1,114101,114101,
+
+Insane procedure.
+Alarming procedure.
+Fresh procedure.
+Strange procedure.
+Alarming throughway.
+Fresh throughway.
+Insane throughway.
+Strange throughway.
+Strange sounds.
+Fresh sounds.
+Alarming sounds.
+Insane sounds.
+Strange lemonade.
+Alarming lemonade.
+Fresh lemonade.
+Insane lemonade.
+
+Strange Alarming Fresh Insane
+[[]]ruby,munmap,2,114101,114101,
+
+Alarming procedure.
+Fresh procedure.
+Insane procedure.
+Strange procedure.
+Fresh throughway.
+Alarming throughway.
+Strange throughway.
+Insane throughway.
+Strange sounds.
+Alarming sounds.
+Insane sounds.
+Fresh sounds.
+Insane lemonade.
+Fresh lemonade.
+Alarming lemonade.
+Strange lemonade.
+
+Insane Fresh Alarming Strange
+[[]]ruby,mprotect,2,114101,114101,
+
+[[]]ruby,mmap,2,114101,114101,A
+

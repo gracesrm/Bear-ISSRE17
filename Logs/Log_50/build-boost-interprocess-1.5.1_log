@@ -1,0 +1,1904 @@
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:52:35
+        Started Run 1 @ 23:52:43
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:52:47
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,rt_sigaction,4,7051,7064,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:52:50
+        Started Run 1 @ 23:52:56
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:52:59
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,rt_sigaction,4,7065,7076,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:53:02
+        Started Run 1 @ 23:53:08
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:53:11
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,rt_sigprocmask,4,7077,7089,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:53:15
+        Started Run 1 @ 23:53:21
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:53:25
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,rt_sigprocmask,4,7090,7102,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:53:28
+        Started Run 1 @ 23:53:34
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:53:37
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,rt_sigpending,4,7103,7114,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:53:40
+        Started Run 1 @ 23:53:46
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:53:49
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,rt_sigpending,4,7115,7126,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:53:52
+        Started Run 1 @ 23:53:58
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:54:01
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,kill,4,7127,7138,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:54:05
+        Started Run 1 @ 23:54:10
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:54:13
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,kill,4,7140,7150,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:54:18
+        Started Run 1 @ 23:54:23
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:54:26
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,write,5,7152,7164,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:54:30
+        Started Run 1 @ 23:54:35
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:54:38
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,write,5,7165,7176,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:54:42
+        Started Run 1 @ 23:54:48
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:54:51
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,read,5,7177,7188,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:54:54
+        Started Run 1 @ 23:55:00
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:55:03
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,read,5,7189,7200,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:55:06
+        Started Run 1 @ 23:55:11
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:55:15
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,pread64,5,7201,7212,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:55:18
+        Started Run 1 @ 23:55:23
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:55:26
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,pread64,5,7213,7224,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:55:30
+        Started Run 1 @ 23:55:35
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:55:38
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,pwrite64,5,7225,7235,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:55:41
+        Started Run 1 @ 23:55:47
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:55:50
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,pwrite64,5,7236,7247,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:55:53
+        Started Run 1 @ 23:55:59
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:56:02
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,sendto,5,7248,7259,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:56:05
+        Started Run 1 @ 23:56:10
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:56:13
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,sendto,5,7260,7270,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:56:17
+        Started Run 1 @ 23:56:22
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:56:25
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,recvfrom,5,7271,7283,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:56:28
+        Started Run 1 @ 23:56:34
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:56:37
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,recvfrom,5,7284,7294,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:56:40
+        Started Run 1 @ 23:56:46
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:56:49
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,write,6,7295,7306,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:56:52
+        Started Run 1 @ 23:56:58
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:57:01
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,write,6,7307,7318,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:57:04
+        Started Run 1 @ 23:57:10
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:57:13
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,read,6,7319,7330,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:57:16
+        Started Run 1 @ 23:57:21
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:57:25
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,read,6,7331,7342,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:57:28
+        Started Run 1 @ 23:57:33
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:57:36
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,pread64,6,7343,7354,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:57:40
+        Started Run 1 @ 23:57:45
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:57:48
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,pread64,6,7355,7365,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:57:52
+        Started Run 1 @ 23:57:57
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:58:00
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,pwrite64,6,7367,7377,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:58:03
+        Started Run 1 @ 23:58:09
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:58:12
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,pwrite64,6,7378,7389,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:58:15
+        Started Run 1 @ 23:58:20
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:58:23
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,sendto,6,7390,7401,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:58:27
+        Started Run 1 @ 23:58:32
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:58:35
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,sendto,6,7402,7412,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:58:38
+        Started Run 1 @ 23:58:44
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:58:47
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,recvfrom,6,7413,7424,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:58:50
+        Started Run 1 @ 23:58:55
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:58:58
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,recvfrom,6,7425,7435,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:59:02
+        Started Run 1 @ 23:59:07
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:59:10
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,access,7,7436,7447,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:59:13
+        Started Run 1 @ 23:59:18
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:59:22
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,access,7,7448,7458,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:59:24
+        Started Run 1 @ 23:59:30
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:59:33
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,write,8,7459,7469,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:59:35
+        Started Run 1 @ 23:59:41
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:59:44
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,write,8,7471,7481,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:59:47
+        Started Run 1 @ 23:59:52
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 23:59:55
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,read,8,7482,7492,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 23:59:58
+        Started Run 1 @ 00:00:04
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:00:07
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,read,8,7493,7504,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:00:10
+        Started Run 1 @ 00:00:15
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:00:19
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,pread64,8,7505,7515,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:00:22
+        Started Run 1 @ 00:00:27
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:00:30
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,pread64,8,7516,7527,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:00:34
+        Started Run 1 @ 00:00:39
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:00:42
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,pwrite64,8,7528,7540,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:00:46
+        Started Run 1 @ 00:00:51
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:00:54
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,pwrite64,8,7541,7551,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:00:57
+        Started Run 1 @ 00:01:02
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:01:05
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,sendto,8,7552,7562,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:01:08
+        Started Run 1 @ 00:01:13
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:01:16
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,sendto,8,7563,7573,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:01:19
+        Started Run 1 @ 00:01:24
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:01:28
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,recvfrom,8,7574,7584,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:01:30
+        Started Run 1 @ 00:01:36
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:01:39
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,recvfrom,8,7585,7595,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:01:41
+        Started Run 1 @ 00:01:47
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:01:50
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,mq_notify,9,7596,7607,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:01:53
+        Started Run 1 @ 00:01:58
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:02:01
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,mq_notify,9,7608,7618,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:02:04
+        Started Run 1 @ 00:02:09
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:02:12
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,setuid,10,7619,7629,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:02:15
+        Started Run 1 @ 00:02:20
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:02:24
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,setuid,10,7630,7641,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:02:27
+        Started Run 1 @ 00:02:32
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:02:35
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,munmap,1,7642,7652,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:02:38
+        Started Run 1 @ 00:02:44
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:02:47
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,munmap,1,7653,7664,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:02:50
+        Started Run 1 @ 00:02:55
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:02:59
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,munmap,2,7665,7676,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:03:13
+        Started Run 1 @ 00:03:18
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:03:22
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,munmap,2,7677,7698,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:03:25
+        Started Run 1 @ 00:03:30
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:03:33
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,mprotect,2,7700,7710,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:03:36
+        Started Run 1 @ 00:03:41
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:03:44
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,mprotect,2,7711,7721,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:03:47
+        Started Run 1 @ 00:03:52
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:03:56
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,mremap,2,7722,7732,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:03:58
+        Started Run 1 @ 00:04:04
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:04:07
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,mremap,2,7733,7744,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:04:10
+        Started Run 1 @ 00:04:15
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:04:18
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,mmap,2,7745,7755,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:04:21
+        Started Run 1 @ 00:04:26
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:04:30
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,mmap,2,7756,7766,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:04:32
+        Started Run 1 @ 00:04:37
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:04:41
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,mlock,3,7767,7777,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:04:43
+        Started Run 1 @ 00:04:49
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:04:52
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,mlock,3,7779,7788,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:04:55
+        Started Run 1 @ 00:05:00
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:05:03
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,mlockall,3,7790,7800,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:05:06
+        Started Run 1 @ 00:05:11
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:05:14
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,mlockall,3,7801,7811,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:05:17
+        Started Run 1 @ 00:05:22
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:05:25
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,munlock,3,7812,7822,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:05:28
+        Started Run 1 @ 00:05:33
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:05:37
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,munlock,3,7823,7833,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:05:39
+        Started Run 1 @ 00:05:44
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:05:48
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,munlockall,3,7834,7844,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Boost Interprocess Compilation 2.12.1:
+    pts/build-boost-interprocess-1.5.1
+    Test 1 of 1
+    Estimated Trial Run Count: 1
+        Running Pre-Test Script @ 00:05:50
+        Started Run 1 @ 00:05:56
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:05:59
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-boost-interprocess-1.5.1,munlockall,3,7845,7855,
+

@@ -1,0 +1,266 @@
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754052   1711672  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,rt_sigaction,4,1519,1519,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754060   1711664  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,rt_sigprocmask,4,1520,1520,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754060   1711664  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,rt_sigpending,4,1521,1521,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754060   1711664  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,kill,4,1522,1522,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754060   1711664  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,write,5,1523,1523,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754060   1711664  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,read,5,1524,1524,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754064   1711660  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,pread64,5,1525,1525,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754064   1711660  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,pwrite64,5,1526,1526,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754064   1711660  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,sendto,5,1527,1527,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754064   1711660  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,recvfrom,5,1528,1528,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754060   1711664  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,write,6,1529,1529,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754060   1711664  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,read,6,1530,1530,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754068   1711656  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,pread64,6,1531,1531,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754068   1711656  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,pwrite64,6,1532,1532,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754068   1711656  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,sendto,6,1533,1533,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754068   1711656  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,recvfrom,6,1534,1534,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754068   1711656  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        4      5116   1% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,access,7,1535,1535,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754068   1711656  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,write,8,1536,1536,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754072   1711652  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,read,8,1537,1537,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754072   1711652  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,pread64,8,1538,1538,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754080   1711644  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,pwrite64,8,1539,1539,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754080   1711644  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,sendto,8,1541,1541,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754080   1711644  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,recvfrom,8,1542,1542,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754084   1711640  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,mq_notify,9,1543,1543,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754088   1711636  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,setuid,10,1544,1544,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754080   1711644  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,munmap,1,1545,1545,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754080   1711644  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,munmap,2,1546,1546,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754080   1711644  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,mprotect,2,1547,1547,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754080   1711644  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,mremap,2,1548,1548,
+
+[[]]df,mmap,2,1549,1549,A
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754088   1711636  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,mlock,3,1550,1550,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754088   1711636  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,mlockall,3,1551,1551,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754088   1711636  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,munlock,3,1552,1552,
+
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda1       19478204 16754088   1711636  91% /
+udev              494792        4    494788   1% /dev
+tmpfs             101056      800    100256   1% /run
+none                5120        0      5120   0% /run/lock
+none              505276      200    505076   1% /run/shm
+[[]]df,munlockall,3,1553,1553,
+

@@ -1,0 +1,29 @@
+-rw-rw-r-- 1 ruimin ruimin 785 May  6 18:42 files/Hello_w2.class
+[[]]javac,rt_sigaction,4,112995,112995,
+
+-rw-rw-r-- 1 ruimin ruimin 785 May  6 18:42 files/Hello_w2.class
+[[]]javac,rt_sigprocmask,4,112997,112998,
+
+-rw-rw-r-- 1 ruimin ruimin 785 May  6 18:43 files/Hello_w2.class
+[[]]javac,read,5,113000,113002,
+
+-rw-rw-r-- 1 ruimin ruimin 785 May  6 18:43 files/Hello_w2.class
+[[]]javac,read,6,113004,113004,
+
+-rw-rw-r-- 1 ruimin ruimin 785 May  6 18:43 files/Hello_w2.class
+[[]]javac,access,7,113005,113007,
+
+-rw-rw-r-- 1 ruimin ruimin 785 May  6 18:43 files/Hello_w2.class
+[[]]javac,read,8,113009,113010,
+
+-rw-rw-r-- 1 ruimin ruimin 785 May  6 18:43 files/Hello_w2.class
+[[]]javac,munmap,1,113012,113013,
+
+-rw-rw-r-- 1 ruimin ruimin 785 May  6 18:43 files/Hello_w2.class
+[[]]javac,munmap,2,113015,113016,
+
+-rw-rw-r-- 1 ruimin ruimin 785 May  6 18:43 files/Hello_w2.class
+[[]]javac,mprotect,2,113018,113019,
+
+[[]]javac,mmap,2,113020,113020,A
+

@@ -1,0 +1,72 @@
+wc -l runApp.sh
+printf "haha\n"
+perl files/hello.pl
+free -m
+diff aa bb
+[[]]head,write,5,60098,60098,
+
+wc -l runApp.sh
+printf "haha\n"
+perl files/hello.pl
+free -m
+diff aa bb
+[[]]head,read,5,60099,60099,
+
+wc -l runApp.sh
+printf "haha\n"
+perl files/hello.pl
+free -m
+diff aa bb
+[[]]head,write,6,60100,60100,
+
+wc -l runApp.sh
+printf "haha\n"
+perl files/hello.pl
+free -m
+diff aa bb
+[[]]head,read,6,60101,60101,
+
+wc -l runApp.sh
+printf "haha\n"
+perl files/hello.pl
+free -m
+diff aa bb
+[[]]head,access,7,60102,60102,
+
+wc -l runApp.sh
+printf "haha\n"
+perl files/hello.pl
+free -m
+diff aa bb
+[[]]head,write,8,60103,60103,
+
+wc -l runApp.sh
+printf "haha\n"
+perl files/hello.pl
+free -m
+diff aa bb
+[[]]head,read,8,60104,60104,
+
+wc -l runApp.sh
+printf "haha\n"
+perl files/hello.pl
+free -m
+diff aa bb
+[[]]head,munmap,1,60105,60105,
+
+wc -l runApp.sh
+printf "haha\n"
+perl files/hello.pl
+free -m
+diff aa bb
+[[]]head,munmap,2,60106,60106,
+
+wc -l runApp.sh
+printf "haha\n"
+perl files/hello.pl
+free -m
+diff aa bb
+[[]]head,mprotect,2,60107,60107,
+
+[[]]head,mmap,2,60108,60108,A
+

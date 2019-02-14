@@ -1,0 +1,171 @@
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find rt_sigprocmask: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find rt_sigpending: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find kill: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find write: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+Non-authoritative answer:
+*** Can't find read: No answer
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find pread64: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find pwrite64: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find sendto: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find recvfrom: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find write: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+Non-authoritative answer:
+*** Can't find read: No answer
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find pread64: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find pwrite64: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find sendto: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find recvfrom: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find access: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find write: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+Non-authoritative answer:
+*** Can't find read: No answer
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find pread64: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find pwrite64: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find sendto: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find recvfrom: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find mq_notify: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find setuid: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find munmap: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find munmap: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find mprotect: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find mremap: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find mmap: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find mlock: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find mlockall: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find munlock: NXDOMAIN
+Server:		127.0.0.1
+Address:	127.0.0.1#53
+
+** server can't find munlockall: NXDOMAIN
+
+[[]]nslookup,rt_sigaction,4,1306,1307,
+[[]]nslookup,rt_sigprocmask,4,1302,1302,A
+[[]]nslookup,rt_sigpending,4,1302,1302,A
+[[]]nslookup,kill,4,1302,1302,A
+[[]]nslookup,read,5,1302,1302,A
+[[]]nslookup,write,5,1302,1302,A
+[[]]nslookup,pread64,5,1302,1302,A
+[[]]nslookup,pwrite64,5,1302,1302,A
+[[]]nslookup,sendto,5,1302,1302,A
+[[]]nslookup,recvfrom,5,1302,1302,A
+[[]]nslookup,write,6,1302,1302,A
+[[]]nslookup,read,6,1302,1302,A
+[[]]nslookup,pread64,6,1302,1302,A
+[[]]nslookup,pwrite64,6,1302,1302,A
+[[]]nslookup,sendto,6,1302,1302,A
+[[]]nslookup,recvfrom,6,1302,1302,A
+[[]]nslookup,access,7,1302,1302,A
+[[]]nslookup,write,8,1302,1302,A
+[[]]nslookup,read,8,1302,1302,A
+[[]]nslookup,pread64,8,1302,1302,A
+[[]]nslookup,pwrite64,8,1302,1302,A
+[[]]nslookup,sendto,8,1302,1302,A
+[[]]nslookup,recvfrom,8,1302,1302,A
+[[]]nslookup,mq_notify,9,1302,1302,A
+[[]]nslookup,setuid,10,1302,1302,A
+[[]]nslookup,munmap,1,1302,1302,A
+[[]]nslookup,munmap,2,1302,1302,A
+[[]]nslookup,mprotect,2,1302,1302,A
+[[]]nslookup,mremap,2,1302,1302,A
+[[]]nslookup,mmap,2,1302,1302,A
+[[]]nslookup,mlock,3,1302,1302,A
+[[]]nslookup,mlockall,3,1302,1302,A
+[[]]nslookup,munlock,3,1302,1302,A
+[[]]nslookup,munlockall,3,1302,1302,A
+

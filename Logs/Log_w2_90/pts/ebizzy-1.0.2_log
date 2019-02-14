@@ -1,0 +1,390 @@
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+ebizzy 0.3:
+    pts/ebizzy-1.0.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes (23:49 PDT)
+        Started Run 1 @ 23:48:23
+        Started Run 2 @ 23:48:43
+        Started Run 3 @ 23:49:03  [Std. Dev: 0.43%]
+
+    Test Results:
+        7957
+        7985
+        8025
+
+    Average: 7989 Records/s
+
+[[]]pts/ebizzy-1.0.2,rt_sigaction,4,12644,12704,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+ebizzy 0.3:
+    pts/ebizzy-1.0.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes (23:50 PDT)
+        Started Run 1 @ 23:49:24
+        Started Run 2 @ 23:49:44
+        Started Run 3 @ 23:50:04  [Std. Dev: 0.66%]
+
+    Test Results:
+        8015
+        7943
+        7912
+
+    Average: 7957 Records/s
+
+[[]]pts/ebizzy-1.0.2,rt_sigprocmask,4,12704,12765,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+ebizzy 0.3:
+    pts/ebizzy-1.0.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes (23:51 PDT)
+        Started Run 1 @ 23:50:24
+        Started Run 2 @ 23:50:44
+        Started Run 3 @ 23:51:04  [Std. Dev: 0.69%]
+
+    Test Results:
+        7991
+        7924
+        7882
+
+    Average: 7932 Records/s
+
+[[]]pts/ebizzy-1.0.2,write,5,12765,12825,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+ebizzy 0.3:
+    pts/ebizzy-1.0.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes (23:52 PDT)
+        Started Run 1 @ 23:51:24
+        Started Run 2 @ 23:51:45
+        Started Run 3 @ 23:52:05  [Std. Dev: 0.97%]
+
+    Test Results:
+        7970
+        7887
+        8042
+
+    Average: 7966 Records/s
+
+[[]]pts/ebizzy-1.0.2,read,5,12825,12886,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+ebizzy 0.3:
+    pts/ebizzy-1.0.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes (23:53 PDT)
+        Started Run 1 @ 23:52:25
+        Started Run 2 @ 23:52:45
+        Started Run 3 @ 23:53:05  [Std. Dev: 0.75%]
+
+    Test Results:
+        7984
+        7939
+        8057
+
+    Average: 7993 Records/s
+
+[[]]pts/ebizzy-1.0.2,write,6,12886,12946,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+ebizzy 0.3:
+    pts/ebizzy-1.0.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes (23:54 PDT)
+        Started Run 1 @ 23:53:25
+        Started Run 2 @ 23:53:45
+        Started Run 3 @ 23:54:05  [Std. Dev: 0.42%]
+
+    Test Results:
+        7993
+        7938
+        7932
+
+    Average: 7954 Records/s
+
+[[]]pts/ebizzy-1.0.2,read,6,12946,13006,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+ebizzy 0.3:
+    pts/ebizzy-1.0.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes (23:55 PDT)
+        Started Run 1 @ 23:54:26
+        Started Run 2 @ 23:54:46
+        Started Run 3 @ 23:55:06  [Std. Dev: 0.84%]
+
+    Test Results:
+        7910
+        8040
+        8001
+
+    Average: 7984 Records/s
+
+[[]]pts/ebizzy-1.0.2,access,7,13007,13067,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+ebizzy 0.3:
+    pts/ebizzy-1.0.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes (23:56 PDT)
+        Started Run 1 @ 23:55:26
+        Started Run 2 @ 23:55:46
+        Started Run 3 @ 23:56:06  [Std. Dev: 0.76%]
+
+    Test Results:
+        8017
+        7899
+        7980
+
+    Average: 7965 Records/s
+
+[[]]pts/ebizzy-1.0.2,write,8,13067,13127,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+ebizzy 0.3:
+    pts/ebizzy-1.0.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes (23:57 PDT)
+        Started Run 1 @ 23:56:27
+        Started Run 2 @ 23:56:47
+        Started Run 3 @ 23:57:07  [Std. Dev: 0.38%]
+
+    Test Results:
+        8022
+        7984
+        7962
+
+    Average: 7989 Records/s
+
+[[]]pts/ebizzy-1.0.2,read,8,13127,13188,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+ebizzy 0.3:
+    pts/ebizzy-1.0.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes (23:58 PDT)
+        Started Run 1 @ 23:57:27
+        Started Run 2 @ 23:57:47
+        Started Run 3 @ 23:58:07  [Std. Dev: 0.77%]
+
+    Test Results:
+        7901
+        7826
+        7946
+
+    Average: 7891 Records/s
+
+[[]]pts/ebizzy-1.0.2,munmap,1,13188,13248,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+ebizzy 0.3:
+    pts/ebizzy-1.0.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes (23:59 PDT)
+        Started Run 1 @ 23:58:28
+        Started Run 2 @ 23:58:48
+        Started Run 3 @ 23:59:08  [Std. Dev: 0.37%]
+
+    Test Results:
+        7936
+        7995
+        7972
+
+    Average: 7968 Records/s
+
+[[]]pts/ebizzy-1.0.2,munmap,2,13248,13309,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+ebizzy 0.3:
+    pts/ebizzy-1.0.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes (00:00 PDT)
+        Started Run 1 @ 23:59:28
+        Started Run 2 @ 23:59:48
+        Started Run 3 @ 00:00:08  [Std. Dev: 0.57%]
+
+    Test Results:
+        7943
+        7995
+        8034
+
+    Average: 7991 Records/s
+
+[[]]pts/ebizzy-1.0.2,mprotect,2,13309,13369,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+ebizzy 0.3:
+    pts/ebizzy-1.0.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes (00:01 PDT)
+        Started Run 1 @ 00:00:29
+        Started Run 2 @ 00:00:49
+        Started Run 3 @ 00:01:09  [Std. Dev: 0.43%]
+
+    Test Results:
+        7961
+        7895
+        7945
+
+    Average: 7934 Records/s
+
+[[]]pts/ebizzy-1.0.2,mmap,2,13369,13431,
+

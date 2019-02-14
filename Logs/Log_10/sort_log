@@ -1,0 +1,446 @@
+
+cat files/hello.pl
+chmod 777 files/hello.pl
+date
+df
+dig 8.8.8.8
+dmesg
+dstat --list
+du
+echo "haha"
+find . -name "runApp.sh"
+free -m
+grep -i "haha" *
+head -5 lap-installed-apps
+ifconfig
+java 
+ls
+lsmod
+netstat -ntlp
+nmap ubuntu
+nslookup 8.8.8.8
+perl files/hello.pl
+ping -c 3 8.8.8.8
+printf "haha\n"
+ps -ef | grep bash
+pwd
+tail -5 lap-installed-apps
+top -n 1
+traceroute 8.8.8.8
+uname -a
+vmstat
+wc -l runApp.sh
+which
+who
+whoami
+[[]]sort,rt_sigaction,4,59453,59453,
+
+
+cat files/hello.pl
+chmod 777 files/hello.pl
+date
+df
+dig 8.8.8.8
+dmesg
+dstat --list
+du
+echo "haha"
+find . -name "runApp.sh"
+free -m
+grep -i "haha" *
+head -5 lap-installed-apps
+ifconfig
+java 
+ls
+lsmod
+netstat -ntlp
+nmap ubuntu
+nslookup 8.8.8.8
+perl files/hello.pl
+ping -c 3 8.8.8.8
+printf "haha\n"
+ps -ef | grep bash
+pwd
+tail -5 lap-installed-apps
+top -n 1
+traceroute 8.8.8.8
+uname -a
+vmstat
+wc -l runApp.sh
+which
+who
+whoami
+[[]]sort,rt_sigprocmask,4,59454,59454,
+
+
+cat files/hello.pl
+chmod 777 files/hello.pl
+date
+df
+dig 8.8.8.8
+dmesg
+dstat --list
+du
+echo "haha"
+find . -name "runApp.sh"
+free -m
+grep -i "haha" *
+head -5 lap-installed-apps
+ifconfig
+java 
+ls
+lsmod
+netstat -ntlp
+nmap ubuntu
+nslookup 8.8.8.8
+perl files/hello.pl
+ping -c 3 8.8.8.8
+printf "haha\n"
+ps -ef | grep bash
+pwd
+tail -5 lap-installed-apps
+top -n 1
+traceroute 8.8.8.8
+uname -a
+vmstat
+wc -l runApp.sh
+which
+who
+whoami
+[[]]sort,write,5,59455,59455,
+
+
+cat files/hello.pl
+chmod 777 files/hello.pl
+date
+df
+dig 8.8.8.8
+dmesg
+dstat --list
+du
+echo "haha"
+find . -name "runApp.sh"
+free -m
+grep -i "haha" *
+head -5 lap-installed-apps
+ifconfig
+java 
+ls
+lsmod
+netstat -ntlp
+nmap ubuntu
+nslookup 8.8.8.8
+perl files/hello.pl
+ping -c 3 8.8.8.8
+printf "haha\n"
+ps -ef | grep bash
+pwd
+tail -5 lap-installed-apps
+top -n 1
+traceroute 8.8.8.8
+uname -a
+vmstat
+wc -l runApp.sh
+which
+who
+whoami
+[[]]sort,read,5,59456,59456,
+
+
+cat files/hello.pl
+chmod 777 files/hello.pl
+date
+df
+dig 8.8.8.8
+dmesg
+dstat --list
+du
+echo "haha"
+find . -name "runApp.sh"
+free -m
+grep -i "haha" *
+head -5 lap-installed-apps
+ifconfig
+java 
+ls
+lsmod
+netstat -ntlp
+nmap ubuntu
+nslookup 8.8.8.8
+perl files/hello.pl
+ping -c 3 8.8.8.8
+printf "haha\n"
+ps -ef | grep bash
+pwd
+tail -5 lap-installed-apps
+top -n 1
+traceroute 8.8.8.8
+uname -a
+vmstat
+wc -l runApp.sh
+which
+who
+whoami
+[[]]sort,write,6,59458,59458,
+
+
+cat files/hello.pl
+chmod 777 files/hello.pl
+date
+df
+dig 8.8.8.8
+dmesg
+dstat --list
+du
+echo "haha"
+find . -name "runApp.sh"
+free -m
+grep -i "haha" *
+head -5 lap-installed-apps
+ifconfig
+java 
+ls
+lsmod
+netstat -ntlp
+nmap ubuntu
+nslookup 8.8.8.8
+perl files/hello.pl
+ping -c 3 8.8.8.8
+printf "haha\n"
+ps -ef | grep bash
+pwd
+tail -5 lap-installed-apps
+top -n 1
+traceroute 8.8.8.8
+uname -a
+vmstat
+wc -l runApp.sh
+which
+who
+whoami
+[[]]sort,read,6,59459,59459,
+
+
+cat files/hello.pl
+chmod 777 files/hello.pl
+date
+df
+dig 8.8.8.8
+dmesg
+dstat --list
+du
+echo "haha"
+find . -name "runApp.sh"
+free -m
+grep -i "haha" *
+head -5 lap-installed-apps
+ifconfig
+java 
+ls
+lsmod
+netstat -ntlp
+nmap ubuntu
+nslookup 8.8.8.8
+perl files/hello.pl
+ping -c 3 8.8.8.8
+printf "haha\n"
+ps -ef | grep bash
+pwd
+tail -5 lap-installed-apps
+top -n 1
+traceroute 8.8.8.8
+uname -a
+vmstat
+wc -l runApp.sh
+which
+who
+whoami
+[[]]sort,access,7,59460,59460,
+
+
+cat files/hello.pl
+chmod 777 files/hello.pl
+date
+df
+dig 8.8.8.8
+dmesg
+dstat --list
+du
+echo "haha"
+find . -name "runApp.sh"
+free -m
+grep -i "haha" *
+head -5 lap-installed-apps
+ifconfig
+java 
+ls
+lsmod
+netstat -ntlp
+nmap ubuntu
+nslookup 8.8.8.8
+perl files/hello.pl
+ping -c 3 8.8.8.8
+printf "haha\n"
+ps -ef | grep bash
+pwd
+tail -5 lap-installed-apps
+top -n 1
+traceroute 8.8.8.8
+uname -a
+vmstat
+wc -l runApp.sh
+which
+who
+whoami
+[[]]sort,write,8,59461,59461,
+
+
+cat files/hello.pl
+chmod 777 files/hello.pl
+date
+df
+dig 8.8.8.8
+dmesg
+dstat --list
+du
+echo "haha"
+find . -name "runApp.sh"
+free -m
+grep -i "haha" *
+head -5 lap-installed-apps
+ifconfig
+java 
+ls
+lsmod
+netstat -ntlp
+nmap ubuntu
+nslookup 8.8.8.8
+perl files/hello.pl
+ping -c 3 8.8.8.8
+printf "haha\n"
+ps -ef | grep bash
+pwd
+tail -5 lap-installed-apps
+top -n 1
+traceroute 8.8.8.8
+uname -a
+vmstat
+wc -l runApp.sh
+which
+who
+whoami
+[[]]sort,read,8,59462,59462,
+
+
+cat files/hello.pl
+chmod 777 files/hello.pl
+date
+df
+dig 8.8.8.8
+dmesg
+dstat --list
+du
+echo "haha"
+find . -name "runApp.sh"
+free -m
+grep -i "haha" *
+head -5 lap-installed-apps
+ifconfig
+java 
+ls
+lsmod
+netstat -ntlp
+nmap ubuntu
+nslookup 8.8.8.8
+perl files/hello.pl
+ping -c 3 8.8.8.8
+printf "haha\n"
+ps -ef | grep bash
+pwd
+tail -5 lap-installed-apps
+top -n 1
+traceroute 8.8.8.8
+uname -a
+vmstat
+wc -l runApp.sh
+which
+who
+whoami
+[[]]sort,munmap,1,59463,59463,
+
+
+cat files/hello.pl
+chmod 777 files/hello.pl
+date
+df
+dig 8.8.8.8
+dmesg
+dstat --list
+du
+echo "haha"
+find . -name "runApp.sh"
+free -m
+grep -i "haha" *
+head -5 lap-installed-apps
+ifconfig
+java 
+ls
+lsmod
+netstat -ntlp
+nmap ubuntu
+nslookup 8.8.8.8
+perl files/hello.pl
+ping -c 3 8.8.8.8
+printf "haha\n"
+ps -ef | grep bash
+pwd
+tail -5 lap-installed-apps
+top -n 1
+traceroute 8.8.8.8
+uname -a
+vmstat
+wc -l runApp.sh
+which
+who
+whoami
+[[]]sort,munmap,2,59464,59464,
+
+
+cat files/hello.pl
+chmod 777 files/hello.pl
+date
+df
+dig 8.8.8.8
+dmesg
+dstat --list
+du
+echo "haha"
+find . -name "runApp.sh"
+free -m
+grep -i "haha" *
+head -5 lap-installed-apps
+ifconfig
+java 
+ls
+lsmod
+netstat -ntlp
+nmap ubuntu
+nslookup 8.8.8.8
+perl files/hello.pl
+ping -c 3 8.8.8.8
+printf "haha\n"
+ps -ef | grep bash
+pwd
+tail -5 lap-installed-apps
+top -n 1
+traceroute 8.8.8.8
+uname -a
+vmstat
+wc -l runApp.sh
+which
+who
+whoami
+[[]]sort,mprotect,2,59465,59465,
+
+[[]]sort,mmap,2,59466,59466,A
+

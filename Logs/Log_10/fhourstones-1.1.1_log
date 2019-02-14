@@ -1,0 +1,374 @@
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 12 Minutes
+
+
+
+Fhourstones 3.1:
+    pts/fhourstones-1.1.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 12 Minutes
+        Started Run 1 @ 15:46:32
+        Started Run 2 @ 15:48:48
+        Started Run 3 @ 15:51:02  [Std. Dev: 1.11%]
+
+    Test Results:
+        12528.7
+        12736.7
+        12796
+
+    Average: 12687.13 Kpos / sec
+
+
+[[]]pts/fhourstones-1.1.1,write,5,48402,48805,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 7 Minutes
+
+
+
+Fhourstones 3.1:
+    pts/fhourstones-1.1.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 7 Minutes
+        Started Run 1 @ 15:53:14
+        Started Run 2 @ 15:55:26
+        Started Run 3 @ 15:57:35  [Std. Dev: 1.50%]
+
+    Test Results:
+        12914.1
+        13253.2
+        13258.2
+
+    Average: 13141.83 Kpos / sec
+
+
+[[]]pts/fhourstones-1.1.1,read,5,48805,49194,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 7 Minutes
+
+
+
+Fhourstones 3.1:
+    pts/fhourstones-1.1.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 7 Minutes
+        Started Run 1 @ 15:59:43
+        Started Run 2 @ 16:01:52
+        Started Run 3 @ 16:04:01  [Std. Dev: 0.05%]
+
+    Test Results:
+        13259.3
+        13260.1
+        13249
+
+    Average: 13256.13 Kpos / sec
+
+
+[[]]pts/fhourstones-1.1.1,write,6,49194,49579,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 7 Minutes
+
+
+
+Fhourstones 3.1:
+    pts/fhourstones-1.1.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 7 Minutes
+        Started Run 1 @ 16:06:09
+        Started Run 2 @ 16:08:18
+        Started Run 3 @ 16:10:27  [Std. Dev: 0.26%]
+
+    Test Results:
+        13273.8
+        13209.4
+        13263.9
+
+    Average: 13249.03 Kpos / sec
+
+
+[[]]pts/fhourstones-1.1.1,read,6,49579,49965,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 7 Minutes
+
+
+
+Fhourstones 3.1:
+    pts/fhourstones-1.1.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 7 Minutes
+        Started Run 1 @ 16:12:35
+        Started Run 2 @ 16:14:44
+        Started Run 3 @ 16:16:53  [Std. Dev: 0.04%]
+
+    Test Results:
+        13268
+        13265
+        13276
+
+    Average: 13270 Kpos / sec
+
+
+[[]]pts/fhourstones-1.1.1,access,7,49965,50351,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 7 Minutes
+
+
+
+Fhourstones 3.1:
+    pts/fhourstones-1.1.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 7 Minutes
+        Started Run 1 @ 16:19:02
+        Started Run 2 @ 16:21:10
+        Started Run 3 @ 16:23:19  [Std. Dev: 0.14%]
+
+    Test Results:
+        13287
+        13271.4
+        13249.7
+
+    Average: 13269.37 Kpos / sec
+
+
+[[]]pts/fhourstones-1.1.1,write,8,50351,50737,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 7 Minutes
+
+
+
+Fhourstones 3.1:
+    pts/fhourstones-1.1.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 7 Minutes
+        Started Run 1 @ 16:25:27
+        Started Run 2 @ 16:27:39
+        Started Run 3 @ 16:29:52  [Std. Dev: 1.40%]
+
+    Test Results:
+        12901.5
+        12838
+        13178.5
+
+    Average: 12972.67 Kpos / sec
+
+
+[[]]pts/fhourstones-1.1.1,read,8,50737,51131,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 7 Minutes
+
+
+
+Fhourstones 3.1:
+    pts/fhourstones-1.1.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 7 Minutes
+        Started Run 1 @ 16:32:01
+        Started Run 2 @ 16:34:14
+        Started Run 3 @ 16:36:23  [Std. Dev: 0.38%]
+
+    Test Results:
+        13223.4
+        13157
+        13256.4
+
+    Average: 13212.27 Kpos / sec
+
+
+[[]]pts/fhourstones-1.1.1,munmap,1,51131,51522,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 7 Minutes
+
+
+
+Fhourstones 3.1:
+    pts/fhourstones-1.1.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 7 Minutes
+        Started Run 1 @ 16:38:31
+        Started Run 2 @ 16:40:43
+        Started Run 3 @ 16:42:51  [Std. Dev: 1.02%]
+
+    Test Results:
+        12990.9
+        13242.8
+        13194.8
+
+    Average: 13142.83 Kpos / sec
+
+
+[[]]pts/fhourstones-1.1.1,munmap,2,51522,51910,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 7 Minutes
+
+
+
+Fhourstones 3.1:
+    pts/fhourstones-1.1.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 7 Minutes
+        Started Run 1 @ 16:45:00
+        Started Run 2 @ 16:47:09
+        Started Run 3 @ 16:49:22  [Std. Dev: 1.29%]
+
+    Test Results:
+        13191.7
+        12892.6
+        12909
+
+    Average: 12997.77 Kpos / sec
+
+
+[[]]pts/fhourstones-1.1.1,mprotect,2,51910,52304,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 7 Minutes
+
+
+
+Fhourstones 3.1:
+    pts/fhourstones-1.1.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 7 Minutes
+        Started Run 1 @ 16:51:33
+        Started Run 2 @ 16:53:46
+        Started Run 3 @ 16:55:58  [Std. Dev: 0.95%]
+
+    Test Results:
+        12851.7
+        12911.3
+        12677.5
+
+    Average: 12813.50 Kpos / sec
+
+
+[[]]pts/fhourstones-1.1.1,mmap,2,52304,52702,
+

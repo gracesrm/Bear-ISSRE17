@@ -1,0 +1,374 @@
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Monkey Audio Encoding 3.99u4b5s6:
+    pts/encode-ape-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 4 Minutes (00:04 PDT)
+        Started Run 1 @ 00:01:30
+        Started Run 2 @ 00:01:38
+        Started Run 3 @ 00:01:47
+        Started Run 4 @ 00:01:55
+        Started Run 5 @ 00:02:03  [Std. Dev: 1.46%]
+
+    Test Results:
+        8.4345660209656
+        8.1724109649658
+        8.2179610729218
+        8.1220920085907
+        8.2012529373169
+
+    Average: 8.23 Seconds
+
+[[]]pts/encode-ape-1.3.0,write,5,13431,13472,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Monkey Audio Encoding 3.99u4b5s6:
+    pts/encode-ape-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 1 Minute (00:02 PDT)
+        Started Run 1 @ 00:02:11
+        Started Run 2 @ 00:02:20
+        Started Run 3 @ 00:02:28
+        Started Run 4 @ 00:02:36
+        Started Run 5 @ 00:02:44  [Std. Dev: 0.47%]
+
+    Test Results:
+        8.1921491622925
+        8.1446039676666
+        8.2484340667725
+        8.178375005722
+        8.1751081943512
+
+    Average: 8.19 Seconds
+
+[[]]pts/encode-ape-1.3.0,read,5,13472,13514,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Monkey Audio Encoding 3.99u4b5s6:
+    pts/encode-ape-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 1 Minute (00:03 PDT)
+        Started Run 1 @ 00:02:53
+        Started Run 2 @ 00:03:01
+        Started Run 3 @ 00:03:09
+        Started Run 4 @ 00:03:17
+        Started Run 5 @ 00:03:26  [Std. Dev: 0.38%]
+
+    Test Results:
+        8.1831769943237
+        8.2159419059753
+        8.1451530456543
+        8.1989848613739
+        8.1481099128723
+
+    Average: 8.18 Seconds
+
+[[]]pts/encode-ape-1.3.0,write,6,13514,13555,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Monkey Audio Encoding 3.99u4b5s6:
+    pts/encode-ape-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 1 Minute (00:04 PDT)
+        Started Run 1 @ 00:03:34
+        Started Run 2 @ 00:03:42
+        Started Run 3 @ 00:03:51
+        Started Run 4 @ 00:03:59
+        Started Run 5 @ 00:04:07  [Std. Dev: 0.39%]
+
+    Test Results:
+        8.2038578987122
+        8.1362910270691
+        8.1645390987396
+        8.1966700553894
+        8.136794090271
+
+    Average: 8.17 Seconds
+
+[[]]pts/encode-ape-1.3.0,read,6,13555,13596,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Monkey Audio Encoding 3.99u4b5s6:
+    pts/encode-ape-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 1 Minute (00:04 PDT)
+        Started Run 1 @ 00:04:15
+        Started Run 2 @ 00:04:24
+        Started Run 3 @ 00:04:32
+        Started Run 4 @ 00:04:40
+        Started Run 5 @ 00:04:48  [Std. Dev: 0.20%]
+
+    Test Results:
+        8.1372079849243
+        8.1564290523529
+        8.1203169822693
+        8.1233170032501
+        8.1180799007416
+
+    Average: 8.13 Seconds
+
+[[]]pts/encode-ape-1.3.0,access,7,13596,13637,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Monkey Audio Encoding 3.99u4b5s6:
+    pts/encode-ape-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 1 Minute (00:05 PDT)
+        Started Run 1 @ 00:04:57
+        Started Run 2 @ 00:05:05
+        Started Run 3 @ 00:05:13
+        Started Run 4 @ 00:05:21
+        Started Run 5 @ 00:05:29  [Std. Dev: 0.10%]
+
+    Test Results:
+        8.1664690971375
+        8.1764030456543
+        8.1559040546417
+        8.1607699394226
+        8.1611039638519
+
+    Average: 8.16 Seconds
+
+[[]]pts/encode-ape-1.3.0,write,8,13637,13678,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Monkey Audio Encoding 3.99u4b5s6:
+    pts/encode-ape-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 1 Minute (00:06 PDT)
+        Started Run 1 @ 00:05:38
+        Started Run 2 @ 00:05:46
+        Started Run 3 @ 00:05:54
+        Started Run 4 @ 00:06:02
+        Started Run 5 @ 00:06:10  [Std. Dev: 0.35%]
+
+    Test Results:
+        8.1740801334381
+        8.2171099185944
+        8.1623771190643
+        8.14044713974
+        8.1593060493469
+
+    Average: 8.17 Seconds
+
+[[]]pts/encode-ape-1.3.0,read,8,13678,13720,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Monkey Audio Encoding 3.99u4b5s6:
+    pts/encode-ape-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 1 Minute (00:07 PDT)
+        Started Run 1 @ 00:06:19
+        Started Run 2 @ 00:06:27
+        Started Run 3 @ 00:06:35
+        Started Run 4 @ 00:06:44
+        Started Run 5 @ 00:06:52  [Std. Dev: 0.54%]
+
+    Test Results:
+        8.2449860572815
+        8.1848587989807
+        8.1401519775391
+        8.1489200592041
+        8.1440370082855
+
+    Average: 8.17 Seconds
+
+[[]]pts/encode-ape-1.3.0,munmap,1,13720,13761,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Monkey Audio Encoding 3.99u4b5s6:
+    pts/encode-ape-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 1 Minute (00:07 PDT)
+        Started Run 1 @ 00:07:00
+        Started Run 2 @ 00:07:09
+        Started Run 3 @ 00:07:17
+        Started Run 4 @ 00:07:25
+        Started Run 5 @ 00:07:33  [Std. Dev: 0.30%]
+
+    Test Results:
+        8.1818249225616
+        8.1341519355774
+        8.1584250926971
+        8.118175983429
+        8.1435968875885
+
+    Average: 8.15 Seconds
+
+[[]]pts/encode-ape-1.3.0,munmap,2,13761,13802,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Monkey Audio Encoding 3.99u4b5s6:
+    pts/encode-ape-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 1 Minute (00:08 PDT)
+        Started Run 1 @ 00:07:42
+        Started Run 2 @ 00:07:50
+        Started Run 3 @ 00:07:58
+        Started Run 4 @ 00:08:06
+        Started Run 5 @ 00:08:14  [Std. Dev: 0.54%]
+
+    Test Results:
+        8.1802339553833
+        8.1609401702881
+        8.1532719135284
+        8.166424036026
+        8.260833978653
+
+    Average: 8.18 Seconds
+
+[[]]pts/encode-ape-1.3.0,mprotect,2,13802,13844,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Monkey Audio Encoding 3.99u4b5s6:
+    pts/encode-ape-1.3.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 1 Minute (00:09 PDT)
+        Started Run 1 @ 00:08:23
+        Started Run 2 @ 00:08:31
+        Started Run 3 @ 00:08:39
+        Started Run 4 @ 00:08:47
+        Started Run 5 @ 00:08:56  [Std. Dev: 0.65%]
+
+    Test Results:
+        8.1945779323578
+        8.143256187439
+        8.1380009651184
+        8.1887729167938
+        8.2707328796387
+
+    Average: 8.19 Seconds
+
+[[]]pts/encode-ape-1.3.0,mmap,2,13844,13885,
+

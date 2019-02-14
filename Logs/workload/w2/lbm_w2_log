@@ -1,0 +1,740 @@
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.12 sys:    0.00 tot:    1.12 wct:    1.12 MLUPS: 11.61
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,rt_sigaction,4,84177,84178,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.13 sys:    0.00 tot:    1.13 wct:    1.13 MLUPS: 11.50
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,rt_sigprocmask,4,84204,84206,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.11 sys:    0.00 tot:    1.11 wct:    1.11 MLUPS: 11.71
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,rt_sigpending,4,84232,84233,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.14 sys:    0.00 tot:    1.14 wct:    1.13 MLUPS: 11.50
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,kill,4,84259,84260,
+[[]]lbm,write,5,84286,84288,
+[[]]lbm,read,5,84311,84312,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.14 sys:    0.00 tot:    1.14 wct:    1.14 MLUPS: 11.40
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,pread64,5,84314,84316,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.12 sys:    0.00 tot:    1.12 wct:    1.12 MLUPS: 11.61
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,pwrite64,5,84341,84343,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.12 sys:    0.00 tot:    1.12 wct:    1.13 MLUPS: 11.50
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,sendto,5,84369,84370,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.11 sys:    0.00 tot:    1.11 wct:    1.11 MLUPS: 11.71
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,recvfrom,5,84396,84397,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.11 sys:    0.00 tot:    1.11 wct:    1.11 MLUPS: 11.71
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,write,6,84423,84424,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.17 sys:    0.00 tot:    1.17 wct:    1.17 MLUPS: 11.11
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,read,6,84450,84452,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.11 sys:    0.00 tot:    1.11 wct:    1.11 MLUPS: 11.71
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,pread64,6,84477,84479,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.11 sys:    0.00 tot:    1.11 wct:    1.11 MLUPS: 11.71
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,pwrite64,6,84504,84506,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.10 sys:    0.00 tot:    1.10 wct:    1.11 MLUPS: 11.71
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,sendto,6,84531,84533,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.11 sys:    0.00 tot:    1.11 wct:    1.11 MLUPS: 11.71
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,recvfrom,6,84559,84560,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.10 sys:    0.00 tot:    1.10 wct:    1.11 MLUPS: 11.71
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,access,7,84586,84587,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.10 sys:    0.00 tot:    1.10 wct:    1.10 MLUPS: 11.82
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,write,8,84613,84614,
+.................................................................
+....................................................................................................
+..............................................................#################..............................###################yte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.10 sys:    0.00 tot:    1.10 wct:    1.11 MLUPS: 11.71
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,read,8,84640,84641,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.10 sys:    0.00 tot:    1.10 wct:    1.11 MLUPS: 11.71
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,pread64,8,84667,84668,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.10 sys:    0.00 tot:    1.10 wct:    1.11 MLUPS: 11.71
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,pwrite64,8,84694,84695,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.11 sys:    0.00 tot:    1.11 wct:    1.11 MLUPS: 11.71
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,sendto,8,84721,84722,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.11 sys:    0.00 tot:    1.11 wct:    1.11 MLUPS: 11.71
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,recvfrom,8,84748,84749,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.11 sys:    0.00 tot:    1.11 wct:    1.11 MLUPS: 11.71
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,mq_notify,9,84775,84776,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.10 sys:    0.00 tot:    1.10 wct:    1.11 MLUPS: 11.71
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,setuid,10,84802,84803,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.10 sys:    0.00 tot:    1.10 wct:    1.11 MLUPS: 11.71
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,munmap,1,84829,84830,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.13 sys:    0.00 tot:    1.13 wct:    1.12 MLUPS: 11.61
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,munmap,2,84856,84857,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.11 sys:    0.00 tot:    1.11 wct:    1.11 MLUPS: 11.71
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,mprotect,2,84883,84885,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.11 sys:    0.00 tot:    1.11 wct:    1.11 MLUPS: 11.71
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,mremap,2,84911,84912,
+[[]]lbm,mmap,2,84935,84935,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.10 sys:    0.00 tot:    1.10 wct:    1.11 MLUPS: 11.71
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,mlock,3,84938,84939,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.12 sys:    0.00 tot:    1.12 wct:    1.13 MLUPS: 11.50
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,mlockall,3,84965,84966,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.11 sys:    0.00 tot:    1.11 wct:    1.11 MLUPS: 11.71
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,munlock,3,84992,84994,
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 10
+	result file    : reference.dat
+	action         : nothing
+	simulation type: channel flow
+	obstacle file  : 100_100_130_cf_a.of
+
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_allocateGrid: allocated 204.5 MByte
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+MAIN_stopClock:
+	usr:    1.10 sys:    0.00 tot:    1.10 wct:    1.11 MLUPS: 11.71
+
+LBM_showGridStatistics:
+	nObstacleCells:  498440 nAccelCells:       0 nFluidCells:  801560
+	minRho:   1.0000 maxRho:   1.0240 mass: 1.300512e+06
+	minU: 0.000000e+00 maxU: 1.304654e-02
+
+[[]]lbm,munlockall,3,85020,85021,

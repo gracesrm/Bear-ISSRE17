@@ -1,0 +1,32 @@
+Linux localhost 3.13.0-85-generic #129-Ubuntu SMP Thu Mar 17 20:50:15 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+[[]]uname,write,5,60075,60075,
+
+Linux localhost 3.13.0-85-generic #129-Ubuntu SMP Thu Mar 17 20:50:15 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+[[]]uname,read,5,60076,60076,
+
+Linux localhost 3.13.0-85-generic #129-Ubuntu SMP Thu Mar 17 20:50:15 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+[[]]uname,write,6,60077,60077,
+
+Linux localhost 3.13.0-85-generic #129-Ubuntu SMP Thu Mar 17 20:50:15 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+[[]]uname,read,6,60078,60078,
+
+Linux localhost 3.13.0-85-generic #129-Ubuntu SMP Thu Mar 17 20:50:15 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+[[]]uname,access,7,60079,60079,
+
+Linux localhost 3.13.0-85-generic #129-Ubuntu SMP Thu Mar 17 20:50:15 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+[[]]uname,write,8,60080,60080,
+
+Linux localhost 3.13.0-85-generic #129-Ubuntu SMP Thu Mar 17 20:50:15 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+[[]]uname,read,8,60081,60081,
+
+Linux localhost 3.13.0-85-generic #129-Ubuntu SMP Thu Mar 17 20:50:15 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+[[]]uname,munmap,1,60082,60082,
+
+Linux localhost 3.13.0-85-generic #129-Ubuntu SMP Thu Mar 17 20:50:15 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+[[]]uname,munmap,2,60083,60083,
+
+Linux localhost 3.13.0-85-generic #129-Ubuntu SMP Thu Mar 17 20:50:15 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+[[]]uname,mprotect,2,60085,60085,
+
+[[]]uname,mmap,2,60086,60086,A
+

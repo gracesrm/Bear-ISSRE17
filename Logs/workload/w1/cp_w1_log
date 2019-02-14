@@ -1,0 +1,38 @@
+-rw-rw-r-- 1 ruimin ruimin 424 May  7 22:11 files/aa_cp
+[[]]cp,rt_sigaction,4,7340,7340,
+
+-rw-rw-r-- 1 ruimin ruimin 424 May  7 22:11 files/aa_cp
+[[]]cp,rt_sigprocmask,4,7340,7340,
+
+-rw-rw-r-- 1 ruimin ruimin 424 May  7 22:11 files/aa_cp
+[[]]cp,write,5,7340,7340,
+
+-rw-rw-r-- 1 ruimin ruimin 424 May  7 22:11 files/aa_cp
+[[]]cp,read,5,7340,7340,
+
+-rw-rw-r-- 1 ruimin ruimin 424 May  7 22:11 files/aa_cp
+[[]]cp,write,6,7340,7340,
+
+-rw-rw-r-- 1 ruimin ruimin 424 May  7 22:11 files/aa_cp
+[[]]cp,read,6,7340,7340,
+
+-rw-rw-r-- 1 ruimin ruimin 424 May  7 22:11 files/aa_cp
+[[]]cp,access,7,7341,7341,
+
+-rw-rw-r-- 1 ruimin ruimin 424 May  7 22:11 files/aa_cp
+[[]]cp,write,8,7341,7341,
+
+-rw-rw-r-- 1 ruimin ruimin 424 May  7 22:11 files/aa_cp
+[[]]cp,read,8,7341,7341,
+
+-rw-rw-r-- 1 ruimin ruimin 424 May  7 22:11 files/aa_cp
+[[]]cp,munmap,1,7341,7341,
+
+-rw-rw-r-- 1 ruimin ruimin 424 May  7 22:11 files/aa_cp
+[[]]cp,munmap,2,7341,7341,
+
+-rw-rw-r-- 1 ruimin ruimin 424 May  7 22:11 files/aa_cp
+[[]]cp,mprotect,2,7341,7341,
+
+[[]]cp,mmap,2,7341,7341,A
+

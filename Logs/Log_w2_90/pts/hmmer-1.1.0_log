@@ -1,0 +1,270 @@
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Timed HMMer Search 2.3.2:
+    pts/hmmer-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes (02:46 PDT)
+        Started Run 1 @ 02:43:50
+        Started Run 2 @ 02:44:42
+        Started Run 3 @ 02:45:34  [Std. Dev: 0.50%]
+
+    Test Results:
+        52.311782836914
+        51.811190843582
+        51.930150032043
+
+    Average: 52.02 Seconds
+
+[[]]pts/hmmer-1.1.0,rt_sigaction,4,23170,23327,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Timed HMMer Search 2.3.2:
+    pts/hmmer-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes (02:49 PDT)
+        Started Run 1 @ 02:46:26
+        Started Run 2 @ 02:47:18
+        Started Run 3 @ 02:48:11  [Std. Dev: 0.21%]
+
+    Test Results:
+        52.220921993256
+        52.054875135422
+        52.018311023712
+
+    Average: 52.10 Seconds
+
+[[]]pts/hmmer-1.1.0,read,5,23327,23484,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Timed HMMer Search 2.3.2:
+    pts/hmmer-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes (02:51 PDT)
+        Started Run 1 @ 02:49:03
+        Started Run 2 @ 02:49:55
+        Started Run 3 @ 02:50:47  [Std. Dev: 0.18%]
+
+    Test Results:
+        52.120671987534
+        52.249530076981
+        52.066653013229
+
+    Average: 52.15 Seconds
+
+[[]]pts/hmmer-1.1.0,read,6,23484,23640,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Timed HMMer Search 2.3.2:
+    pts/hmmer-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes (02:54 PDT)
+        Started Run 1 @ 02:51:40
+        Started Run 2 @ 02:52:32
+        Started Run 3 @ 02:53:24  [Std. Dev: 0.13%]
+
+    Test Results:
+        52.084577083588
+        51.963068962097
+        52.077093839645
+
+    Average: 52.04 Seconds
+
+[[]]pts/hmmer-1.1.0,access,7,23641,23797,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Timed HMMer Search 2.3.2:
+    pts/hmmer-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes (02:56 PDT)
+        Started Run 1 @ 02:54:16
+        Started Run 2 @ 02:55:09
+        Started Run 3 @ 02:56:01  [Std. Dev: 0.12%]
+
+    Test Results:
+        52.112097024918
+        51.988672971725
+        52.019515991211
+
+    Average: 52.04 Seconds
+
+[[]]pts/hmmer-1.1.0,read,8,23797,23954,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Timed HMMer Search 2.3.2:
+    pts/hmmer-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes (02:59 PDT)
+        Started Run 1 @ 02:56:53
+        Started Run 2 @ 02:57:45
+        Started Run 3 @ 02:58:36  [Std. Dev: 0.64%]
+
+    Test Results:
+        52.073343038559
+        51.412430047989
+        51.709258079529
+
+    Average: 51.73 Seconds
+
+[[]]pts/hmmer-1.1.0,munmap,1,23954,24109,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Timed HMMer Search 2.3.2:
+    pts/hmmer-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes (03:02 PDT)
+        Started Run 1 @ 02:59:29
+        Started Run 2 @ 03:00:20
+        Started Run 3 @ 03:01:12  [Std. Dev: 0.09%]
+
+    Test Results:
+        51.863927841187
+        51.904849052429
+        51.955232858658
+
+    Average: 51.91 Seconds
+
+[[]]pts/hmmer-1.1.0,munmap,2,24109,24265,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Timed HMMer Search 2.3.2:
+    pts/hmmer-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes (03:04 PDT)
+        Started Run 1 @ 03:02:05
+        Started Run 2 @ 03:02:57
+        Started Run 3 @ 03:03:49  [Std. Dev: 0.15%]
+
+    Test Results:
+        52.082550048828
+        51.95064997673
+        51.939376831055
+
+    Average: 51.99 Seconds
+
+[[]]pts/hmmer-1.1.0,mprotect,2,24265,24422,
+
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+Timed HMMer Search 2.3.2:
+    pts/hmmer-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes (03:07 PDT)
+        Started Run 1 @ 03:04:41
+        Started Run 2 @ 03:05:33
+        Started Run 3 @ 03:06:25  [Std. Dev: 0.07%]
+
+    Test Results:
+        52.083832979202
+        52.060990810394
+        52.132448911667
+
+    Average: 52.09 Seconds
+
+[[]]pts/hmmer-1.1.0,mmap,2,24422,24579,
+

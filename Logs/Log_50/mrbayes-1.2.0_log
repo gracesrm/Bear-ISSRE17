@@ -1,0 +1,312 @@
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 6 Minutes
+
+
+
+Timed MrBayes Analysis 3.1.2:
+    pts/mrbayes-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 6 Minutes
+        Started Run 1 @ 00:48:57
+        Started Run 2 @ 00:49:37
+        Started Run 3 @ 00:50:15  [Std. Dev: 0.82%]
+
+    Test Results:
+        35.038663864136
+        35.381562948227
+        34.810331106186
+
+    Average: 35.08 Seconds
+
+
+[[]]pts/mrbayes-1.2.0,rt_sigaction,4,96833,96946,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Timed MrBayes Analysis 3.1.2:
+    pts/mrbayes-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 00:50:50
+        Started Run 2 @ 00:51:30
+        Started Run 3 @ 00:52:07  [Std. Dev: 0.24%]
+
+    Test Results:
+        34.973140001297
+        35.084765911102
+        34.922529935837
+
+    Average: 34.99 Seconds
+
+
+[[]]pts/mrbayes-1.2.0,read,5,96946,97059,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Timed MrBayes Analysis 3.1.2:
+    pts/mrbayes-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 00:52:43
+        Started Run 2 @ 00:53:23
+        Started Run 3 @ 00:54:00  [Std. Dev: 2.16%]
+
+    Test Results:
+        34.95353603363
+        34.84974694252
+        36.220421791077
+
+    Average: 35.34 Seconds
+
+
+[[]]pts/mrbayes-1.2.0,read,6,97059,97173,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Timed MrBayes Analysis 3.1.2:
+    pts/mrbayes-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 00:54:37
+        Started Run 2 @ 00:55:20
+        Started Run 3 @ 00:55:59  [Std. Dev: 3.80%]
+        Started Run 4 @ 00:56:36  [Std. Dev: 3.75%]
+        Started Run 5 @ 00:57:13  [Std. Dev: 3.63%]
+        Started Run 6 @ 00:57:50  [Std. Dev: 3.45%]
+
+    Test Results:
+        37.620867013931
+        37.252259969711
+        35.043793916702
+        35.147583007812
+        35.000860929489
+        35.032835006714
+
+    Average: 35.85 Seconds
+
+
+[[]]pts/mrbayes-1.2.0,access,7,97173,97402,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 3 Minutes
+
+
+
+Timed MrBayes Analysis 3.1.2:
+    pts/mrbayes-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes
+        Started Run 1 @ 00:58:26
+        Started Run 2 @ 00:59:06
+        Started Run 3 @ 00:59:44  [Std. Dev: 0.60%]
+
+    Test Results:
+        35.031427145004
+        35.39278793335
+        35.403028964996
+
+    Average: 35.28 Seconds
+
+
+[[]]pts/mrbayes-1.2.0,read,8,97402,97515,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 3 Minutes
+
+
+
+Timed MrBayes Analysis 3.1.2:
+    pts/mrbayes-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes
+        Started Run 1 @ 01:00:20
+        Started Run 2 @ 01:01:00
+        Started Run 3 @ 01:01:37  [Std. Dev: 0.07%]
+
+    Test Results:
+        35.134132862091
+        35.158601045609
+        35.107403039932
+
+    Average: 35.13 Seconds
+
+
+[[]]pts/mrbayes-1.2.0,munmap,1,97515,97629,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 3 Minutes
+
+
+
+Timed MrBayes Analysis 3.1.2:
+    pts/mrbayes-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes
+        Started Run 1 @ 01:02:13
+        Started Run 2 @ 01:02:54
+        Started Run 3 @ 01:03:31  [Std. Dev: 2.54%]
+
+    Test Results:
+        35.297089099884
+        35.146928071976
+        36.79172205925
+
+    Average: 35.75 Seconds
+
+
+[[]]pts/mrbayes-1.2.0,munmap,2,97629,97744,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 3 Minutes
+
+
+
+Timed MrBayes Analysis 3.1.2:
+    pts/mrbayes-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes
+        Started Run 1 @ 01:04:08
+        Started Run 2 @ 01:04:49
+        Started Run 3 @ 01:05:26  [Std. Dev: 0.49%]
+
+    Test Results:
+        35.430153131485
+        35.256942033768
+        35.085567951202
+
+    Average: 35.26 Seconds
+
+
+[[]]pts/mrbayes-1.2.0,mprotect,2,97744,97857,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 3 Minutes
+
+
+
+Timed MrBayes Analysis 3.1.2:
+    pts/mrbayes-1.2.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes
+        Started Run 1 @ 01:06:02
+        Started Run 2 @ 01:06:43
+        Started Run 3 @ 01:07:20  [Std. Dev: 0.83%]
+
+    Test Results:
+        35.501027822495
+        35.084047079086
+        34.938825130463
+
+    Average: 35.17 Seconds
+
+
+[[]]pts/mrbayes-1.2.0,mmap,2,97857,97971,A
+

@@ -1,0 +1,442 @@
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 3 Minutes
+
+
+
+Gcrypt Library 1.4.4:
+    pts/gcrypt-1.0.3
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes
+        Started Run 1 @ 16:58:12
+        Started Run 2 @ 16:58:37
+        Started Run 3 @ 16:59:01  [Std. Dev: 1.13%]
+
+    Test Results:
+        2060
+        2060
+        2020
+
+    Average: 2047 Microseconds
+
+
+[[]]pts/gcrypt-1.0.3,rt_sigaction,4,52702,52775,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Gcrypt Library 1.4.4:
+    pts/gcrypt-1.0.3
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 16:59:25
+        Started Run 2 @ 16:59:50
+        Started Run 3 @ 17:00:14  [Std. Dev: 1.03%]
+
+    Test Results:
+        2050
+        2010
+        2020
+
+    Average: 2027 Microseconds
+
+
+[[]]pts/gcrypt-1.0.3,rt_sigprocmask,4,52775,52848,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Gcrypt Library 1.4.4:
+    pts/gcrypt-1.0.3
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:00:37
+        Started Run 2 @ 17:01:02
+        Started Run 3 @ 17:01:26  [Std. Dev: 1.42%]
+
+    Test Results:
+        2010
+        2060
+        2010
+
+    Average: 2027 Microseconds
+
+
+[[]]pts/gcrypt-1.0.3,write,5,52848,52920,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Gcrypt Library 1.4.4:
+    pts/gcrypt-1.0.3
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:01:50
+        Started Run 2 @ 17:02:14
+        Started Run 3 @ 17:02:39  [Std. Dev: 0.00%]
+
+    Test Results:
+        2010
+        2010
+        2010
+
+    Average: 2010 Microseconds
+
+
+[[]]pts/gcrypt-1.0.3,read,5,52920,52992,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Gcrypt Library 1.4.4:
+    pts/gcrypt-1.0.3
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:03:02
+        Started Run 2 @ 17:03:27
+        Started Run 3 @ 17:03:51  [Std. Dev: 1.13%]
+
+    Test Results:
+        2050
+        2050
+        2010
+
+    Average: 2037 Microseconds
+
+
+[[]]pts/gcrypt-1.0.3,write,6,52992,53065,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Gcrypt Library 1.4.4:
+    pts/gcrypt-1.0.3
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:04:15
+        Started Run 2 @ 17:04:39
+        Started Run 3 @ 17:05:03  [Std. Dev: 0.00%]
+
+    Test Results:
+        2010
+        2010
+        2010
+
+    Average: 2010 Microseconds
+
+
+[[]]pts/gcrypt-1.0.3,read,6,53065,53137,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Gcrypt Library 1.4.4:
+    pts/gcrypt-1.0.3
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:05:27
+        Started Run 2 @ 17:05:51
+        Started Run 3 @ 17:06:16  [Std. Dev: 1.13%]
+
+    Test Results:
+        2010
+        2050
+        2050
+
+    Average: 2037 Microseconds
+
+
+[[]]pts/gcrypt-1.0.3,access,7,53137,53210,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Gcrypt Library 1.4.4:
+    pts/gcrypt-1.0.3
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:06:40
+        Started Run 2 @ 17:07:05
+        Started Run 3 @ 17:07:29  [Std. Dev: 1.30%]
+
+    Test Results:
+        2050
+        2060
+        2010
+
+    Average: 2040 Microseconds
+
+
+[[]]pts/gcrypt-1.0.3,write,8,53210,53283,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Gcrypt Library 1.4.4:
+    pts/gcrypt-1.0.3
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:07:53
+        Started Run 2 @ 17:08:17
+        Started Run 3 @ 17:08:41  [Std. Dev: 0.00%]
+
+    Test Results:
+        2010
+        2010
+        2010
+
+    Average: 2010 Microseconds
+
+
+[[]]pts/gcrypt-1.0.3,read,8,53283,53355,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Gcrypt Library 1.4.4:
+    pts/gcrypt-1.0.3
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:09:05
+        Started Run 2 @ 17:09:29
+        Started Run 3 @ 17:09:53  [Std. Dev: 0.29%]
+
+    Test Results:
+        2010
+        2020
+        2010
+
+    Average: 2013 Microseconds
+
+
+[[]]pts/gcrypt-1.0.3,munmap,1,53355,53427,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Gcrypt Library 1.4.4:
+    pts/gcrypt-1.0.3
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:10:19
+        Started Run 2 @ 17:10:44
+        Started Run 3 @ 17:11:08  [Std. Dev: 0.57%]
+
+    Test Results:
+        2030
+        2010
+        2010
+
+    Average: 2017 Microseconds
+
+
+[[]]pts/gcrypt-1.0.3,munmap,2,53427,53502,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Gcrypt Library 1.4.4:
+    pts/gcrypt-1.0.3
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:11:31
+        Started Run 2 @ 17:11:56
+        Started Run 3 @ 17:12:20  [Std. Dev: 0.29%]
+
+    Test Results:
+        2010
+        2010
+        2020
+
+    Average: 2013 Microseconds
+
+
+[[]]pts/gcrypt-1.0.3,mprotect,2,53502,53574,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+Gcrypt Library 1.4.4:
+    pts/gcrypt-1.0.3
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:12:43
+        Started Run 2 @ 17:13:07
+        Started Run 3 @ 17:13:32  [Std. Dev: 0.29%]
+
+    Test Results:
+        2020
+        2020
+        2010
+
+    Average: 2017 Microseconds
+
+
+[[]]pts/gcrypt-1.0.3,mmap,2,53574,53645,
+

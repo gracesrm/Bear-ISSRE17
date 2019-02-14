@@ -1,0 +1,486 @@
+
+NOTICE: The following PHP extensions are OPTIONAL but recommended:
+
+CURL     PHP CURL is recommended for an enhanced download experience.
+PHP FPDF PHP FPDF is recommended if wishing to generate PDF reports.
+
+
+Phoronix Test Suite v3.6.1
+User Agreement
+
+The Phoronix Test Suite is the most comprehensive testing and
+benchmarking platform available for Linux, OpenSolaris, Mac OS X,
+and BSD operating systems. The Phoronix Test Suite is designed to
+carry out tests in a clean, reproducible, and easy-to-use manner.
+
+- The Phoronix Test Suite is open-source and licensed under the
+GNU GPLv3. However, some tests supported by the Phoronix Test
+Suite are not open-source software or available for free of
+charge.
+
+- The Phoronix Test Suite contains tests which may stress your
+system and in some cases could exhibit stability problems of the
+system's hardware or software configuration. The Phoronix Test
+Suite is provided WITHOUT ANY WARRANTY. In no event shall
+OpenBenchmarking.org, Phoronix Media, the Phoronix Test Suite, or
+any associated stakeholder be liable to any party for any direct
+or indirect damages for any use of OpenBenchmarking.org --
+including, without limitation, any lost profits, business
+interruption, loss of programs, loss of programmed data, or
+otherwise.
+
+- For enterprise support, sponsorship, or other professional
+inquiries, contact phoronix@phoronix.com. Community support can
+be found in the Phoronix Forums at
+http://www.phoronix.com/forums/.
+
+- If you opt to submit your test results to OpenBenchmarking.org,
+the final results as well as basic hardware and software details
+(what is shown in the results viewer) will be shared and publicly
+accessible through http://www.openbenchmarking.org/.
+
+- Public bug reports, feature requests, and other issues can be
+brought up in the Phoronix Test Suite forums, mailing list, or a
+direct email to Phoronix Media.
+
+Anonymous Usage Reporting / Statistics: If enabling the anonymous
+usage reporting / statistics feature, some information about the
+Phoronix Test Suite runs will be submitted to
+OpenBenchmarking.org. This information is used for analytical
+purposes, including but not limited to, determining the most
+popular tests / suites and calculating average run-times for
+different test profiles. The test results are not reported in
+this process nor the installed software / hardware information,
+but ambient information about the testing process. This
+information is stored anonymously. More information on this
+feature is available with the included documentation.
+
+Anonymous Software / Hardware Reporting: If enabling the
+anonymous hardware / software reporting, general information on
+your installed hardware / software components will be reported to
+OpenBenchmarking.org. Hardware information is general details
+such as, but not limited to, the installed CPU, motherboard, and
+other general components. Software information is general and
+contains details such as your operating system, graphics
+processor driver, kernel, and software architecture. No personal
+information is collected. This information is pooled along with
+the submissions from all other users to show general trends and
+other details on OpenBenchmarking.org.
+
+For more information on the Phoronix Test Suite and its features,
+visit http://www.phoronix-test-suite.com/ or view the included
+documentation.
+
+    Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Do you agree to these terms and wish to proceed (Y/n):     Enable anonymous usage / statistics reporting (Y/n):     Enable anonymous statistical reporting of installed software / hardware (Y/n): 
+
+[NOTICE] file_put_contents(): Only 0 of 951 bytes written, possibly out of free disk space in pts_storage_object.php:61
+[[]]pts/openssl-1.9.0,rt_sigaction,4,38207,38208,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+OpenSSL 1.0.1g:
+    pts/openssl-1.9.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 20:36:33
+        Started Run 2 @ 20:36:55
+        Started Run 3 @ 20:37:17  [Std. Dev: 0.38%]
+
+    Test Results:
+        146.7
+        146.6
+        145.7
+
+    Average: 146.33 Signs Per Second
+
+
+[[]]pts/openssl-1.9.0,munmap,1,19857,19922,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+OpenSSL 1.0.1g:
+    pts/openssl-1.9.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 20:37:38
+        Started Run 2 @ 20:38:00
+        Started Run 3 @ 20:38:22  [Std. Dev: 1.56%]
+
+    Test Results:
+        142.3
+        146.1
+        146.3
+
+    Average: 144.90 Signs Per Second
+
+
+[[]]pts/openssl-1.9.0,munmap,2,19922,19987,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+OpenSSL 1.0.1g:
+    pts/openssl-1.9.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 20:38:43
+        Started Run 2 @ 20:39:05
+        Started Run 3 @ 20:39:27  [Std. Dev: 0.24%]
+
+    Test Results:
+        146.9
+        146.3
+        146.3
+
+    Average: 146.50 Signs Per Second
+
+
+[[]]pts/openssl-1.9.0,mprotect,2,19987,20052,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+OpenSSL 1.0.1g:
+    pts/openssl-1.9.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 20:39:48
+        Started Run 2 @ 20:40:10
+        Started Run 3 @ 20:40:32  [Std. Dev: 0.30%]
+
+    Test Results:
+        146.4
+        147.1
+        147.2
+
+    Average: 146.90 Signs Per Second
+
+
+[[]]pts/openssl-1.9.0,mmap,2,20052,20117,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+OpenSSL 1.0.1g:
+    pts/openssl-1.9.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 20:40:53
+        Started Run 2 @ 20:41:15
+        Started Run 3 @ 20:41:37  [Std. Dev: 0.20%]
+
+    Test Results:
+        146.5
+        147
+        146.5
+
+    Average: 146.67 Signs Per Second
+
+
+[[]]pts/openssl-1.9.0,rt_sigaction,4,20117,20182,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+OpenSSL 1.0.1g:
+    pts/openssl-1.9.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 20:41:58
+        Started Run 2 @ 20:42:20
+        Started Run 3 @ 20:42:42  [Std. Dev: 0.14%]
+
+    Test Results:
+        146.7
+        147.1
+        146.8
+
+    Average: 146.87 Signs Per Second
+
+
+[[]]pts/openssl-1.9.0,write,5,20182,20247,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+OpenSSL 1.0.1g:
+    pts/openssl-1.9.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 20:43:03
+        Started Run 2 @ 20:43:25
+        Started Run 3 @ 20:43:47  [Std. Dev: 0.18%]
+
+    Test Results:
+        147.3
+        147.2
+        146.8
+
+    Average: 147.10 Signs Per Second
+
+
+[[]]pts/openssl-1.9.0,read,5,20247,20312,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+OpenSSL 1.0.1g:
+    pts/openssl-1.9.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 20:44:08
+        Started Run 2 @ 20:44:30
+        Started Run 3 @ 20:44:52  [Std. Dev: 0.22%]
+
+    Test Results:
+        146.6
+        147.1
+        146.5
+
+    Average: 146.73 Signs Per Second
+
+
+[[]]pts/openssl-1.9.0,write,6,20312,20377,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+OpenSSL 1.0.1g:
+    pts/openssl-1.9.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 20:45:13
+        Started Run 2 @ 20:45:35
+        Started Run 3 @ 20:45:57  [Std. Dev: 0.14%]
+
+    Test Results:
+        146.8
+        146.6
+        147
+
+    Average: 146.80 Signs Per Second
+
+
+[[]]pts/openssl-1.9.0,read,6,20377,20442,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+OpenSSL 1.0.1g:
+    pts/openssl-1.9.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 20:46:18
+        Started Run 2 @ 20:46:40
+        Started Run 3 @ 20:47:02  [Std. Dev: 1.52%]
+
+    Test Results:
+        146.2
+        146.8
+        142.7
+
+    Average: 145.23 Signs Per Second
+
+
+[[]]pts/openssl-1.9.0,access,7,20442,20507,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+OpenSSL 1.0.1g:
+    pts/openssl-1.9.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 20:47:22
+        Started Run 2 @ 20:47:44
+        Started Run 3 @ 20:48:06  [Std. Dev: 0.17%]
+
+    Test Results:
+        146.4
+        146.7
+        146.2
+
+    Average: 146.43 Signs Per Second
+
+
+[[]]pts/openssl-1.9.0,write,8,20507,20572,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+OpenSSL 1.0.1g:
+    pts/openssl-1.9.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 20:48:27
+        Started Run 2 @ 20:48:49
+        Started Run 3 @ 20:49:11  [Std. Dev: 0.14%]
+
+    Test Results:
+        146.6
+        146.3
+        146.7
+
+    Average: 146.53 Signs Per Second
+
+
+[[]]pts/openssl-1.9.0,read,8,20572,20637,
+

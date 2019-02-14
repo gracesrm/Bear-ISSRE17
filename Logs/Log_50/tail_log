@@ -1,0 +1,72 @@
+host localhost
+sort files/aa
+service --status-all
+cmp files/aa files/bb
+dstat --list
+[[]]tail,write,5,57893,57893,
+
+host localhost
+sort files/aa
+service --status-all
+cmp files/aa files/bb
+dstat --list
+[[]]tail,read,5,57894,57894,
+
+host localhost
+sort files/aa
+service --status-all
+cmp files/aa files/bb
+dstat --list
+[[]]tail,write,6,57895,57895,
+
+host localhost
+sort files/aa
+service --status-all
+cmp files/aa files/bb
+dstat --list
+[[]]tail,read,6,57896,57896,
+
+host localhost
+sort files/aa
+service --status-all
+cmp files/aa files/bb
+dstat --list
+[[]]tail,access,7,57897,57897,
+
+host localhost
+sort files/aa
+service --status-all
+cmp files/aa files/bb
+dstat --list
+[[]]tail,write,8,57898,57898,
+
+host localhost
+sort files/aa
+service --status-all
+cmp files/aa files/bb
+dstat --list
+[[]]tail,read,8,57899,57899,
+
+host localhost
+sort files/aa
+service --status-all
+cmp files/aa files/bb
+dstat --list
+[[]]tail,munmap,1,57900,57900,
+
+host localhost
+sort files/aa
+service --status-all
+cmp files/aa files/bb
+dstat --list
+[[]]tail,munmap,2,57901,57901,
+
+host localhost
+sort files/aa
+service --status-all
+cmp files/aa files/bb
+dstat --list
+[[]]tail,mprotect,2,57902,57902,
+
+[[]]tail,mmap,2,57903,57903,A
+

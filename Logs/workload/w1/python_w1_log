@@ -1,0 +1,38 @@
+Hello world!
+[[]]python,rt_sigaction,4,99129,99129,
+
+Hello world!
+[[]]python,rt_sigprocmask,4,99129,99129,
+
+Hello world!
+[[]]python,write,5,99129,99129,
+
+Hello world!
+[[]]python,read,5,99129,99129,
+
+Hello world!
+[[]]python,write,6,99129,99129,
+
+Hello world!
+[[]]python,read,6,99129,99129,
+
+Hello world!
+[[]]python,access,7,99129,99129,
+
+Hello world!
+[[]]python,write,8,99129,99129,
+
+Hello world!
+[[]]python,read,8,99129,99129,
+
+Hello world!
+[[]]python,munmap,1,99129,99129,
+
+Hello world!
+[[]]python,munmap,2,99129,99129,
+
+Hello world!
+[[]]python,mprotect,2,99129,99129,
+
+[[]]python,mmap,2,99129,99129,A
+

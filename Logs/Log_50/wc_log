@@ -1,0 +1,32 @@
+42 runApp.sh
+[[]]wc,write,5,58957,58957,
+
+42 runApp.sh
+[[]]wc,read,5,58958,58958,
+
+42 runApp.sh
+[[]]wc,write,6,58959,58959,
+
+42 runApp.sh
+[[]]wc,read,6,58960,58960,
+
+42 runApp.sh
+[[]]wc,access,7,58961,58961,
+
+42 runApp.sh
+[[]]wc,write,8,58962,58962,
+
+42 runApp.sh
+[[]]wc,read,8,58963,58963,
+
+42 runApp.sh
+[[]]wc,munmap,1,58964,58964,
+
+42 runApp.sh
+[[]]wc,munmap,2,58965,58965,
+
+42 runApp.sh
+[[]]wc,mprotect,2,58966,58966,
+
+[[]]wc,mmap,2,58967,58967,A
+

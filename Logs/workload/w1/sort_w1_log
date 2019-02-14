@@ -1,0 +1,39 @@
+print "Hello, world\n";
+[[]]sort,rt_sigaction,4,92903,92903,
+
+print "Hello, world\n";
+[[]]sort,rt_sigprocmask,4,92903,92903,
+
+print "Hello, world\n";
+[[]]sort,write,5,92903,92903,
+
+print "Hello, world\n";
+[[]]sort,read,5,92903,92903,
+
+print "Hello, world\n";
+[[]]sort,write,6,92903,92903,
+
+print "Hello, world\n";
+[[]]sort,read,6,92903,92903,
+
+print "Hello, world\n";
+[[]]sort,access,7,92903,92903,
+
+print "Hello, world\n";
+[[]]sort,write,8,92903,92903,
+
+print "Hello, world\n";
+[[]]sort,read,8,92903,92903,
+
+print "Hello, world\n";
+[[]]sort,munmap,1,92903,92903,
+
+print "Hello, world\n";
+[[]]sort,munmap,2,92903,92903,
+
+print "Hello, world\n";
+[[]]sort,mprotect,2,92903,92903,
+
+print "Hello, world\n";
+[[]]sort,mmap,2,92904,92904,
+

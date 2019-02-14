@@ -1,0 +1,38 @@
+Hello, world
+[[]]perl,rt_sigaction,4,59382,59382,
+
+Hello, world
+[[]]perl,rt_sigprocmask,4,59383,59383,
+
+Hello, world
+[[]]perl,write,5,59384,59384,
+
+Hello, world
+[[]]perl,read,5,59385,59385,
+
+Hello, world
+[[]]perl,write,6,59386,59386,
+
+Hello, world
+[[]]perl,read,6,59387,59387,
+
+Hello, world
+[[]]perl,access,7,59389,59389,
+
+Hello, world
+[[]]perl,write,8,59390,59390,
+
+Hello, world
+[[]]perl,read,8,59391,59391,
+
+Hello, world
+[[]]perl,munmap,1,59392,59392,
+
+Hello, world
+[[]]perl,munmap,2,59393,59393,
+
+Hello, world
+[[]]perl,mprotect,2,59394,59394,
+
+[[]]perl,mmap,2,59395,59395,A
+

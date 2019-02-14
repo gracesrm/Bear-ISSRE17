@@ -1,0 +1,16 @@
+[[]]chmod,read,5,60238,60238,
+
+[[]]chmod,read,6,60239,60239,
+
+[[]]chmod,access,7,60240,60240,
+
+[[]]chmod,read,8,60241,60241,
+
+[[]]chmod,munmap,1,60242,60242,
+
+[[]]chmod,munmap,2,60243,60243,
+
+[[]]chmod,mprotect,2,60244,60244,
+
+[[]]chmod,mmap,2,60245,60245,
+

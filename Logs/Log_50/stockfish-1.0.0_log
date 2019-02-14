@@ -1,0 +1,445 @@
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+Stockfish 2014-11-26:
+    pts/stockfish-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 16:12:39
+        Started Run 2 @ 16:12:45
+        Started Run 3 @ 16:12:51  [Std. Dev: 0.64%]
+
+    Test Results:
+        3433
+        3474
+        3468
+
+    Average: 3458 ms
+
+
+[[]]pts/stockfish-1.0.0,munmap,1,4024,4039,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+Stockfish 2014-11-26:
+    pts/stockfish-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 16:12:55
+        Started Run 2 @ 16:13:01
+        Started Run 3 @ 16:13:06  [Std. Dev: 0.58%]
+
+    Test Results:
+        3500
+        3475
+        3460
+
+    Average: 3478 ms
+
+
+[[]]pts/stockfish-1.0.0,munmap,2,4039,4055,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+Stockfish 2014-11-26:
+    pts/stockfish-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 16:13:11
+        Started Run 2 @ 16:13:16
+        Started Run 3 @ 16:13:22  [Std. Dev: 0.23%]
+
+    Test Results:
+        3464
+        3450
+        3451
+
+    Average: 3455 ms
+
+
+[[]]pts/stockfish-1.0.0,mprotect,2,4055,4071,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+Stockfish 2014-11-26:
+    pts/stockfish-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 16:13:26
+        Started Run 2 @ 16:13:32
+        Started Run 3 @ 16:13:38  [Std. Dev: 0.54%]
+
+    Test Results:
+        3488
+        3463
+        3451
+
+    Average: 3467 ms
+
+
+[[]]pts/stockfish-1.0.0,mmap,2,4071,4086,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+Stockfish 2014-11-26:
+    pts/stockfish-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 16:13:42
+        Started Run 2 @ 16:13:48
+        Started Run 3 @ 16:13:53  [Std. Dev: 0.84%]
+
+    Test Results:
+        3470
+        3459
+        3514
+
+    Average: 3481 ms
+
+
+[[]]pts/stockfish-1.0.0,rt_sigaction,4,4086,4102,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+Stockfish 2014-11-26:
+    pts/stockfish-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 16:13:58
+        Started Run 2 @ 16:14:03
+        Started Run 3 @ 16:14:09  [Std. Dev: 0.48%]
+
+    Test Results:
+        3467
+        3469
+        3497
+
+    Average: 3478 ms
+
+
+[[]]pts/stockfish-1.0.0,rt_sigprocmask,4,4102,4118,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+Stockfish 2014-11-26:
+    pts/stockfish-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 16:14:13
+        Started Run 2 @ 16:14:19
+        Started Run 3 @ 16:14:25  [Std. Dev: 1.19%]
+
+    Test Results:
+        3477
+        3436
+        3395
+
+    Average: 3436 ms
+
+
+[[]]pts/stockfish-1.0.0,write,5,4118,4133,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+Stockfish 2014-11-26:
+    pts/stockfish-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 16:14:29
+        Started Run 2 @ 16:14:34
+        Started Run 3 @ 16:14:40  [Std. Dev: 0.97%]
+
+    Test Results:
+        3441
+        3462
+        3397
+
+    Average: 3433 ms
+
+
+[[]]pts/stockfish-1.0.0,read,5,4133,4149,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+Stockfish 2014-11-26:
+    pts/stockfish-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 16:14:44
+        Started Run 2 @ 16:14:50
+        Started Run 3 @ 16:14:56  [Std. Dev: 0.81%]
+
+    Test Results:
+        3439
+        3399
+        3386
+
+    Average: 3408 ms
+
+
+[[]]pts/stockfish-1.0.0,write,6,4149,4164,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+Stockfish 2014-11-26:
+    pts/stockfish-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 16:15:00
+        Started Run 2 @ 16:15:05
+        Started Run 3 @ 16:15:11  [Std. Dev: 1.16%]
+
+    Test Results:
+        3451
+        3374
+        3397
+
+    Average: 3407 ms
+
+
+[[]]pts/stockfish-1.0.0,read,6,4164,4180,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+Stockfish 2014-11-26:
+    pts/stockfish-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 16:15:15
+        Started Run 2 @ 16:15:21
+        Started Run 3 @ 16:15:26  [Std. Dev: 0.43%]
+
+    Test Results:
+        3387
+        3401
+        3416
+
+    Average: 3401 ms
+
+
+[[]]pts/stockfish-1.0.0,access,7,4180,4195,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+Stockfish 2014-11-26:
+    pts/stockfish-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 16:15:31
+        Started Run 2 @ 16:15:36
+        Started Run 3 @ 16:15:42  [Std. Dev: 0.25%]
+
+    Test Results:
+        3417
+        3400
+        3408
+
+    Average: 3408 ms
+
+
+[[]]pts/stockfish-1.0.0,write,8,4195,4211,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+Stockfish 2014-11-26:
+    pts/stockfish-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 16:15:46
+        Started Run 2 @ 16:15:52
+        Started Run 3 @ 16:15:57  [Std. Dev: 0.38%]
+
+    Test Results:
+        3404
+        3425
+        3401
+
+    Average: 3410 ms
+
+
+[[]]pts/stockfish-1.0.0,read,8,4211,4226,
+

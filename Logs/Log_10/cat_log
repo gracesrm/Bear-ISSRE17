@@ -1,0 +1,32 @@
+print "Hello, world\n";
+[[]]cat,write,5,59698,59698,
+
+print "Hello, world\n";
+[[]]cat,read,5,59699,59699,
+
+print "Hello, world\n";
+[[]]cat,write,6,59700,59700,
+
+print "Hello, world\n";
+[[]]cat,read,6,59701,59701,
+
+print "Hello, world\n";
+[[]]cat,access,7,59702,59702,
+
+print "Hello, world\n";
+[[]]cat,write,8,59703,59703,
+
+print "Hello, world\n";
+[[]]cat,read,8,59704,59704,
+
+print "Hello, world\n";
+[[]]cat,munmap,1,59705,59705,
+
+print "Hello, world\n";
+[[]]cat,munmap,2,59706,59706,
+
+print "Hello, world\n";
+[[]]cat,mprotect,2,59707,59707,
+
+[[]]cat,mmap,2,59708,59708,A
+

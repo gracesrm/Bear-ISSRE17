@@ -1,0 +1,444 @@
+
+Phoronix Test Suite v3.6.1
+FFTE Test Configuration
+
+
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 4 Minutes
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1 [Test: N=64, 1D Complex FFT Routine]
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes
+        Started Run 1 @ 15:31:41
+        Started Run 2 @ 15:31:45
+        Started Run 3 @ 15:31:50  [Std. Dev: 0.86%]
+
+    Test Results:
+        6156.3698026906
+        6168.1025931038
+        6071.8280006487
+
+    Average: 6132.10 MFLOPS
+
+
+[[]]pts/ffte-1.0.1,rt_sigaction,4,47511,47524,
+
+
+Phoronix Test Suite v3.6.1
+FFTE Test Configuration
+
+
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1 [Test: N=64, 1D Complex FFT Routine]
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 15:31:54
+        Started Run 2 @ 15:31:59
+        Started Run 3 @ 15:32:03  [Std. Dev: 0.69%]
+
+    Test Results:
+        6191.6921426855
+        6172.6353305873
+        6110.9461601806
+
+    Average: 6158.42 MFLOPS
+
+
+[[]]pts/ffte-1.0.1,write,5,47524,47537,
+
+
+Phoronix Test Suite v3.6.1
+FFTE Test Configuration
+
+
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1 [Test: N=64, 1D Complex FFT Routine]
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 15:32:07
+        Started Run 2 @ 15:32:11
+        Started Run 3 @ 15:32:16  [Std. Dev: 0.45%]
+
+    Test Results:
+        6148.403206496
+        6203.8251665438
+        6179.3689670228
+
+    Average: 6177.20 MFLOPS
+
+
+[[]]pts/ffte-1.0.1,read,5,47537,47550,
+
+
+Phoronix Test Suite v3.6.1
+FFTE Test Configuration
+
+
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1 [Test: N=64, 1D Complex FFT Routine]
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 15:32:19
+        Started Run 2 @ 15:32:24
+        Started Run 3 @ 15:32:29  [Std. Dev: 0.48%]
+
+    Test Results:
+        6133.2669792935
+        6173.2294539581
+        6190.8746729284
+
+    Average: 6165.79 MFLOPS
+
+
+[[]]pts/ffte-1.0.1,write,6,47550,47563,
+
+
+Phoronix Test Suite v3.6.1
+FFTE Test Configuration
+
+
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1 [Test: N=64, 1D Complex FFT Routine]
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 15:32:32
+        Started Run 2 @ 15:32:37
+        Started Run 3 @ 15:32:41  [Std. Dev: 0.42%]
+
+    Test Results:
+        6154.3635609556
+        6203.1047334283
+        6194.1799081132
+
+    Average: 6183.88 MFLOPS
+
+
+[[]]pts/ffte-1.0.1,read,6,47563,47575,
+
+
+Phoronix Test Suite v3.6.1
+FFTE Test Configuration
+
+
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1 [Test: N=64, 1D Complex FFT Routine]
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 15:32:45
+        Started Run 2 @ 15:32:49
+        Started Run 3 @ 15:32:54  [Std. Dev: 0.42%]
+
+    Test Results:
+        6126.5860653412
+        6137.7934401914
+        6176.1438336783
+
+    Average: 6146.84 MFLOPS
+
+
+[[]]pts/ffte-1.0.1,access,7,47575,47588,
+
+
+Phoronix Test Suite v3.6.1
+FFTE Test Configuration
+
+
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1 [Test: N=64, 1D Complex FFT Routine]
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 15:32:58
+        Started Run 2 @ 15:33:02
+        Started Run 3 @ 15:33:07  [Std. Dev: 0.60%]
+
+    Test Results:
+        6133.6812063669
+        6197.547167822
+        6198.34872018
+
+    Average: 6176.53 MFLOPS
+
+
+[[]]pts/ffte-1.0.1,write,8,47588,47601,
+
+
+Phoronix Test Suite v3.6.1
+FFTE Test Configuration
+
+
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1 [Test: N=64, 1D Complex FFT Routine]
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 15:33:10
+        Started Run 2 @ 15:33:15
+        Started Run 3 @ 15:33:20  [Std. Dev: 2.03%]
+
+    Test Results:
+        6153.2332534227
+        6184.9126270085
+        5956.7957193058
+
+    Average: 6098.31 MFLOPS
+
+
+[[]]pts/ffte-1.0.1,read,8,47601,47614,
+
+
+Phoronix Test Suite v3.6.1
+FFTE Test Configuration
+
+
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1 [Test: N=64, 1D Complex FFT Routine]
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 15:33:23
+        Started Run 2 @ 15:33:28
+        Started Run 3 @ 15:33:33  [Std. Dev: 1.23%]
+
+    Test Results:
+        6164.0904851711
+        6199.6052686427
+        6054.9606196306
+
+    Average: 6139.55 MFLOPS
+
+
+[[]]pts/ffte-1.0.1,munmap,1,47614,47627,
+
+
+Phoronix Test Suite v3.6.1
+FFTE Test Configuration
+
+
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1 [Test: N=64, 1D Complex FFT Routine]
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 15:33:36
+        Started Run 2 @ 15:33:41
+        Started Run 3 @ 15:33:45  [Std. Dev: 2.24%]
+
+    Test Results:
+        6178.5402328038
+        6186.0505888097
+        5945.908733569
+
+    Average: 6103.50 MFLOPS
+
+
+[[]]pts/ffte-1.0.1,munmap,2,47627,47639,
+
+
+Phoronix Test Suite v3.6.1
+FFTE Test Configuration
+
+
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1 [Test: N=64, 1D Complex FFT Routine]
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 15:33:50
+        Started Run 2 @ 15:33:54
+        Started Run 3 @ 15:33:59  [Std. Dev: 0.28%]
+
+    Test Results:
+        6163.4541875899
+        6194.9410305415
+        6192.8930303045
+
+    Average: 6183.76 MFLOPS
+
+
+[[]]pts/ffte-1.0.1,mprotect,2,47639,47653,
+
+
+Phoronix Test Suite v3.6.1
+FFTE Test Configuration
+
+
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1 [Test: N=64, 1D Complex FFT Routine]
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 15:34:02
+        Started Run 2 @ 15:34:07
+        Started Run 3 @ 15:34:11  [Std. Dev: 0.28%]
+
+    Test Results:
+        6168.7005269939
+        6197.8762564884
+        6199.1508663809
+
+    Average: 6188.58 MFLOPS
+
+
+[[]]pts/ffte-1.0.1,mmap,2,47653,47665,
+

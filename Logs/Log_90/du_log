@@ -1,0 +1,299 @@
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,rt_sigaction,4,1554,1554,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,rt_sigprocmask,4,1555,1555,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,rt_sigpending,4,1556,1556,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,kill,4,1557,1557,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,write,5,1558,1558,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,read,5,1559,1559,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,pread64,5,1560,1560,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,pwrite64,5,1561,1561,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,sendto,5,1562,1562,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,recvfrom,5,1563,1563,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,write,6,1564,1564,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,read,6,1565,1565,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,pread64,6,1566,1566,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,pwrite64,6,1567,1567,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,sendto,6,1568,1568,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,recvfrom,6,1569,1569,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,access,7,1570,1570,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,write,8,1571,1571,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,read,8,1572,1572,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,pread64,8,1573,1573,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,pwrite64,8,1575,1575,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,sendto,8,1576,1576,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,recvfrom,8,1577,1577,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,mq_notify,9,1578,1578,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,setuid,10,1579,1579,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,munmap,1,1580,1580,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,munmap,2,1581,1581,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,mprotect,2,1582,1582,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,mremap,2,1583,1583,
+
+[[]]du,mmap,2,1584,1584,A
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,mlock,3,1585,1585,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,mlockall,3,1586,1586,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9548	./Log_90
+20200	.
+[[]]du,munlock,3,1587,1587,
+
+9996	./Log_50
+8	./Log_10
+8	./des-lkm/.tmp_versions
+572	./des-lkm
+40	./files
+9552	./Log_90
+20204	.
+[[]]du,munlockall,3,1588,1588,
+

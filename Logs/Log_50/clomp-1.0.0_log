@@ -1,0 +1,504 @@
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+CLOMP 3.3:
+    pts/clomp-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:09:38
+        Started Run 2 @ 17:09:52
+        Started Run 3 @ 17:10:05
+        Started Run 4 @ 17:10:19
+        Started Run 5 @ 17:10:32  [Std. Dev: 3.36%]
+
+    Test Results:
+        0.98
+        0.9
+        0.92
+        0.96
+        0.94
+
+    Average: 0.94 Speedup
+
+
+[[]]pts/clomp-1.0.0,rt_sigaction,4,69273,69340,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+CLOMP 3.3:
+    pts/clomp-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:10:45
+        Started Run 2 @ 17:10:59
+        Started Run 3 @ 17:11:12
+        Started Run 4 @ 17:11:26
+        Started Run 5 @ 17:11:39  [Std. Dev: 1.30%]
+
+    Test Results:
+        0.95
+        0.94
+        0.92
+        0.94
+        0.95
+
+    Average: 0.94 Speedup
+
+
+[[]]pts/clomp-1.0.0,rt_sigprocmask,4,69340,69407,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+CLOMP 3.3:
+    pts/clomp-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:11:52
+        Started Run 2 @ 17:12:05
+        Started Run 3 @ 17:12:19
+        Started Run 4 @ 17:12:33
+        Started Run 5 @ 17:12:46  [Std. Dev: 2.06%]
+
+    Test Results:
+        0.94
+        0.97
+        0.94
+        0.92
+        0.96
+
+    Average: 0.95 Speedup
+
+
+[[]]pts/clomp-1.0.0,write,5,69407,69474,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+CLOMP 3.3:
+    pts/clomp-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:12:59
+        Started Run 2 @ 17:13:12
+        Started Run 3 @ 17:13:26
+        Started Run 4 @ 17:13:39
+        Started Run 5 @ 17:13:53  [Std. Dev: 0.96%]
+
+    Test Results:
+        0.93
+        0.94
+        0.94
+        0.92
+        0.94
+
+    Average: 0.93 Speedup
+
+
+[[]]pts/clomp-1.0.0,read,5,69474,69541,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+CLOMP 3.3:
+    pts/clomp-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:14:06
+        Started Run 2 @ 17:14:19
+        Started Run 3 @ 17:14:33
+        Started Run 4 @ 17:14:46
+        Started Run 5 @ 17:15:00  [Std. Dev: 0.95%]
+
+    Test Results:
+        0.95
+        0.94
+        0.96
+        0.94
+        0.94
+
+    Average: 0.95 Speedup
+
+
+[[]]pts/clomp-1.0.0,write,6,69541,69608,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+CLOMP 3.3:
+    pts/clomp-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:15:12
+        Started Run 2 @ 17:15:26
+        Started Run 3 @ 17:15:39
+        Started Run 4 @ 17:15:53
+        Started Run 5 @ 17:16:07  [Std. Dev: 1.18%]
+
+    Test Results:
+        0.94
+        0.92
+        0.94
+        0.94
+        0.92
+
+    Average: 0.93 Speedup
+
+
+[[]]pts/clomp-1.0.0,read,6,69608,69674,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+CLOMP 3.3:
+    pts/clomp-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:16:19
+        Started Run 2 @ 17:16:33
+        Started Run 3 @ 17:16:46
+        Started Run 4 @ 17:17:00
+        Started Run 5 @ 17:17:14  [Std. Dev: 1.16%]
+
+    Test Results:
+        0.96
+        0.94
+        0.94
+        0.96
+        0.94
+
+    Average: 0.95 Speedup
+
+
+[[]]pts/clomp-1.0.0,access,7,69674,69741,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+CLOMP 3.3:
+    pts/clomp-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:17:26
+        Started Run 2 @ 17:17:40
+        Started Run 3 @ 17:17:53
+        Started Run 4 @ 17:18:07
+        Started Run 5 @ 17:18:20  [Std. Dev: 1.38%]
+
+    Test Results:
+        0.95
+        0.94
+        0.92
+        0.95
+        0.95
+
+    Average: 0.94 Speedup
+
+
+[[]]pts/clomp-1.0.0,write,8,69741,69808,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+CLOMP 3.3:
+    pts/clomp-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:18:33
+        Started Run 2 @ 17:18:47
+        Started Run 3 @ 17:19:00
+        Started Run 4 @ 17:19:14
+        Started Run 5 @ 17:19:27  [Std. Dev: 1.16%]
+
+    Test Results:
+        0.94
+        0.96
+        0.94
+        0.94
+        0.96
+
+    Average: 0.95 Speedup
+
+
+[[]]pts/clomp-1.0.0,read,8,69808,69875,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+CLOMP 3.3:
+    pts/clomp-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:19:40
+        Started Run 2 @ 17:19:53
+        Started Run 3 @ 17:20:07
+        Started Run 4 @ 17:20:21
+        Started Run 5 @ 17:20:34  [Std. Dev: 0.59%]
+
+    Test Results:
+        0.93
+        0.93
+        0.94
+        0.93
+        0.94
+
+    Average: 0.93 Speedup
+
+
+[[]]pts/clomp-1.0.0,munmap,1,69875,69942,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+CLOMP 3.3:
+    pts/clomp-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:20:47
+        Started Run 2 @ 17:21:01
+        Started Run 3 @ 17:21:14
+        Started Run 4 @ 17:21:28
+        Started Run 5 @ 17:21:42  [Std. Dev: 6.34%]
+        Started Run 6 @ 17:21:55  [Std. Dev: 5.88%]
+        Started Run 7 @ 17:22:09  [Std. Dev: 5.51%]
+        Started Run 8 @ 17:22:22  [Std. Dev: 5.28%]
+        Started Run 9 @ 17:22:36  [Std. Dev: 4.96%]
+        Started Run 10 @ 17:22:50 [Std. Dev: 4.69%]
+
+    Test Results:
+        1.07
+        0.93
+        0.96
+        0.94
+        0.92
+        0.93
+        0.93
+        0.92
+        0.94
+        0.94
+
+    Average: 0.95 Speedup
+
+
+[[]]pts/clomp-1.0.0,munmap,2,69942,70077,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+CLOMP 3.3:
+    pts/clomp-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:23:02
+        Started Run 2 @ 17:23:16
+        Started Run 3 @ 17:23:29
+        Started Run 4 @ 17:23:43
+        Started Run 5 @ 17:23:56  [Std. Dev: 1.15%]
+
+    Test Results:
+        0.96
+        0.96
+        0.94
+        0.94
+        0.96
+
+    Average: 0.95 Speedup
+
+
+[[]]pts/clomp-1.0.0,mprotect,2,70077,70144,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+CLOMP 3.3:
+    pts/clomp-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:24:09
+        Started Run 2 @ 17:24:23
+        Started Run 3 @ 17:24:36
+        Started Run 4 @ 17:24:50
+        Started Run 5 @ 17:25:03  [Std. Dev: 0.96%]
+
+    Test Results:
+        0.93
+        0.94
+        0.94
+        0.92
+        0.94
+
+    Average: 0.93 Speedup
+
+
+[[]]pts/clomp-1.0.0,mmap,2,70144,70211,A
+

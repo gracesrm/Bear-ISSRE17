@@ -1,0 +1,204 @@
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 7 Minutes
+
+
+
+N-Queens 1.0:
+    pts/n-queens-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 7 Minutes
+        Started Run 1 @ 15:10:16
+        Started Run 2 @ 15:13:45
+        Started Run 3 @ 15:17:12  [Std. Dev: 0.67%]
+
+    Test Results:
+        207.002
+        204.581
+        204.626
+
+    Average: 205.40 Seconds
+
+
+[[]]pts/n-queens-1.1.0,mmap,2,280,901,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 11 Minutes
+
+
+
+N-Queens 1.0:
+    pts/n-queens-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Started Run 1 @ 15:20:37
+        Started Run 2 @ 15:24:04
+        Started Run 3 @ 15:27:31  [Std. Dev: 0.19%]
+
+    Test Results:
+        205.339
+        204.777
+        204.6
+
+    Average: 204.91 Seconds
+
+
+[[]]pts/n-queens-1.1.0,rt_sigaction,4,901,1521,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 11 Minutes
+
+
+
+N-Queens 1.0:
+    pts/n-queens-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Started Run 1 @ 15:30:57
+        Started Run 2 @ 15:34:26
+        Started Run 3 @ 15:37:59  [Std. Dev: 0.90%]
+
+    Test Results:
+        207.793
+        211.002
+        211.135
+
+    Average: 209.98 Seconds
+
+
+[[]]pts/n-queens-1.1.0,rt_sigprocmask,4,1521,2156,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 11 Minutes
+
+
+
+N-Queens 1.0:
+    pts/n-queens-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Started Run 1 @ 15:41:31
+        Started Run 2 @ 15:45:00
+        Started Run 3 @ 15:48:30  [Std. Dev: 0.58%]
+
+    Test Results:
+        206.915
+        207.243
+        205.02
+
+    Average: 206.39 Seconds
+
+
+[[]]pts/n-queens-1.1.0,write,5,2156,2780,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 11 Minutes
+
+
+
+N-Queens 1.0:
+    pts/n-queens-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Started Run 1 @ 15:51:56
+        Started Run 2 @ 15:55:24
+        Started Run 3 @ 15:58:50  [Std. Dev: 0.34%]
+
+    Test Results:
+        206.021
+        204.642
+        205.229
+
+    Average: 205.30 Seconds
+
+
+[[]]pts/n-queens-1.1.0,write,6,2780,3401,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.11.3, Display Driver: vmware 12.0.1, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 11 Minutes
+
+
+
+N-Queens 1.0:
+    pts/n-queens-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Started Run 1 @ 16:02:17
+        Started Run 2 @ 16:05:45
+        Started Run 3 @ 16:09:13  [Std. Dev: 0.24%]
+
+    Test Results:
+        206.363
+        206.205
+        205.449
+
+    Average: 206.01 Seconds
+
+
+[[]]pts/n-queens-1.1.0,write,8,3401,4024,
+

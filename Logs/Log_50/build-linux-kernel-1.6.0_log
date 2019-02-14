@@ -1,0 +1,149 @@
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 19 Minutes
+
+
+
+Timed Linux Kernel Compilation 4.3:
+    pts/build-linux-kernel-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 19 Minutes
+        Running Pre-Test Script @ 05:04:40
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 19 Minutes
+
+
+
+Timed Linux Kernel Compilation 4.3:
+    pts/build-linux-kernel-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 19 Minutes
+        Running Pre-Test Script @ 05:04:52
+        Started Run 1 @ 05:05:08
+        Running Interim Test Script @ 05:13:43
+        Started Run 2 @ 05:13:49
+        Running Interim Test Script @ 05:22:07
+        Started Run 3 @ 05:22:12  [Std. Dev: 3.36%]
+        Running Post-Test Script @ 05:30:11
+
+    Test Results:
+        512.46828007698
+        497.83751702309
+        479.17233800888
+
+    Average: 496.49 Seconds
+
+
+[[]]pts/build-linux-kernel-1.6.0,rt_sigaction,4,25787,27310,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 26 Minutes
+
+
+
+Timed Linux Kernel Compilation 4.3:
+    pts/build-linux-kernel-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 26 Minutes
+        Running Pre-Test Script @ 14:13:55
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 26 Minutes
+
+
+
+Timed Linux Kernel Compilation 4.3:
+    pts/build-linux-kernel-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 26 Minutes
+        Running Pre-Test Script @ 14:15:03
+        Started Run 1 @ 14:15:18
+        Running Interim Test Script @ 14:23:47
+        Started Run 2 @ 14:23:53
+        Running Interim Test Script @ 14:31:57
+        Started Run 3 @ 14:32:03  [Std. Dev: 3.02%]
+        Running Post-Test Script @ 14:40:00
+
+    Test Results:
+        505.80951094627
+        484.08440494537
+        477.64264988899
+
+    Average: 489.18 Seconds
+
+
+[[]]pts/build-linux-kernel-1.6.0,rt_sigaction,4,58799,60299,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 26 Minutes
+
+
+
+Timed Linux Kernel Compilation 4.3:
+    pts/build-linux-kernel-1.6.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 26 Minutes
+        Running Pre-Test Script @ 15:44:41
+        Started Run 1 @ 15:44:58
+        Running Interim Test Script @ 15:53:16
+        Started Run 2 @ 15:53:21
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA(Manually stopped)
+

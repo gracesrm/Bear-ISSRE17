@@ -1,0 +1,444 @@
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1
+    Processor Test Configuration
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1 [Test: N=64, 1D Complex FFT Routine]
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes (00:33 PDT)
+        Started Run 1 @ 00:30:47
+        The test exited with a non-zero exit status.
+        Started Run 2 @ 00:30:47
+        The test exited with a non-zero exit status.
+        Started Run 3 @ 00:30:47
+        The test exited with a non-zero exit status.
+        E: ./ffte: 8: ./ffte: ./tests/speed1d: not found
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/ffte-1.0.1,rt_sigaction,4,15188,15188,A
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1
+    Processor Test Configuration
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1 [Test: N=64, 1D Complex FFT Routine]
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes (00:33 PDT)
+        Started Run 1 @ 00:30:47
+        The test exited with a non-zero exit status.
+        Started Run 2 @ 00:30:47
+        The test exited with a non-zero exit status.
+        Started Run 3 @ 00:30:47
+        The test exited with a non-zero exit status.
+        E: ./ffte: 8: ./ffte: ./tests/speed1d: not found
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/ffte-1.0.1,write,5,15188,15189,A
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1
+    Processor Test Configuration
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1 [Test: N=64, 1D Complex FFT Routine]
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes (00:33 PDT)
+        Started Run 1 @ 00:30:48
+        The test exited with a non-zero exit status.
+        Started Run 2 @ 00:30:48
+        The test exited with a non-zero exit status.
+        Started Run 3 @ 00:30:48
+        The test exited with a non-zero exit status.
+        E: ./ffte: 8: ./ffte: ./tests/speed1d: not found
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/ffte-1.0.1,read,5,15189,15189,A
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1
+    Processor Test Configuration
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1 [Test: N=64, 1D Complex FFT Routine]
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes (00:33 PDT)
+        Started Run 1 @ 00:30:48
+        The test exited with a non-zero exit status.
+        Started Run 2 @ 00:30:48
+        The test exited with a non-zero exit status.
+        Started Run 3 @ 00:30:48
+        The test exited with a non-zero exit status.
+        E: ./ffte: 8: ./ffte: ./tests/speed1d: not found
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/ffte-1.0.1,write,6,15189,15189,A
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1
+    Processor Test Configuration
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1 [Test: N=64, 1D Complex FFT Routine]
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes (00:33 PDT)
+        Started Run 1 @ 00:30:49
+        The test exited with a non-zero exit status.
+        Started Run 2 @ 00:30:49
+        The test exited with a non-zero exit status.
+        Started Run 3 @ 00:30:49
+        The test exited with a non-zero exit status.
+        E: ./ffte: 8: ./ffte: ./tests/speed1d: not found
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/ffte-1.0.1,read,6,15189,15190,A
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1
+    Processor Test Configuration
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1 [Test: N=64, 1D Complex FFT Routine]
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes (00:33 PDT)
+        Started Run 1 @ 00:30:49
+        The test exited with a non-zero exit status.
+        Started Run 2 @ 00:30:49
+        The test exited with a non-zero exit status.
+        Started Run 3 @ 00:30:49
+        The test exited with a non-zero exit status.
+        E: ./ffte: 8: ./ffte: ./tests/speed1d: not found
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/ffte-1.0.1,access,7,15190,15190,A
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1
+    Processor Test Configuration
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1 [Test: N=64, 1D Complex FFT Routine]
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes (00:33 PDT)
+        Started Run 1 @ 00:30:49
+        The test exited with a non-zero exit status.
+        Started Run 2 @ 00:30:49
+        The test exited with a non-zero exit status.
+        Started Run 3 @ 00:30:49
+        The test exited with a non-zero exit status.
+        E: ./ffte: 8: ./ffte: ./tests/speed1d: not found
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/ffte-1.0.1,write,8,15190,15190,A
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1
+    Processor Test Configuration
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1 [Test: N=64, 1D Complex FFT Routine]
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes (00:33 PDT)
+        Started Run 1 @ 00:30:50
+        The test exited with a non-zero exit status.
+        Started Run 2 @ 00:30:50
+        The test exited with a non-zero exit status.
+        Started Run 3 @ 00:30:50
+        The test exited with a non-zero exit status.
+        E: ./ffte: 8: ./ffte: ./tests/speed1d: not found
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/ffte-1.0.1,read,8,15190,15191,A
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1
+    Processor Test Configuration
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1 [Test: N=64, 1D Complex FFT Routine]
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes (00:33 PDT)
+        Started Run 1 @ 00:30:50
+        The test exited with a non-zero exit status.
+        Started Run 2 @ 00:30:50
+        The test exited with a non-zero exit status.
+        Started Run 3 @ 00:30:50
+        The test exited with a non-zero exit status.
+        E: ./ffte: 8: ./ffte: ./tests/speed1d: not found
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/ffte-1.0.1,munmap,1,15191,15191,A
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1
+    Processor Test Configuration
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1 [Test: N=64, 1D Complex FFT Routine]
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes (00:33 PDT)
+        Started Run 1 @ 00:30:50
+        The test exited with a non-zero exit status.
+        Started Run 2 @ 00:30:50
+        The test exited with a non-zero exit status.
+        Started Run 3 @ 00:30:50
+        The test exited with a non-zero exit status.
+        E: ./ffte: 8: ./ffte: ./tests/speed1d: not found
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/ffte-1.0.1,munmap,2,15191,15191,A
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1
+    Processor Test Configuration
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1 [Test: N=64, 1D Complex FFT Routine]
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes (00:33 PDT)
+        Started Run 1 @ 00:30:51
+        The test exited with a non-zero exit status.
+        Started Run 2 @ 00:30:51
+        The test exited with a non-zero exit status.
+        Started Run 3 @ 00:30:51
+        The test exited with a non-zero exit status.
+        E: ./ffte: 8: ./ffte: ./tests/speed1d: not found
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/ffte-1.0.1,mprotect,2,15191,15192,A
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1
+    Processor Test Configuration
+
+Phoronix Test Suite v6.2.2
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.41GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 21GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-85-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6.3, File-System: ext4, Screen Resolution: 1840x1070, System Layer: VMware
+
+
+
+FFTE 5.0:
+    pts/ffte-1.0.1 [Test: N=64, 1D Complex FFT Routine]
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes (00:33 PDT)
+        Started Run 1 @ 00:30:51
+        The test exited with a non-zero exit status.
+        Started Run 2 @ 00:30:51
+        The test exited with a non-zero exit status.
+        Started Run 3 @ 00:30:51
+        The test exited with a non-zero exit status.
+        E: ./ffte: 8: ./ffte: ./tests/speed1d: not found
+
+    Test Results:
+
+    Average: 0 MFLOPS
+    This test failed to run properly.
+
+[[]]pts/ffte-1.0.1,mmap,2,15192,15192,A
+

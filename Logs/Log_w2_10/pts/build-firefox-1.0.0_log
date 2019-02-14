@@ -1,0 +1,2312 @@
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:06:01
+        Started Run 1 @ 00:06:35
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:06:38
+        Started Run 2 @ 00:06:40
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:06:40
+        Started Run 3 @ 00:06:42
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:06:42
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,rt_sigaction,4,7857,7900,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:06:46
+        Started Run 1 @ 00:07:19
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:07:22
+        Started Run 2 @ 00:07:24
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:07:24
+        Started Run 3 @ 00:07:26
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:07:26
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,rt_sigaction,4,7902,7944,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:07:30
+        Started Run 1 @ 00:08:02
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:08:05
+        Started Run 2 @ 00:08:07
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:08:07
+        Started Run 3 @ 00:08:09
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:08:09
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,rt_sigprocmask,4,7945,7987,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:08:13
+        Started Run 1 @ 00:08:45
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:08:48
+        Started Run 2 @ 00:08:50
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:08:50
+        Started Run 3 @ 00:08:52
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:08:52
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,rt_sigprocmask,4,7988,8030,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:08:56
+        Started Run 1 @ 00:09:28
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:09:31
+        Started Run 2 @ 00:09:33
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:09:33
+        Started Run 3 @ 00:09:35
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:09:35
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,rt_sigpending,4,8032,8074,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:09:40
+        Started Run 1 @ 00:10:11
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:10:14
+        Started Run 2 @ 00:10:16
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:10:16
+        Started Run 3 @ 00:10:19
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:10:19
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,rt_sigpending,4,8075,8117,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:10:23
+        Started Run 1 @ 00:10:55
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:10:58
+        Started Run 2 @ 00:11:00
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:11:00
+        Started Run 3 @ 00:11:02
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:11:02
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,kill,4,8118,8160,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:11:07
+        Started Run 1 @ 00:11:40
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:11:43
+        Started Run 2 @ 00:11:45
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:11:45
+        Started Run 3 @ 00:11:47
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:11:47
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,kill,4,8161,8205,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:11:51
+        Started Run 1 @ 00:12:22
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:12:25
+        Started Run 2 @ 00:12:27
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:12:27
+        Started Run 3 @ 00:12:29
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:12:29
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,write,5,8206,8247,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:12:33
+        Started Run 1 @ 00:13:05
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:13:08
+        Started Run 2 @ 00:13:10
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:13:10
+        Started Run 3 @ 00:13:12
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:13:12
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,write,5,8249,8291,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:13:16
+        Started Run 1 @ 00:13:48
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:13:51
+        Started Run 2 @ 00:13:53
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:13:53
+        Started Run 3 @ 00:13:55
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:13:55
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,read,5,8292,8333,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:13:59
+        Started Run 1 @ 00:14:31
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:14:34
+        Started Run 2 @ 00:14:36
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:14:36
+        Started Run 3 @ 00:14:38
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:14:38
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,read,5,8334,8377,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:14:42
+        Started Run 1 @ 00:15:14
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:15:17
+        Started Run 2 @ 00:15:19
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:15:19
+        Started Run 3 @ 00:15:21
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:15:21
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,pread64,5,8378,8419,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:15:25
+        Started Run 1 @ 00:15:57
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:16:00
+        Started Run 2 @ 00:16:02
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:16:02
+        Started Run 3 @ 00:16:04
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:16:04
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,pread64,5,8420,8462,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:16:08
+        Started Run 1 @ 00:16:39
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:16:42
+        Started Run 2 @ 00:16:44
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:16:44
+        Started Run 3 @ 00:16:46
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:16:46
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,pwrite64,5,8463,8504,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:16:50
+        Started Run 1 @ 00:17:22
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:17:25
+        Started Run 2 @ 00:17:27
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:17:27
+        Started Run 3 @ 00:17:29
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:17:29
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,pwrite64,5,8506,8547,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:17:33
+        Started Run 1 @ 00:18:05
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:18:08
+        Started Run 2 @ 00:18:10
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:18:10
+        Started Run 3 @ 00:18:12
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:18:12
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,sendto,5,8548,8590,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:18:16
+        Started Run 1 @ 00:18:48
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:18:51
+        Started Run 2 @ 00:18:53
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:18:53
+        Started Run 3 @ 00:18:55
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:18:55
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,sendto,5,8591,8633,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:18:59
+        Started Run 1 @ 00:19:31
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:19:34
+        Started Run 2 @ 00:19:36
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:19:36
+        Started Run 3 @ 00:19:38
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:19:38
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,recvfrom,5,8634,8676,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:19:42
+        Started Run 1 @ 00:20:13
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:20:17
+        Started Run 2 @ 00:20:19
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:20:19
+        Started Run 3 @ 00:20:21
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:20:21
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,recvfrom,5,8677,8719,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:20:25
+        Started Run 1 @ 00:20:56
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:20:59
+        Started Run 2 @ 00:21:01
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:21:01
+        Started Run 3 @ 00:21:03
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:21:03
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,write,6,8720,8761,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:21:07
+        Started Run 1 @ 00:21:39
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:21:42
+        Started Run 2 @ 00:21:44
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:21:44
+        Started Run 3 @ 00:21:46
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:21:46
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,write,6,8762,8805,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:21:50
+        Started Run 1 @ 00:22:22
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:22:25
+        Started Run 2 @ 00:22:27
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:22:27
+        Started Run 3 @ 00:22:29
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:22:29
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,read,6,8806,8848,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:22:34
+        Started Run 1 @ 00:23:05
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:23:08
+        Started Run 2 @ 00:23:10
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:23:10
+        Started Run 3 @ 00:23:12
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:23:12
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,read,6,8849,8890,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:23:16
+        Started Run 1 @ 00:23:48
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:23:51
+        Started Run 2 @ 00:23:53
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:23:53
+        Started Run 3 @ 00:23:55
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:23:55
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,pread64,6,8891,8933,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:23:59
+        Started Run 1 @ 00:24:31
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:24:34
+        Started Run 2 @ 00:24:36
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:24:36
+        Started Run 3 @ 00:24:38
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:24:38
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,pread64,6,8934,8976,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:24:42
+        Started Run 1 @ 00:25:13
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:25:16
+        Started Run 2 @ 00:25:18
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:25:18
+        Started Run 3 @ 00:25:20
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:25:20
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,pwrite64,6,8977,9018,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:25:24
+        Started Run 1 @ 00:25:56
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:25:59
+        Started Run 2 @ 00:26:01
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:26:01
+        Started Run 3 @ 00:26:03
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:26:03
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,pwrite64,6,9019,9061,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:26:08
+        Started Run 1 @ 00:26:41
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:26:44
+        Started Run 2 @ 00:26:46
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:26:46
+        Started Run 3 @ 00:26:48
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:26:48
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,sendto,6,9062,9106,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:26:52
+        Started Run 1 @ 00:27:24
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:27:27
+        Started Run 2 @ 00:27:29
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:27:29
+        Started Run 3 @ 00:27:31
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:27:31
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,sendto,6,9108,9149,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:27:35
+        Started Run 1 @ 00:28:07
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:28:10
+        Started Run 2 @ 00:28:12
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:28:12
+        Started Run 3 @ 00:28:14
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:28:14
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,recvfrom,6,9150,9192,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:28:18
+        Started Run 1 @ 00:28:50
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:28:53
+        Started Run 2 @ 00:28:55
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:28:55
+        Started Run 3 @ 00:28:57
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:28:57
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,recvfrom,6,9193,9235,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:29:01
+        Started Run 1 @ 00:29:33
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:29:36
+        Started Run 2 @ 00:29:38
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:29:38
+        Started Run 3 @ 00:29:40
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:29:40
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,access,7,9236,9278,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:29:44
+        Started Run 1 @ 00:30:15
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:30:18
+        Started Run 2 @ 00:30:20
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:30:20
+        Started Run 3 @ 00:30:22
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:30:22
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,access,7,9279,9320,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:30:26
+        Started Run 1 @ 00:30:58
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:31:01
+        Started Run 2 @ 00:31:03
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:31:03
+        Started Run 3 @ 00:31:05
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:31:05
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,write,8,9321,9363,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:31:09
+        Started Run 1 @ 00:31:40
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:31:43
+        Started Run 2 @ 00:31:45
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:31:45
+        Started Run 3 @ 00:31:47
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:31:47
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,write,8,9364,9405,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:31:51
+        Started Run 1 @ 00:32:23
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:32:26
+        Started Run 2 @ 00:32:28
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:32:28
+        Started Run 3 @ 00:32:30
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:32:30
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,read,8,9406,9448,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:32:34
+        Started Run 1 @ 00:33:06
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:33:09
+        Started Run 2 @ 00:33:11
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:33:11
+        Started Run 3 @ 00:33:13
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:33:13
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,read,8,9449,9491,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:33:17
+        Started Run 1 @ 00:33:48
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:33:52
+        Started Run 2 @ 00:33:54
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:33:54
+        Started Run 3 @ 00:33:56
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:33:56
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,pread64,8,9492,9534,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:33:59
+        Started Run 1 @ 00:34:31
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:34:34
+        Started Run 2 @ 00:34:36
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:34:36
+        Started Run 3 @ 00:34:38
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:34:38
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,pread64,8,9535,9576,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:34:42
+        Started Run 1 @ 00:35:13
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:35:16
+        Started Run 2 @ 00:35:18
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:35:18
+        Started Run 3 @ 00:35:20
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:35:20
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,pwrite64,8,9577,9618,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:35:24
+        Started Run 1 @ 00:35:55
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:35:58
+        Started Run 2 @ 00:36:00
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:36:00
+        Started Run 3 @ 00:36:02
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:36:02
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,pwrite64,8,9619,9660,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:36:06
+        Started Run 1 @ 00:36:39
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:36:42
+        Started Run 2 @ 00:36:44
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:36:44
+        Started Run 3 @ 00:36:46
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:36:46
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,sendto,8,9661,9704,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:36:50
+        Started Run 1 @ 00:37:23
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:37:26
+        Started Run 2 @ 00:37:28
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:37:28
+        Started Run 3 @ 00:37:30
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:37:30
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,sendto,8,9705,9748,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:37:34
+        Started Run 1 @ 00:38:07
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:38:10
+        Started Run 2 @ 00:38:12
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:38:12
+        Started Run 3 @ 00:38:14
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:38:14
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,recvfrom,8,9749,9792,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:38:18
+        Started Run 1 @ 00:38:52
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:38:55
+        Started Run 2 @ 00:38:57
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:38:57
+        Started Run 3 @ 00:38:59
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:38:59
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,recvfrom,8,9793,9836,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:39:02
+        Started Run 1 @ 00:39:36
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:39:39
+        Started Run 2 @ 00:39:41
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:39:41
+        Started Run 3 @ 00:39:43
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:39:43
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,mq_notify,9,9837,9881,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:39:46
+        Started Run 1 @ 00:40:24
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:40:27
+        Started Run 2 @ 00:40:29
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:40:29
+        Started Run 3 @ 00:40:31
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:40:31
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,mq_notify,9,9882,9929,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:40:35
+        Started Run 1 @ 00:41:09
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:41:12
+        Started Run 2 @ 00:41:14
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:41:14
+        Started Run 3 @ 00:41:16
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:41:16
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,setuid,10,9931,9974,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:41:20
+        Started Run 1 @ 00:41:55
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:41:58
+        Started Run 2 @ 00:42:00
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:42:00
+        Started Run 3 @ 00:42:02
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:42:02
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,setuid,10,9975,10020,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:42:06
+        Started Run 1 @ 00:42:39
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:42:42
+        Started Run 2 @ 00:42:44
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:42:44
+        Started Run 3 @ 00:42:46
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:42:46
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,munmap,1,10021,10064,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:42:50
+        Started Run 1 @ 00:43:21
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:43:25
+        Started Run 2 @ 00:43:27
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:43:27
+        Started Run 3 @ 00:43:29
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:43:29
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,munmap,1,10065,10107,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:43:33
+        Started Run 1 @ 00:44:05
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:44:08
+        Started Run 2 @ 00:44:10
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:44:10
+        Started Run 3 @ 00:44:12
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:44:12
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,munmap,2,10108,10150,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:44:16
+        Started Run 1 @ 00:44:47
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:44:51
+        Started Run 2 @ 00:44:53
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:44:53
+        Started Run 3 @ 00:44:55
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:44:55
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,munmap,2,10151,10193,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:44:59
+        Started Run 1 @ 00:45:31
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:45:34
+        Started Run 2 @ 00:45:36
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:45:36
+        Started Run 3 @ 00:45:38
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:45:38
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,mprotect,2,10194,10236,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:45:43
+        Started Run 1 @ 00:46:14
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:46:17
+        Started Run 2 @ 00:46:19
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:46:19
+        Started Run 3 @ 00:46:21
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:46:21
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,mprotect,2,10237,10280,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:46:26
+        Started Run 1 @ 00:46:57
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:47:01
+        Started Run 2 @ 00:47:03
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:47:03
+        Started Run 3 @ 00:47:05
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:47:05
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,mremap,2,10281,10323,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:47:09
+        Started Run 1 @ 00:47:40
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:47:44
+        Started Run 2 @ 00:47:46
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:47:46
+        Started Run 3 @ 00:47:48
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:47:48
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,mremap,2,10324,10366,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:47:52
+        Started Run 1 @ 00:48:23
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:48:26
+        Started Run 2 @ 00:48:28
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:48:28
+        Started Run 3 @ 00:48:30
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:48:30
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,mmap,2,10367,10408,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:48:34
+        Started Run 1 @ 00:49:06
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:49:09
+        Started Run 2 @ 00:49:11
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:49:11
+        Started Run 3 @ 00:49:13
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:49:13
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,mmap,2,10409,10451,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:49:17
+        Started Run 1 @ 00:49:48
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:49:51
+        Started Run 2 @ 00:49:53
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:49:53
+        Started Run 3 @ 00:49:55
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:49:55
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,mlock,3,10452,10493,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:49:59
+        Started Run 1 @ 00:50:31
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:50:34
+        Started Run 2 @ 00:50:36
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:50:36
+        Started Run 3 @ 00:50:38
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:50:38
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,mlock,3,10495,10536,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:50:42
+        Started Run 1 @ 00:51:14
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:51:17
+        Started Run 2 @ 00:51:19
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:51:19
+        Started Run 3 @ 00:51:21
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:51:21
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,mlockall,3,10537,10579,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:51:25
+        Started Run 1 @ 00:51:56
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:51:59
+        Started Run 2 @ 00:52:01
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:52:01
+        Started Run 3 @ 00:52:03
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:52:03
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,mlockall,3,10580,10621,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:52:07
+        Started Run 1 @ 00:52:38
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:52:42
+        Started Run 2 @ 00:52:44
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:52:44
+        Started Run 3 @ 00:52:46
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:52:46
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,munlock,3,10622,10664,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:52:50
+        Started Run 1 @ 00:53:24
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:53:27
+        Started Run 2 @ 00:53:29
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:53:29
+        Started Run 3 @ 00:53:31
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:53:31
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,munlock,3,10665,10710,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:53:35
+        Started Run 1 @ 00:54:07
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:54:10
+        Started Run 2 @ 00:54:12
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:54:12
+        Started Run 3 @ 00:54:14
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:54:14
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,munlockall,3,10711,10752,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+
+Timed Firefox Compilation 32.0:
+    pts/build-firefox-1.0.0
+    Test 1 of 1
+    Estimated Trial Run Count: 3
+        Running Pre-Test Script @ 00:54:18
+        Started Run 1 @ 00:54:54
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:54:57
+        Started Run 2 @ 00:54:59
+        The test exited with a non-zero exit status.
+        Running Interim Test Script @ 00:54:59
+        Started Run 3 @ 00:55:01
+        The test exited with a non-zero exit status.
+        Running Post-Test Script @ 00:55:01
+
+    Test Results:
+
+    Average: 0 Seconds
+    This test failed to run properly.
+
+[[]]pts/build-firefox-1.0.0,munlockall,3,10754,10799,
+

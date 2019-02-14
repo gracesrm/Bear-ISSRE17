@@ -1,0 +1,299 @@
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,rt_sigaction,4,1556,1556,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,rt_sigprocmask,4,1557,1557,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,rt_sigpending,4,1558,1558,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,kill,4,1559,1559,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,write,5,1560,1560,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,read,5,1561,1562,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,pread64,5,1563,1563,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,pwrite64,5,1564,1564,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,sendto,5,1565,1565,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,recvfrom,5,1566,1566,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,write,6,1567,1567,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,read,6,1568,1568,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,pread64,6,1569,1569,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,pwrite64,6,1570,1570,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,sendto,6,1571,1571,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,recvfrom,6,1572,1572,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,access,7,1573,1574,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,write,8,1575,1575,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,read,8,1576,1576,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,pread64,8,1577,1577,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,pwrite64,8,1578,1578,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,sendto,8,1579,1579,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,recvfrom,8,1580,1580,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,mq_notify,9,1581,1581,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,setuid,10,1582,1582,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,munmap,1,1583,1583,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,munmap,2,1584,1584,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,mprotect,2,1585,1586,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,mremap,2,1587,1587,
+
+[[]]lsblk,mmap,2,1588,1588,A
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,mlock,3,1589,1589,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,mlockall,3,1590,1590,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,munlock,3,1591,1591,
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    20G  0 disk 
+├─sda1   8:1    0    19G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  1022M  0 part [SWAP]
+sr0     11:0    1  1024M  0 rom  
+sr1     11:1    1  1024M  0 rom  
+[[]]lsblk,munlockall,3,1592,1592,
+

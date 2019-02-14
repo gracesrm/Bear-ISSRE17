@@ -1,0 +1,635 @@
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 13 Minutes
+
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 13 Minutes
+        Running Pre-Test Script @ 00:55:05
+        Started Run 1 @ 00:55:22
+        Running Interim Test Script @ 00:58:55
+        Started Run 2 @ 00:58:57
+        Running Interim Test Script @ 01:02:20
+        Started Run 3 @ 01:02:23  [Std. Dev: 2.34%]
+        Running Post-Test Script @ 01:05:56
+
+    Test Results:
+        209.9355430603
+        203.35079216957
+        212.87097501755
+
+    Average: 208.72 Seconds
+
+
+[[]]pts/build-imagemagick-1.7.2,rt_sigaction,4,10800,11452,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 11 Minutes
+
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 01:05:58
+        Started Run 1 @ 01:06:15
+        Running Interim Test Script @ 01:09:51
+        Started Run 2 @ 01:09:54
+        Running Interim Test Script @ 01:13:28
+        Started Run 3 @ 01:13:30  [Std. Dev: 0.96%]
+        Running Post-Test Script @ 01:17:01
+
+    Test Results:
+        212.85066390038
+        214.22821593285
+        210.2148809433
+
+    Average: 212.43 Seconds
+
+
+[[]]pts/build-imagemagick-1.7.2,rt_sigaction,4,11453,12117,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 11 Minutes
+
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 01:17:03
+        Started Run 1 @ 01:17:20
+        Running Interim Test Script @ 01:20:45
+        Started Run 2 @ 01:20:48
+        Running Interim Test Script @ 01:24:09
+        Started Run 3 @ 01:24:12  [Std. Dev: 0.25%]
+        Running Post-Test Script @ 01:27:34
+
+    Test Results:
+        202.5177989006
+        201.68037390709
+        202.60190987587
+
+    Average: 202.27 Seconds
+
+
+[[]]pts/build-imagemagick-1.7.2,rt_sigprocmask,4,12118,12751,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 11 Minutes
+
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 01:27:37
+        Started Run 1 @ 01:27:53
+        Running Interim Test Script @ 01:31:17
+        Started Run 2 @ 01:31:19
+        Running Interim Test Script @ 01:34:40
+        Started Run 3 @ 01:34:43  [Std. Dev: 0.10%]
+        Running Post-Test Script @ 01:38:04
+
+    Test Results:
+        200.67060780525
+        200.73361206055
+        201.05953502655
+
+    Average: 200.82 Seconds
+
+
+[[]]pts/build-imagemagick-1.7.2,rt_sigprocmask,4,12752,13380,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 11 Minutes
+
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 01:38:06
+        Started Run 1 @ 01:38:23
+        Running Interim Test Script @ 01:41:48
+        Started Run 2 @ 01:41:50
+        Running Interim Test Script @ 01:45:21
+        Started Run 3 @ 01:45:23  [Std. Dev: 2.38%]
+        Running Post-Test Script @ 01:48:47
+
+    Test Results:
+        201.84756588936
+        210.93215203285
+        203.28929495811
+
+    Average: 205.36 Seconds
+
+
+[[]]pts/build-imagemagick-1.7.2,rt_sigpending,4,13382,14023,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 11 Minutes
+
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 01:48:50
+        Started Run 1 @ 01:49:06
+        Running Interim Test Script @ 01:52:32
+        Started Run 2 @ 01:52:35
+        Running Interim Test Script @ 01:55:58
+        Started Run 3 @ 01:56:01  [Std. Dev: 0.14%]
+        Running Post-Test Script @ 01:59:24
+
+    Test Results:
+        203.14791607857
+        203.54372119904
+        202.99550414085
+
+    Average: 203.23 Seconds
+
+
+[[]]pts/build-imagemagick-1.7.2,rt_sigpending,4,14024,14661,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 11 Minutes
+
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 01:59:27
+        Started Run 1 @ 01:59:43
+        Running Interim Test Script @ 02:03:17
+        Started Run 2 @ 02:03:19
+        Running Interim Test Script @ 02:06:43
+        Started Run 3 @ 02:06:45  [Std. Dev: 1.99%]
+        Running Post-Test Script @ 02:10:09
+
+    Test Results:
+        210.65129899979
+        203.30938887596
+        203.80238986015
+
+    Average: 205.92 Seconds
+
+
+[[]]pts/build-imagemagick-1.7.2,kill,4,14662,15306,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 11 Minutes
+
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 02:10:12
+        Started Run 1 @ 02:10:28
+        Running Interim Test Script @ 02:13:57
+        Started Run 2 @ 02:13:59
+        Running Interim Test Script @ 02:17:23
+        Started Run 3 @ 02:17:25  [Std. Dev: 0.76%]
+        Running Post-Test Script @ 02:20:47
+
+    Test Results:
+        205.57905602455
+        203.61585712433
+        202.50792717934
+
+    Average: 203.90 Seconds
+
+
+[[]]pts/build-imagemagick-1.7.2,kill,4,15307,15944,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 11 Minutes
+
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 02:20:50
+        Started Run 1 @ 02:21:07
+        Running Interim Test Script @ 02:24:34
+        Started Run 2 @ 02:24:37
+        Running Interim Test Script @ 02:28:05
+        Started Run 3 @ 02:28:07  [Std. Dev: 0.89%]
+        Running Post-Test Script @ 02:31:32
+
+    Test Results:
+        204.62124013901
+        208.08101797104
+        205.32515192032
+
+    Average: 206.01 Seconds
+
+
+[[]]pts/build-imagemagick-1.7.2,write,5,15945,16589,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 11 Minutes
+
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 02:31:35
+        Started Run 1 @ 02:31:52
+        Running Interim Test Script @ 02:35:20
+        Started Run 2 @ 02:35:22
+        Running Interim Test Script @ 02:38:45
+        Started Run 3 @ 02:38:47  [Std. Dev: 0.78%]
+        Running Post-Test Script @ 02:42:09
+
+    Test Results:
+        204.92760705948
+        202.93423199654
+        201.79720377922
+
+    Average: 203.22 Seconds
+
+
+[[]]pts/build-imagemagick-1.7.2,write,5,16590,17226,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 11 Minutes
+
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 02:42:12
+        Started Run 1 @ 02:42:28
+        Running Interim Test Script @ 02:45:57
+        Started Run 2 @ 02:45:59
+        Running Interim Test Script @ 02:49:20
+        Started Run 3 @ 02:49:23  [Std. Dev: 1.31%]
+        Running Post-Test Script @ 02:52:43
+
+    Test Results:
+        205.42033815384
+        201.10319399834
+        200.59253501892
+
+    Average: 202.37 Seconds
+
+
+[[]]pts/build-imagemagick-1.7.2,read,5,17227,17860,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 11 Minutes
+
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 02:52:46
+        Started Run 1 @ 02:53:02
+        Running Interim Test Script @ 02:56:27
+        Started Run 2 @ 02:56:29
+        Running Interim Test Script @ 03:00:04
+        Started Run 3 @ 03:00:07
+        Running Interim Test Script @ 03:03:30  [Std. Dev: 3.55%]
+        Started Run 4 @ 03:03:33  [Std. Dev: 3.03%]
+        Running Post-Test Script @ 03:06:56
+
+    Test Results:
+        201.44413995743
+        215.11998105049
+        203.70004987717
+        203.24812412262
+
+    Average: 205.88 Seconds
+
+
+[[]]pts/build-imagemagick-1.7.2,read,5,17861,18713,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 12 Minutes
+
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 12 Minutes
+        Running Pre-Test Script @ 03:06:59
+        Started Run 1 @ 03:07:15
+        Running Interim Test Script @ 03:10:43
+        Started Run 2 @ 03:10:45
+        Running Interim Test Script @ 03:14:11
+        Started Run 3 @ 03:14:13  [Std. Dev: 0.48%]
+        Running Post-Test Script @ 03:17:37
+
+    Test Results:
+        204.63539218903
+        205.75107383728
+        203.81137681007
+
+    Average: 204.73 Seconds
+
+
+[[]]pts/build-imagemagick-1.7.2,pread64,5,18714,19354,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 11 Minutes
+
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 03:17:40
+        Started Run 1 @ 03:17:56
+        Running Interim Test Script @ 03:21:23
+        Started Run 2 @ 03:21:26
+        Running Interim Test Script @ 03:24:47
+        Started Run 3 @ 03:24:49  [Std. Dev: 0.75%]
+        Running Post-Test Script @ 03:28:11
+
+    Test Results:
+        204.01159310341
+        201.11273193359
+        201.81910514832
+
+    Average: 202.31 Seconds
+
+
+[[]]pts/build-imagemagick-1.7.2,pread64,5,19355,19988,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 11 Minutes
+
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 03:28:14
+        Started Run 1 @ 03:28:31
+        Running Interim Test Script @ 03:32:00
+        Started Run 2 @ 03:32:02
+        Running Interim Test Script @ 03:35:26
+        Started Run 3 @ 03:35:28  [Std. Dev: 0.66%]
+        Running Post-Test Script @ 03:38:51
+
+    Test Results:
+        205.74190187454
+        203.82029294968
+        203.14002108574
+
+    Average: 204.23 Seconds
+
+
+[[]]pts/build-imagemagick-1.7.2,pwrite64,5,19989,20628,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 11 Minutes
+
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 03:38:54
+        Started Run 1 @ 03:39:11
+        Running Interim Test Script @ 03:42:39
+        Started Run 2 @ 03:42:41
+        Running Interim Test Script @ 03:46:05
+        Started Run 3 @ 03:46:08  [Std. Dev: 1.23%]
+        Running Post-Test Script @ 03:49:37
+
+    Test Results:
+        204.81026601791
+        204.31877613068
+        208.92167401314
+
+    Average: 206.02 Seconds
+
+
+[[]]pts/build-imagemagick-1.7.2,pwrite64,5,20629,21274,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 11 Minutes
+
+
+
+Timed ImageMagick Compilation 6.9.0:
+    pts/build-imagemagick-1.7.2
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 11 Minutes
+        Running Pre-Test Script @ 03:49:40
+        Started Run 1 @ 03:49:56
+        Running Interim Test Script @ 03:53:25
+        Started Run 2 @ 03:53:28

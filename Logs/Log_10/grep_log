@@ -1,0 +1,66 @@
+finished-apps~:echo "haha"
+finished-apps~:grep -i "haha" *
+lap-installed-apps:echo "haha"
+lap-installed-apps:grep -i "haha" *
+[[]]grep,write,5,59575,59575,
+
+finished-apps~:echo "haha"
+finished-apps~:grep -i "haha" *
+lap-installed-apps:echo "haha"
+lap-installed-apps:grep -i "haha" *
+[[]]grep,read,5,59576,59576,
+
+finished-apps~:echo "haha"
+finished-apps~:grep -i "haha" *
+lap-installed-apps:echo "haha"
+lap-installed-apps:grep -i "haha" *
+[[]]grep,write,6,59577,59577,
+
+finished-apps~:echo "haha"
+finished-apps~:grep -i "haha" *
+lap-installed-apps:echo "haha"
+lap-installed-apps:grep -i "haha" *
+[[]]grep,read,6,59578,59578,
+
+finished-apps~:echo "haha"
+finished-apps~:grep -i "haha" *
+lap-installed-apps:echo "haha"
+lap-installed-apps:grep -i "haha" *
+[[]]grep,access,7,59579,59579,
+
+finished-apps~:echo "haha"
+finished-apps~:grep -i "haha" *
+lap-installed-apps:echo "haha"
+lap-installed-apps:grep -i "haha" *
+[[]]grep,write,8,59580,59580,
+
+finished-apps~:echo "haha"
+finished-apps~:grep -i "haha" *
+lap-installed-apps:echo "haha"
+lap-installed-apps:grep -i "haha" *
+[[]]grep,read,8,59581,59581,
+
+finished-apps~:echo "haha"
+finished-apps~:grep -i "haha" *
+lap-installed-apps:echo "haha"
+lap-installed-apps:grep -i "haha" *
+[[]]grep,munmap,1,59582,59582,
+
+finished-apps~:echo "haha"
+finished-apps~:grep -i "haha" *
+lap-installed-apps:echo "haha"
+lap-installed-apps:grep -i "haha" *
+[[]]grep,munmap,2,59583,59583,
+
+finished-apps~:echo "haha"
+finished-apps~:grep -i "haha" *
+lap-installed-apps:echo "haha"
+lap-installed-apps:grep -i "haha" *
+[[]]grep,mprotect,2,59584,59584,
+
+finished-apps~:echo "haha"
+finished-apps~:grep -i "haha" *
+lap-installed-apps:echo "haha"
+lap-installed-apps:grep -i "haha" *
+[[]]grep,mmap,2,59585,59586,
+

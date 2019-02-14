@@ -1,0 +1,38 @@
+Host localhost not found: 3(NXDOMAIN)
+[[]]host,rt_sigaction,4,59996,59996,
+
+Host localhost not found: 3(NXDOMAIN)
+[[]]host,rt_sigprocmask,4,59997,59997,
+
+Host localhost not found: 3(NXDOMAIN)
+[[]]host,write,5,59998,59998,
+
+Host localhost not found: 3(NXDOMAIN)
+[[]]host,read,5,59999,59999,
+
+Host localhost not found: 3(NXDOMAIN)
+[[]]host,write,6,60000,60000,
+
+Host localhost not found: 3(NXDOMAIN)
+[[]]host,read,6,60001,60001,
+
+Host localhost not found: 3(NXDOMAIN)
+[[]]host,access,7,60002,60002,
+
+Host localhost not found: 3(NXDOMAIN)
+[[]]host,write,8,60003,60003,
+
+Host localhost not found: 3(NXDOMAIN)
+[[]]host,read,8,60005,60005,
+
+Host localhost not found: 3(NXDOMAIN)
+[[]]host,munmap,1,60006,60006,
+
+Host localhost not found: 3(NXDOMAIN)
+[[]]host,munmap,2,60007,60007,
+
+Host localhost not found: 3(NXDOMAIN)
+[[]]host,mprotect,2,60008,60008,
+
+[[]]host,mmap,2,60009,60009,A
+

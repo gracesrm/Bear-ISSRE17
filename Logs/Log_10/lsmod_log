@@ -1,0 +1,2213 @@
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,rt_sigaction,4,254,254,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,rt_sigprocmask,4,255,255,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,rt_sigpending,4,256,256,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,kill,4,257,257,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,write,5,258,258,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,read,5,259,259,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,pread64,5,260,260,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,pwrite64,5,261,261,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,sendto,5,263,263,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,recvfrom,5,264,264,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,write,6,265,265,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,read,6,266,266,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,pread64,6,267,267,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,pwrite64,6,268,268,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,sendto,6,269,269,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,recvfrom,6,270,270,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,access,7,271,271,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,write,8,272,272,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,read,8,273,273,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,pread64,8,274,274,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,pwrite64,8,275,275,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,sendto,8,276,276,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,recvfrom,8,277,277,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,mq_notify,9,278,278,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,setuid,10,279,279,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,munmap,1,280,280,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,munmap,2,281,281,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,mprotect,2,282,282,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,mremap,2,283,283,
+
+[[]]lsmod,mmap,2,284,284,A
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,mlock,3,285,285,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,mlockall,3,286,286,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,munlock,3,287,287,
+
+Module                  Size  Used by
+hook                   47328  0 
+appletalk              34523  0 
+ipx                    28620  0 
+p8022                  12817  1 ipx
+psnap                  13111  2 appletalk,ipx
+llc                    14597  2 p8022,psnap
+p8023                  12789  1 ipx
+tcp_diag               12591  0 
+inet_diag              18639  1 tcp_diag
+nls_iso8859_1          12713  0 
+usb_storage            66714  0 
+coretemp               17728  0 
+crct10dif_pclmul       14250  0 
+crc32_pclmul           13160  0 
+aesni_intel            55720  0 
+ablk_helper            13597  1 aesni_intel
+cryptd                 20530  2 aesni_intel,ablk_helper
+lrw                    13323  1 aesni_intel
+gf128mul               14951  1 lrw
+vmw_balloon            13593  0 
+glue_helper            14095  1 aesni_intel
+aes_x86_64             17131  1 aesni_intel
+snd_ens1371            29928  2 
+gameport               19986  1 snd_ens1371
+snd_ac97_codec        135016  1 snd_ens1371
+ac97_bus               12730  1 snd_ac97_codec
+psmouse               113413  0 
+serio_raw              13462  0 
+snd_pcm               107140  2 snd_ens1371,snd_ac97_codec
+snd_seq_midi           13324  0 
+snd_rawmidi            30937  2 snd_ens1371,snd_seq_midi
+snd_seq_midi_event     14899  1 snd_seq_midi
+snd_seq                66211  2 snd_seq_midi,snd_seq_midi_event
+snd_seq_device         14497  3 snd_seq_midi,snd_rawmidi,snd_seq
+snd_timer              34194  2 snd_pcm,snd_seq
+snd                    77986  12 snd_ens1371,snd_ac97_codec,snd_pcm,snd_seq_midi,snd_rawmidi,snd_seq,snd_seq_device,snd_timer
+mac_hid                13253  0 
+vmwgfx                185498  2 
+soundcore              12680  1 snd
+snd_page_alloc         18798  1 snd_pcm
+ttm                    98443  1 vmwgfx
+drm                   308868  3 vmwgfx,ttm
+i2c_piix4              22299  0 
+shpchp                 37201  0 
+bnep                   19884  2 
+rfcomm                 74748  0 
+bluetooth             411194  10 bnep,rfcomm
+parport_pc             32866  1 
+ppdev                  17711  0 
+lp                     17799  0 
+parport                42481  3 parport_pc,ppdev,lp
+hid_generic            12548  0 
+usbhid                 53111  0 
+hid                   106605  2 hid_generic,usbhid
+ahci                   34239  0 
+floppy                 70207  0 
+libahci                32825  1 ahci
+e1000                 152064  0 
+mptspi                 22921  2 
+mptscsih               44751  1 mptspi
+mptbase               103162  2 mptspi,mptscsih
+pata_acpi              13038  0 
+vmw_pvscsi             23372  0 
+vmxnet3                50657  0 
+[[]]lsmod,munlockall,3,288,288,
+

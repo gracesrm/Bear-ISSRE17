@@ -1,0 +1,448 @@
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 4 Minutes
+
+
+
+7-Zip Compression 9.20.1:
+    pts/compress-7zip-1.6.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes
+        Started Run 1 @ 17:25:16
+        Started Run 2 @ 17:25:45
+        Started Run 3 @ 17:26:14  [Std. Dev: 1.55%]
+
+    Test Results:
+        3592
+        3644
+        3705
+
+    Average: 3647 MIPS
+
+
+[[]]pts/compress-7zip-1.6.1,rt_sigaction,4,70211,70297,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+7-Zip Compression 9.20.1:
+    pts/compress-7zip-1.6.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:26:42
+        Started Run 2 @ 17:27:11
+        Started Run 3 @ 17:27:39  [Std. Dev: 6.26%]
+        Started Run 4 @ 17:28:11  [Std. Dev: 5.28%]
+        Started Run 5 @ 17:28:41  [Std. Dev: 4.79%]
+        Started Run 6 @ 17:29:11  [Std. Dev: 4.34%]
+
+    Test Results:
+        3715
+        3742
+        3339
+        3514
+        3471
+        3624
+
+    Average: 3568 MIPS
+
+
+[[]]pts/compress-7zip-1.6.1,rt_sigprocmask,4,70297,70474,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 3 Minutes
+
+
+
+7-Zip Compression 9.20.1:
+    pts/compress-7zip-1.6.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 3 Minutes
+        Started Run 1 @ 17:29:39
+        Started Run 2 @ 17:30:09
+        Started Run 3 @ 17:30:38  [Std. Dev: 1.12%]
+
+    Test Results:
+        3531
+        3551
+        3608
+
+    Average: 3563 MIPS
+
+
+[[]]pts/compress-7zip-1.6.1,write,5,70474,70562,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+7-Zip Compression 9.20.1:
+    pts/compress-7zip-1.6.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:31:07
+        Started Run 2 @ 17:31:36
+        Started Run 3 @ 17:32:05  [Std. Dev: 0.97%]
+
+    Test Results:
+        3624
+        3615
+        3680
+
+    Average: 3640 MIPS
+
+
+[[]]pts/compress-7zip-1.6.1,read,5,70562,70649,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+7-Zip Compression 9.20.1:
+    pts/compress-7zip-1.6.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:32:34
+        Started Run 2 @ 17:33:03
+        Started Run 3 @ 17:33:32  [Std. Dev: 1.10%]
+
+    Test Results:
+        3608
+        3682
+        3619
+
+    Average: 3636 MIPS
+
+
+[[]]pts/compress-7zip-1.6.1,write,6,70649,70735,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+7-Zip Compression 9.20.1:
+    pts/compress-7zip-1.6.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:34:00
+        Started Run 2 @ 17:34:29
+        Started Run 3 @ 17:34:58  [Std. Dev: 1.60%]
+
+    Test Results:
+        3665
+        3555
+        3641
+
+    Average: 3620 MIPS
+
+
+[[]]pts/compress-7zip-1.6.1,read,6,70735,70822,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+7-Zip Compression 9.20.1:
+    pts/compress-7zip-1.6.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:35:27
+        Started Run 2 @ 17:35:56
+        Started Run 3 @ 17:36:25  [Std. Dev: 1.03%]
+
+    Test Results:
+        3626
+        3593
+        3552
+
+    Average: 3590 MIPS
+
+
+[[]]pts/compress-7zip-1.6.1,access,7,70822,70909,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+7-Zip Compression 9.20.1:
+    pts/compress-7zip-1.6.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:36:54
+        Started Run 2 @ 17:37:23
+        Started Run 3 @ 17:37:52  [Std. Dev: 0.93%]
+
+    Test Results:
+        3630
+        3594
+        3563
+
+    Average: 3596 MIPS
+
+
+[[]]pts/compress-7zip-1.6.1,write,8,70909,70995,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+7-Zip Compression 9.20.1:
+    pts/compress-7zip-1.6.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:38:21
+        Started Run 2 @ 17:38:50
+        Started Run 3 @ 17:39:19  [Std. Dev: 1.91%]
+
+    Test Results:
+        3702
+        3565
+        3617
+
+    Average: 3628 MIPS
+
+
+[[]]pts/compress-7zip-1.6.1,read,8,70995,71083,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+7-Zip Compression 9.20.1:
+    pts/compress-7zip-1.6.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:39:48
+        Started Run 2 @ 17:40:17
+        Started Run 3 @ 17:40:46  [Std. Dev: 1.07%]
+
+    Test Results:
+        3672
+        3633
+        3594
+
+    Average: 3633 MIPS
+
+
+[[]]pts/compress-7zip-1.6.1,munmap,1,71083,71169,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+7-Zip Compression 9.20.1:
+    pts/compress-7zip-1.6.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:41:14
+        Started Run 2 @ 17:41:43
+        Started Run 3 @ 17:42:12  [Std. Dev: 1.51%]
+
+    Test Results:
+        3653
+        3551
+        3570
+
+    Average: 3591 MIPS
+
+
+[[]]pts/compress-7zip-1.6.1,munmap,2,71169,71256,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+7-Zip Compression 9.20.1:
+    pts/compress-7zip-1.6.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:42:41
+        Started Run 2 @ 17:43:10
+        Started Run 3 @ 17:43:39  [Std. Dev: 0.54%]
+
+    Test Results:
+        3593
+        3632
+        3610
+
+    Average: 3612 MIPS
+
+
+[[]]pts/compress-7zip-1.6.1,mprotect,2,71256,71343,A
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+7-Zip Compression 9.20.1:
+    pts/compress-7zip-1.6.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 17:44:08
+        Started Run 2 @ 17:44:37
+        Started Run 3 @ 17:45:06  [Std. Dev: 1.21%]
+
+    Test Results:
+        3584
+        3671
+        3620
+
+    Average: 3625 MIPS
+
+
+[[]]pts/compress-7zip-1.6.1,mmap,2,71343,71429,A
+

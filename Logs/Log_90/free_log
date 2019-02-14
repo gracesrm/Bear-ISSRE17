@@ -1,0 +1,62 @@
+             total       used       free     shared    buffers     cached
+Mem:         16004       9009       6995       1063        415       5555
+-/+ buffers/cache:       3038      12966
+Swap:        16337        196      16141
+[[]]free,write,5,59952,59952,
+
+             total       used       free     shared    buffers     cached
+Mem:         16004       9008       6995       1063        415       5555
+-/+ buffers/cache:       3037      12966
+Swap:        16337        196      16141
+[[]]free,read,5,59953,59953,
+
+             total       used       free     shared    buffers     cached
+Mem:         16004       9009       6994       1063        415       5555
+-/+ buffers/cache:       3038      12965
+Swap:        16337        196      16141
+[[]]free,write,6,59954,59954,
+
+             total       used       free     shared    buffers     cached
+Mem:         16004       9009       6994       1063        415       5555
+-/+ buffers/cache:       3038      12965
+Swap:        16337        196      16141
+[[]]free,read,6,59955,59955,
+
+             total       used       free     shared    buffers     cached
+Mem:         16004       9008       6995       1063        415       5555
+-/+ buffers/cache:       3037      12966
+Swap:        16337        196      16141
+[[]]free,access,7,59956,59956,
+
+             total       used       free     shared    buffers     cached
+Mem:         16004       9007       6996       1063        415       5555
+-/+ buffers/cache:       3036      12967
+Swap:        16337        196      16141
+[[]]free,write,8,59957,59957,
+
+             total       used       free     shared    buffers     cached
+Mem:         16004       9008       6995       1063        415       5555
+-/+ buffers/cache:       3037      12966
+Swap:        16337        196      16141
+[[]]free,read,8,59958,59958,
+
+             total       used       free     shared    buffers     cached
+Mem:         16004       9008       6996       1063        415       5555
+-/+ buffers/cache:       3036      12967
+Swap:        16337        196      16141
+[[]]free,munmap,1,59959,59959,
+
+             total       used       free     shared    buffers     cached
+Mem:         16004       9008       6996       1063        415       5555
+-/+ buffers/cache:       3036      12967
+Swap:        16337        196      16141
+[[]]free,munmap,2,59960,59960,
+
+             total       used       free     shared    buffers     cached
+Mem:         16004       9008       6996       1063        415       5555
+-/+ buffers/cache:       3036      12967
+Swap:        16337        196      16141
+[[]]free,mprotect,2,59961,59961,
+
+[[]]free,mmap,2,59962,59962,A
+

@@ -1,0 +1,418 @@
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 4 Minutes
+
+
+
+LAME MP3 Encoding 3.99.3:
+    pts/encode-mp3-1.4.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 4 Minutes
+        Started Run 1 @ 14:44:09
+        Started Run 2 @ 14:44:26
+        Started Run 3 @ 14:44:40
+        Started Run 4 @ 14:44:54
+        Started Run 5 @ 14:45:09  [Std. Dev: 1.30%]
+
+    Test Results:
+        12.060889005661
+        12.043663978577
+        12.33757519722
+        12.357817173004
+        12.328418016434
+
+    Average: 12.23 Seconds
+
+
+[[]]pts/encode-mp3-1.4.0,write,5,44659,44733,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+LAME MP3 Encoding 3.99.3:
+    pts/encode-mp3-1.4.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 14:45:22
+        Started Run 2 @ 14:45:39
+        Started Run 3 @ 14:45:54
+        Started Run 4 @ 14:46:08
+        Started Run 5 @ 14:46:22  [Std. Dev: 3.03%]
+
+    Test Results:
+        12.044959068298
+        12.060702085495
+        12.892569065094
+        12.081224918365
+        12.072113037109
+
+    Average: 12.23 Seconds
+
+
+[[]]pts/encode-mp3-1.4.0,read,5,44733,44806,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+LAME MP3 Encoding 3.99.3:
+    pts/encode-mp3-1.4.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 14:46:36
+        Started Run 2 @ 14:46:53
+        Started Run 3 @ 14:47:07
+        Started Run 4 @ 14:47:21
+        Started Run 5 @ 14:47:35  [Std. Dev: 0.06%]
+
+    Test Results:
+        12.057538032532
+        12.043637037277
+        12.060732126236
+        12.048325061798
+        12.05265712738
+
+    Average: 12.05 Seconds
+
+
+[[]]pts/encode-mp3-1.4.0,write,6,44806,44879,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+LAME MP3 Encoding 3.99.3:
+    pts/encode-mp3-1.4.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 14:47:48
+        Started Run 2 @ 14:48:06
+        Started Run 3 @ 14:48:20
+        Started Run 4 @ 14:48:34
+        Started Run 5 @ 14:48:48  [Std. Dev: 0.11%]
+
+    Test Results:
+        12.043431043625
+        12.069363832474
+        12.058794975281
+        12.058444023132
+        12.035622835159
+
+    Average: 12.05 Seconds
+
+
+[[]]pts/encode-mp3-1.4.0,read,6,44879,44951,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+LAME MP3 Encoding 3.99.3:
+    pts/encode-mp3-1.4.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 14:49:01
+        Started Run 2 @ 14:49:18
+        Started Run 3 @ 14:49:32
+        Started Run 4 @ 14:49:46
+        Started Run 5 @ 14:50:00  [Std. Dev: 0.15%]
+
+    Test Results:
+        12.027278900146
+        12.044778108597
+        12.058714151382
+        12.023689985275
+        12.064216136932
+
+    Average: 12.04 Seconds
+
+
+[[]]pts/encode-mp3-1.4.0,access,7,44951,45024,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+LAME MP3 Encoding 3.99.3:
+    pts/encode-mp3-1.4.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 14:50:15
+        Started Run 2 @ 14:50:32
+        Started Run 3 @ 14:50:46
+        Started Run 4 @ 14:51:00
+        Started Run 5 @ 14:51:14  [Std. Dev: 1.05%]
+
+    Test Results:
+        12.04368686676
+        12.040529966354
+        12.058293819427
+        12.044006109238
+        12.331687927246
+
+    Average: 12.10 Seconds
+
+
+[[]]pts/encode-mp3-1.4.0,write,8,45024,45098,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+LAME MP3 Encoding 3.99.3:
+    pts/encode-mp3-1.4.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 14:51:28
+        Started Run 2 @ 14:51:45
+        Started Run 3 @ 14:51:59
+        Started Run 4 @ 14:52:13
+        Started Run 5 @ 14:52:27  [Std. Dev: 1.03%]
+
+    Test Results:
+        12.139481067657
+        12.033077955246
+        12.048390865326
+        12.340680122375
+        12.081388950348
+
+    Average: 12.13 Seconds
+
+
+[[]]pts/encode-mp3-1.4.0,read,8,45098,45171,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+LAME MP3 Encoding 3.99.3:
+    pts/encode-mp3-1.4.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 14:52:41
+        Started Run 2 @ 14:52:58
+        Started Run 3 @ 14:53:13
+        Started Run 4 @ 14:53:27
+        Started Run 5 @ 14:53:41  [Std. Dev: 0.95%]
+
+    Test Results:
+        12.045579910278
+        12.304352998734
+        12.088247060776
+        12.023540973663
+        12.05020904541
+
+    Average: 12.10 Seconds
+
+
+[[]]pts/encode-mp3-1.4.0,munmap,1,45171,45244,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+LAME MP3 Encoding 3.99.3:
+    pts/encode-mp3-1.4.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 14:53:54
+        Started Run 2 @ 14:54:11
+        Started Run 3 @ 14:54:25
+        Started Run 4 @ 14:54:40
+        Started Run 5 @ 14:54:54  [Std. Dev: 1.16%]
+
+    Test Results:
+        12.0368039608
+        12.030246973038
+        12.35272192955
+        12.050976991653
+        12.043921947479
+
+    Average: 12.10 Seconds
+
+
+[[]]pts/encode-mp3-1.4.0,munmap,2,45244,45317,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+LAME MP3 Encoding 3.99.3:
+    pts/encode-mp3-1.4.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 14:55:07
+        Started Run 2 @ 14:55:24
+        Started Run 3 @ 14:55:38
+        Started Run 4 @ 14:55:52
+        Started Run 5 @ 14:56:06  [Std. Dev: 1.40%]
+
+    Test Results:
+        12.042201042175
+        12.052937030792
+        12.047518968582
+        12.361420869827
+        12.353571891785
+
+    Average: 12.17 Seconds
+
+
+[[]]pts/encode-mp3-1.4.0,mprotect,2,45317,45390,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 2 Minutes
+
+
+
+LAME MP3 Encoding 3.99.3:
+    pts/encode-mp3-1.4.0
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 2 Minutes
+        Started Run 1 @ 14:56:20
+        Started Run 2 @ 14:56:37
+        Started Run 3 @ 14:56:51
+        Started Run 4 @ 14:57:05
+        Started Run 5 @ 14:57:19  [Std. Dev: 0.09%]
+
+    Test Results:
+        12.021347999573
+        12.037521123886
+        12.052005052567
+        12.03729891777
+        12.045011997223
+
+    Average: 12.04 Seconds
+
+
+[[]]pts/encode-mp3-1.4.0,mmap,2,45390,45463,
+

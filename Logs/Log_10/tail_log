@@ -1,0 +1,72 @@
+chmod 777 files/hello.pl
+chown ruimin files/hello.pl
+sed -i 's/word/word/g' files/aa
+cat files/hello.pl
+top -n 1
+[[]]tail,write,5,59530,59530,
+
+chmod 777 files/hello.pl
+chown ruimin files/hello.pl
+sed -i 's/word/word/g' files/aa
+cat files/hello.pl
+top -n 1
+[[]]tail,read,5,59531,59531,
+
+chmod 777 files/hello.pl
+chown ruimin files/hello.pl
+sed -i 's/word/word/g' files/aa
+cat files/hello.pl
+top -n 1
+[[]]tail,write,6,59532,59532,
+
+chmod 777 files/hello.pl
+chown ruimin files/hello.pl
+sed -i 's/word/word/g' files/aa
+cat files/hello.pl
+top -n 1
+[[]]tail,read,6,59533,59533,
+
+chmod 777 files/hello.pl
+chown ruimin files/hello.pl
+sed -i 's/word/word/g' files/aa
+cat files/hello.pl
+top -n 1
+[[]]tail,access,7,59534,59534,
+
+chmod 777 files/hello.pl
+chown ruimin files/hello.pl
+sed -i 's/word/word/g' files/aa
+cat files/hello.pl
+top -n 1
+[[]]tail,write,8,59535,59535,
+
+chmod 777 files/hello.pl
+chown ruimin files/hello.pl
+sed -i 's/word/word/g' files/aa
+cat files/hello.pl
+top -n 1
+[[]]tail,read,8,59536,59536,
+
+chmod 777 files/hello.pl
+chown ruimin files/hello.pl
+sed -i 's/word/word/g' files/aa
+cat files/hello.pl
+top -n 1
+[[]]tail,munmap,1,59537,59537,
+
+chmod 777 files/hello.pl
+chown ruimin files/hello.pl
+sed -i 's/word/word/g' files/aa
+cat files/hello.pl
+top -n 1
+[[]]tail,munmap,2,59538,59538,
+
+chmod 777 files/hello.pl
+chown ruimin files/hello.pl
+sed -i 's/word/word/g' files/aa
+cat files/hello.pl
+top -n 1
+[[]]tail,mprotect,2,59539,59539,
+
+[[]]tail,mmap,2,59540,59540,A
+

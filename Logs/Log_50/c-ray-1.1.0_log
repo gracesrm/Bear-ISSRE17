@@ -1,0 +1,374 @@
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 6 Minutes
+
+
+
+C-Ray 1.1:
+    pts/c-ray-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 6 Minutes
+        Started Run 1 @ 17:45:34
+        Started Run 2 @ 17:48:02
+        Started Run 3 @ 17:50:28  [Std. Dev: 0.45%]
+
+    Test Results:
+        145
+        144.003
+        145.235
+
+    Average: 144.75 Seconds
+
+
+[[]]pts/c-ray-1.1.0,write,5,71430,71869,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+C-Ray 1.1:
+    pts/c-ray-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 17:52:54
+        Started Run 2 @ 17:55:20
+        Started Run 3 @ 17:57:46  [Std. Dev: 0.06%]
+
+    Test Results:
+        143.866
+        144.016
+        143.88
+
+    Average: 143.92 Seconds
+
+
+[[]]pts/c-ray-1.1.0,read,5,71869,72306,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+C-Ray 1.1:
+    pts/c-ray-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 18:00:11
+        Started Run 2 @ 18:02:37
+        Started Run 3 @ 18:05:03  [Std. Dev: 0.35%]
+
+    Test Results:
+        143.977
+        143.841
+        144.763
+
+    Average: 144.19 Seconds
+
+
+[[]]pts/c-ray-1.1.0,write,6,72306,72744,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+C-Ray 1.1:
+    pts/c-ray-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 18:07:32
+        Started Run 2 @ 18:09:59
+        Started Run 3 @ 18:12:25  [Std. Dev: 0.47%]
+
+    Test Results:
+        145.15
+        144
+        143.958
+
+    Average: 144.37 Seconds
+
+
+[[]]pts/c-ray-1.1.0,read,6,72744,73186,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+C-Ray 1.1:
+    pts/c-ray-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 18:14:50
+        Started Run 2 @ 18:17:16
+        Started Run 3 @ 18:19:42  [Std. Dev: 0.43%]
+
+    Test Results:
+        144.06
+        143.827
+        144.998
+
+    Average: 144.30 Seconds
+
+
+[[]]pts/c-ray-1.1.0,access,7,73186,73624,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+C-Ray 1.1:
+    pts/c-ray-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 18:22:08
+        Started Run 2 @ 18:24:34
+        Started Run 3 @ 18:27:00  [Std. Dev: 0.24%]
+
+    Test Results:
+        144.01
+        143.813
+        144.476
+
+    Average: 144.10 Seconds
+
+
+[[]]pts/c-ray-1.1.0,write,8,73624,74061,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+C-Ray 1.1:
+    pts/c-ray-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 18:29:26
+        Started Run 2 @ 18:31:52
+        Started Run 3 @ 18:34:18  [Std. Dev: 0.19%]
+
+    Test Results:
+        144.377
+        143.866
+        144.293
+
+    Average: 144.18 Seconds
+
+
+[[]]pts/c-ray-1.1.0,read,8,74061,74499,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+C-Ray 1.1:
+    pts/c-ray-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 18:36:43
+        Started Run 2 @ 18:39:09
+        Started Run 3 @ 18:41:35  [Std. Dev: 0.01%]
+
+    Test Results:
+        143.902
+        143.865
+        143.892
+
+    Average: 143.89 Seconds
+
+
+[[]]pts/c-ray-1.1.0,munmap,1,74499,74936,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+C-Ray 1.1:
+    pts/c-ray-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 18:44:00
+        Started Run 2 @ 18:46:27
+        Started Run 3 @ 18:48:53  [Std. Dev: 0.48%]
+
+    Test Results:
+        144.887
+        143.855
+        145.173
+
+    Average: 144.64 Seconds
+
+
+[[]]pts/c-ray-1.1.0,munmap,2,74936,75375,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+C-Ray 1.1:
+    pts/c-ray-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 18:51:19
+        Started Run 2 @ 18:53:45
+        Started Run 3 @ 18:56:11  [Std. Dev: 0.05%]
+
+    Test Results:
+        144.015
+        143.88
+        143.94
+
+    Average: 143.95 Seconds
+
+
+[[]]pts/c-ray-1.1.0,mprotect,2,75375,75812,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-4790 @ 3.60GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 8 Minutes
+
+
+
+C-Ray 1.1:
+    pts/c-ray-1.1.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 8 Minutes
+        Started Run 1 @ 18:58:36
+        Started Run 2 @ 19:01:03
+        Started Run 3 @ 19:03:29  [Std. Dev: 0.22%]
+
+    Test Results:
+        144.079
+        143.972
+        144.556
+
+    Average: 144.20 Seconds
+
+
+[[]]pts/c-ray-1.1.0,mmap,2,75812,76249,
+

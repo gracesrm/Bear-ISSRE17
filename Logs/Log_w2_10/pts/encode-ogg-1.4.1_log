@@ -1,0 +1,411 @@
+
+ERROR: pts/encode-ogg-1.4.1 is not installed.
+       To install, run: phoronix-test-suite install pts/encode-ogg-1.4.1
+
+
+Phoronix Test Suite v3.6.1
+
+    Installed: pts/timed-audio-encode-1.0.0
+    To Install: pts/encode-ogg-1.4.1
+
+    Determining File Requirements ..........................................
+    Searching Download Caches ..............................................
+
+    1 Test To Install
+        6MB Of Disk Space Is Needed
+
+    pts/encode-ogg-1.4.1:
+        Test Installation 1 of 1
+        3 Files Needed [3.1 MB / 1 Minute]
+        File Found: libogg-1.3.0.tar.gz                             [0.41MB]
+        File Found: libvorbis-1.3.2.tar.gz                          [1.41MB]
+        File Found: vorbis-tools-1.4.0.tar.gz                       [1.28MB]
+        Installation Size: 6 MB
+        Installing Test @ 14:57:33
+
+
+ERROR: You must enter at least one test, suite, or result identifier to run.
+
+
+[[]]pts/encode-ogg-1.4.1,write,5,45463,45490,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 3 Minutes
+
+
+
+Ogg Encoding 1.3.0:
+    pts/encode-ogg-1.4.1
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 3 Minutes
+        Started Run 1 @ 14:58:00
+        Started Run 2 @ 14:58:12
+        Started Run 3 @ 14:58:21
+        Started Run 4 @ 14:58:30
+        Started Run 5 @ 14:58:39  [Std. Dev: 0.28%]
+
+    Test Results:
+        6.9189100265503
+        6.9096810817719
+        6.9063880443573
+        6.9543051719666
+        6.9167580604553
+
+    Average: 6.92 Seconds
+
+
+[[]]pts/encode-ogg-1.4.1,read,5,45490,45537,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+Ogg Encoding 1.3.0:
+    pts/encode-ogg-1.4.1
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 14:58:47
+        Started Run 2 @ 14:58:59
+        Started Run 3 @ 14:59:08
+        Started Run 4 @ 14:59:16
+        Started Run 5 @ 14:59:25  [Std. Dev: 0.20%]
+
+    Test Results:
+        6.8914279937744
+        6.911633014679
+        6.918438911438
+        6.9077041149139
+        6.9287850856781
+
+    Average: 6.91 Seconds
+
+
+[[]]pts/encode-ogg-1.4.1,write,6,45537,45584,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+Ogg Encoding 1.3.0:
+    pts/encode-ogg-1.4.1
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 14:59:33
+        Started Run 2 @ 14:59:45
+        Started Run 3 @ 14:59:54
+        Started Run 4 @ 15:00:03
+        Started Run 5 @ 15:00:12  [Std. Dev: 1.13%]
+
+    Test Results:
+        6.8983738422394
+        6.9114608764648
+        6.899227142334
+        7.0760419368744
+        6.8959991931915
+
+    Average: 6.94 Seconds
+
+
+[[]]pts/encode-ogg-1.4.1,read,6,45584,45630,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+Ogg Encoding 1.3.0:
+    pts/encode-ogg-1.4.1
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 15:00:20
+        Started Run 2 @ 15:00:32
+        Started Run 3 @ 15:00:41
+        Started Run 4 @ 15:00:50
+        Started Run 5 @ 15:00:59  [Std. Dev: 0.09%]
+
+    Test Results:
+        6.9036250114441
+        6.8905408382416
+        6.8947501182556
+        6.8879029750824
+        6.8994419574738
+
+    Average: 6.90 Seconds
+
+
+[[]]pts/encode-ogg-1.4.1,access,7,45630,45677,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+Ogg Encoding 1.3.0:
+    pts/encode-ogg-1.4.1
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 15:01:06
+        Started Run 2 @ 15:01:18
+        Started Run 3 @ 15:01:27
+        Started Run 4 @ 15:01:36
+        Started Run 5 @ 15:01:46  [Std. Dev: 1.11%]
+
+    Test Results:
+        6.8962678909302
+        7.0631561279297
+        7.070986032486
+        7.0773179531097
+        7.0703151226044
+
+    Average: 7.04 Seconds
+
+
+[[]]pts/encode-ogg-1.4.1,write,8,45677,45724,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+Ogg Encoding 1.3.0:
+    pts/encode-ogg-1.4.1
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 15:01:54
+        Started Run 2 @ 15:02:06
+        Started Run 3 @ 15:02:15
+        Started Run 4 @ 15:02:24
+        Started Run 5 @ 15:02:33  [Std. Dev: 1.44%]
+
+    Test Results:
+        7.095883846283
+        7.0741770267487
+        6.890508890152
+        6.9003109931946
+        6.919548034668
+
+    Average: 6.98 Seconds
+
+
+[[]]pts/encode-ogg-1.4.1,read,8,45724,45771,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+Ogg Encoding 1.3.0:
+    pts/encode-ogg-1.4.1
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 15:02:41
+        Started Run 2 @ 15:02:52
+        Started Run 3 @ 15:03:02
+        Started Run 4 @ 15:03:11
+        Started Run 5 @ 15:03:20  [Std. Dev: 1.68%]
+
+    Test Results:
+        6.8741979598999
+        7.0722479820251
+        7.134181022644
+        6.9192929267883
+        6.8921868801117
+
+    Average: 6.98 Seconds
+
+
+[[]]pts/encode-ogg-1.4.1,munmap,1,45771,45818,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+Ogg Encoding 1.3.0:
+    pts/encode-ogg-1.4.1
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 15:03:27
+        Started Run 2 @ 15:03:39
+        Started Run 3 @ 15:03:48
+        Started Run 4 @ 15:03:57
+        Started Run 5 @ 15:04:06  [Std. Dev: 1.11%]
+
+    Test Results:
+        6.8848760128021
+        6.9107060432434
+        6.8985722064972
+        7.074551820755
+        6.9262030124664
+
+    Average: 6.94 Seconds
+
+
+[[]]pts/encode-ogg-1.4.1,munmap,2,45818,45864,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+Ogg Encoding 1.3.0:
+    pts/encode-ogg-1.4.1
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 15:04:14
+        Started Run 2 @ 15:04:26
+        Started Run 3 @ 15:04:35
+        Started Run 4 @ 15:04:44
+        Started Run 5 @ 15:04:53  [Std. Dev: 0.16%]
+
+    Test Results:
+        6.8892488479614
+        6.9178919792175
+        6.9021310806274
+        6.9100098609924
+        6.912113904953
+
+    Average: 6.91 Seconds
+
+
+[[]]pts/encode-ogg-1.4.1,mprotect,2,45864,45911,
+
+
+Phoronix Test Suite v3.6.1
+System Information
+
+Hardware:
+Processor: Intel Core i7-2600K @ 3.50GHz (1 Core), Motherboard: Intel 440BX, Chipset: Intel 440BX/ZX/DX, Memory: 1024MB, Disk: 43GB VMware Virtual S, Graphics: VMware SVGA II, Audio: Ensoniq ES1371, Network: Intel 82545EM Gigabit
+
+Software:
+OS: Ubuntu 12.04, Kernel: 3.13.0-32-generic (x86_64), Desktop: Unity 2D 5.20.0, Display Server: X Server 1.15.1, Display Driver: vmware 13.0.2, Compiler: GCC 4.6, File-System: ext4, Screen Resolution: 640x480, System Layer: VMware
+
+
+Estimated Run-Time: 1 Minute
+
+
+
+Ogg Encoding 1.3.0:
+    pts/encode-ogg-1.4.1
+    Test 1 of 1
+    Estimated Trial Run Count:    5
+    Estimated Time To Completion: 1 Minute
+        Started Run 1 @ 15:05:01
+        Started Run 2 @ 15:05:13
+        Started Run 3 @ 15:05:22
+        Started Run 4 @ 15:05:31
+        Started Run 5 @ 15:05:40  [Std. Dev: 1.12%]
+
+    Test Results:
+        6.8971378803253
+        7.0674979686737
+        7.0801630020142
+        7.0744438171387
+        7.0682439804077
+
+    Average: 7.04 Seconds
+
+
+[[]]pts/encode-ogg-1.4.1,mmap,2,45911,45958,
+

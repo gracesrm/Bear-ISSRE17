@@ -1,0 +1,8 @@
+[[]]multichase,rt_sigaction,4,171738,171777,A
+[[]]multichase,rt_sigprocmask,4,171992,172030,A
+[[]]multichase,write,5,172162,172198,A
+[[]]multichase,write,6,172369,172408,A
+[[]]multichase,access,7,172569,172606,A
+[[]]multichase,write,8,172661,172697,A
+[[]]multichase,mprotect,2,172807,172826,A
+[[]]multichase,mmap,2,172922,172959,A

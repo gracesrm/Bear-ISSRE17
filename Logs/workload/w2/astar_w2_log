@@ -1,0 +1,1234 @@
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 0
+
+Create ways time : 99
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 34
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 115
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 121
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 2
+
+Create ways time : 67
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 29
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,rt_sigaction,4,30,497,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 0
+
+Create ways time : 98
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 33
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 112
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 119
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 66
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 29
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,rt_sigprocmask,4,582,1040,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 1
+
+Create ways time : 100
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 33
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 113
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 118
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 68
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 28
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,rt_sigpending,4,1125,1587,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 0
+
+Create ways time : 98
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 32
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 113
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 119
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 67
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 29
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,kill,4,1673,2132,
+[[]]astar,write,5,2218,2683,
+[[]]astar,read,5,2753,2754,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 0
+
+Create ways time : 98
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 33
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 113
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 118
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 67
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 28
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,pread64,5,2769,3227,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 0
+
+Create ways time : 98
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 33
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 115
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 121
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 67
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 28
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,pwrite64,5,3313,3776,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 1
+
+Create ways time : 97
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 33
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 113
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 119
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 66
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 29
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,sendto,5,3861,4320,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 0
+
+Create ways time : 97
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 34
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 112
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 118
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 67
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 29
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,recvfrom,5,4406,4864,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 0
+
+Create ways time : 97
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 32
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 113
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 118
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 67
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 29
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+xlmt[[]]astar,write,6,4950,5407,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 0
+
+Create ways time : 97
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 34
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 116
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 123
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 67
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 29
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,read,6,5493,5960,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 1
+
+Create ways time : 98
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 34
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 113
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 118
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 66
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 29
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,pread64,6,6045,6506,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 1
+
+Create ways time : 97
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 34
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 113
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 120
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 68
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 28
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,pwrite64,6,6591,7053,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 0
+
+Create ways time : 98
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 33
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 113
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 118
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 67
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 29
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,sendto,6,7140,7599,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 1
+
+Create ways time : 97
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 33
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 112
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 119
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 66
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 29
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,recvfrom,6,7684,8142,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 0
+
+Create ways time : 98
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 34
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 113
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 119
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 67
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 29
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,access,7,8228,8689,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 0
+
+Create ways time : 98
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 33
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 112
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 118
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 2
+
+Create ways time : 66
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 29
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,write,8,8775,9233,
+[[]]astar,read,8,9303,9303,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 0
+
+Create ways time : 97
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 33
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 112
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 118
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 66
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 29
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,pread64,8,9319,9776,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 0
+
+Create ways time : 98
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 34
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 111
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 117
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 2
+
+Create ways time : 66
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 29
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,pwrite64,8,9861,10318,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 0
+
+Create ways time : 99
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 34
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 113
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 118
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 67
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 28
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,sendto,8,10404,10866,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 1
+
+Create ways time : 97
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 33
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 113
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 118
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 66
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 28
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,recvfrom,8,10950,11408,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 0
+
+Create ways time : 98
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 34
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 112
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 119
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 67
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 29
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,mq_notify,9,11494,11954,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 1
+
+Create ways time : 97
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 33
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 113
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 118
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 67
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 29
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,setuid,10,12039,12498,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 1
+
+Create ways time : 97
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 33
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 113
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 118
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 67
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 28
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,munmap,1,12583,13041,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 0
+
+Create ways time : 98
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 33
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 112
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 118
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 67
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 29
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,munmap,2,13127,13585,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 1
+
+Create ways time : 97
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 33
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 113
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 118
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 2
+
+Create ways time : 66
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 29
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,mprotect,2,13674,14133,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 0
+
+Create ways time : 100
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 33
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 112
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 119
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 66
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 29
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,mremap,2,14218,14678,
+[[]]astar,mmap,2,14748,14748,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 0
+
+Create ways time : 97
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 34
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 113
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 118
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 2
+
+Create ways time : 66
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 29
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,mlock,3,14763,15222,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 0
+
+Create ways time : 98
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 33
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 113
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 119
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 67
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 28
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,mlockall,3,15308,15768,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 0
+
+Create ways time : 98
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 34
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 113
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 119
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 67
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 28
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,munlock,3,15853,16313,
+Small Path Finding Library
+Read configuration file
+Create ways
+rivers.bin
+Create regional map time : 0
+
+Create ways time : 98
+Ways quantity : 16536
+Total way length : 5106389
+
+Create reg ways time : 33
+Reg ways quantity : 39579
+Total reg way length : 2792884
+
+Create river ways time : 113
+River ways quantity : 3400
+Total river way length : 1661832
+Create land ways time : 119
+Land ways quantity : 3400
+Total land way length : 1236212
+
+Create ways
+Random map
+Create regional map time : 1
+
+Create ways time : 68
+Ways quantity : 4088
+Total way length : 2178734
+
+Create reg ways time : 28
+Reg ways quantity : 13423
+Total reg way length : 1521050
+
+Create river ways time : 0
+River ways quantity : 0
+Total river way length : 0
+Create land ways time : 0
+Land ways quantity : 0
+Total land way length : 0
+
+[[]]astar,munlockall,3,16399,16859,

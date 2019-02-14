@@ -1,0 +1,412 @@
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,rt_sigaction,4,5240,5240,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,rt_sigprocmask,4,5241,5241,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,rt_sigpending,4,5242,5242,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,kill,4,5242,5242,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+[[]]soplex,write,5,5243,5243,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,read,5,5244,5244,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,pread64,5,5245,5245,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,pwrite64,5,5245,5245,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,sendto,5,5246,5246,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,recvfrom,5,5246,5246,
+Delta   =     1.000000e-06
+xlmt[[]]soplex,write,6,5247,5247,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,read,6,5247,5247,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,pread64,6,5248,5248,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,pwrite64,6,5248,5248,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,sendto,6,5249,5249,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,recvfrom,6,5249,5249,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,access,7,5250,5250,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,write,8,5250,5250,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,read,8,5251,5251,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,pread64,8,5251,5251,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,pwrite64,8,5252,5252,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,sendto,8,5252,5252,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,recvfrom,8,5253,5253,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,mq_notify,9,5253,5253,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,setuid,10,5254,5254,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,munmap,1,5254,5254,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,munmap,2,5255,5255,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,mprotect,2,5255,5255,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,mremap,2,5256,5256,
+[[]]soplex,mmap,2,5256,5256,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,mlock,3,5256,5256,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,mlockall,3,5257,5257,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,munlock,3,5257,5257,
+Delta   =     1.000000e-06
+Epsilon =     1.000000e-17
+Entering algorithm
+Column representation
+Forest-Tomlin update
+Steep pricing
+Fast ratiotest
+No scaling
+No simplifier
+Weight starter
+loading LP file NAME
+error while reading file "NAME"
+[[]]soplex,munlockall,3,5258,5258,

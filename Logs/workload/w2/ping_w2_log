@@ -1,0 +1,173 @@
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_req=1 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=2 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=3 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=4 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=5 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=6 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=7 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=8 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=9 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=10 ttl=128 time=13.9 ms
+
+--- 8.8.8.8 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9010ms
+rtt min/avg/max/mdev = 13.963/13.998/14.041/0.109 ms
+[[]]ping,write,5,92678,92687,
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_req=1 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=2 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=3 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=4 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=5 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=6 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=7 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=8 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=9 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=10 ttl=128 time=14.0 ms
+
+--- 8.8.8.8 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9011ms
+rtt min/avg/max/mdev = 13.958/14.020/14.068/0.109 ms
+[[]]ping,read,5,92687,92696,
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_req=1 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=2 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=3 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=4 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=5 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=6 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=7 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=8 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=9 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=10 ttl=128 time=13.9 ms
+
+--- 8.8.8.8 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9011ms
+rtt min/avg/max/mdev = 13.959/14.008/14.095/0.163 ms
+[[]]ping,write,6,92696,92705,
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_req=1 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=2 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=3 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=4 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=5 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=6 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=7 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=8 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=9 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=10 ttl=128 time=14.0 ms
+
+--- 8.8.8.8 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9003ms
+rtt min/avg/max/mdev = 13.954/13.990/14.025/0.160 ms
+[[]]ping,read,6,92705,92715,
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_req=1 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=2 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=3 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=4 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=5 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=6 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=7 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=8 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=9 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=10 ttl=128 time=14.1 ms
+
+--- 8.8.8.8 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9011ms
+rtt min/avg/max/mdev = 13.923/14.004/14.172/0.135 ms
+[[]]ping,access,7,92715,92724,
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_req=1 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=2 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=3 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=4 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=5 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=6 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=7 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=8 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=9 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=10 ttl=128 time=13.9 ms
+
+--- 8.8.8.8 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9011ms
+rtt min/avg/max/mdev = 13.965/14.002/14.050/0.026 ms
+[[]]ping,write,8,92724,92733,
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_req=1 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=2 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=3 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=4 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=5 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=6 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=7 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=8 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=9 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=10 ttl=128 time=14.0 ms
+
+--- 8.8.8.8 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9010ms
+rtt min/avg/max/mdev = 13.963/14.008/14.079/0.037 ms
+[[]]ping,read,8,92733,92742,
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_req=1 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=2 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=3 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=4 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=5 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=6 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=7 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=8 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=9 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=10 ttl=128 time=14.6 ms
+
+--- 8.8.8.8 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9010ms
+rtt min/avg/max/mdev = 13.932/14.067/14.638/0.238 ms
+[[]]ping,munmap,1,92742,92751,
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_req=1 ttl=128 time=13.8 ms
+64 bytes from 8.8.8.8: icmp_req=2 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=3 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=4 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=5 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=6 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=7 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=8 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=9 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=10 ttl=128 time=14.0 ms
+
+--- 8.8.8.8 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9011ms
+rtt min/avg/max/mdev = 13.862/13.991/14.028/0.071 ms
+[[]]ping,munmap,2,92751,92760,
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_req=1 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=2 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=3 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=4 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=5 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=6 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=7 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=8 ttl=128 time=13.9 ms
+64 bytes from 8.8.8.8: icmp_req=9 ttl=128 time=14.0 ms
+64 bytes from 8.8.8.8: icmp_req=10 ttl=128 time=13.9 ms
+
+--- 8.8.8.8 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9010ms
+rtt min/avg/max/mdev = 13.952/14.004/14.042/0.161 ms
+[[]]ping,mprotect,2,92760,92769,
+
+[[]]ping,mmap,2,92769,92769,A
+

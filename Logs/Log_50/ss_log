@@ -1,0 +1,394 @@
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+CLOSE-WAIT 1      0                     ::1:44485                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,rt_sigaction,4,1521,1521,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+CLOSE-WAIT 1      0                     ::1:44485                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,rt_sigprocmask,4,1522,1522,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+CLOSE-WAIT 1      0                     ::1:44485                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,rt_sigpending,4,1523,1523,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+CLOSE-WAIT 1      0                     ::1:44485                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,kill,4,1524,1524,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,write,5,1525,1525,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,read,5,1526,1526,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,pread64,5,1527,1527,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,pwrite64,5,1528,1528,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,sendto,5,1529,1529,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,recvfrom,5,1530,1530,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,write,6,1531,1531,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,read,6,1532,1532,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,pread64,6,1533,1533,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,pwrite64,6,1534,1534,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,sendto,6,1535,1535,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,recvfrom,6,1536,1536,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,access,7,1537,1537,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,write,8,1538,1538,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,read,8,1540,1540,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,pread64,8,1541,1541,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,pwrite64,8,1542,1542,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,sendto,8,1543,1543,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,recvfrom,8,1544,1544,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,mq_notify,9,1545,1545,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,setuid,10,1546,1546,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,munmap,1,1547,1547,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,munmap,2,1548,1548,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,mprotect,2,1549,1549,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,mremap,2,1550,1550,
+
+[[]]ss,mmap,2,1551,1551,A
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,mlock,3,1552,1552,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,mlockall,3,1553,1553,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,munlock,3,1554,1554,
+
+State      Recv-Q Send-Q      Local Address:Port          Peer Address:Port   
+CLOSE-WAIT 1      0          172.16.251.151:53716         91.189.94.25:http    
+ESTAB      0      0                     ::1:ipp                    ::1:44490   
+CLOSE-WAIT 32     0          172.16.251.151:56551        54.192.81.146:https   
+CLOSE-WAIT 32     0          172.16.251.151:45748      108.160.172.193:https   
+ESTAB      0      0                     ::1:44490                  ::1:ipp     
+CLOSE-WAIT 32     0          172.16.251.151:55057           45.58.70.1:https   
+ESTAB      0      0          172.16.251.151:58042       162.125.17.131:https   
+CLOSE-WAIT 1      0          172.16.251.151:48023         54.164.178.0:https   
+CLOSE-WAIT 32     0          172.16.251.151:51197      108.160.172.236:https   
+[[]]ss,munlockall,3,1555,1555,
+
