@@ -3,28 +3,34 @@ Bear is a framework for statistical analysis of application sensitivity to OS un
 
 
 ## Key Features
-1) A system call perturbation module ``LKM/``
-
-2) A statistical module ``Rcod/``
+1. A system call perturbation module ``LKM/``
+  	* statically or dynamically hook system calls for adding perturbation strategies
+2. A statistical module ``Rcode/``
+	* analyze different thresholds and workloads
+3. Examples to run the project
+	* use examples in ``Logs/`` and see ``Res/`` 
 
 
 ## Environment
 
-*	Virturl machine: Linux Ubuntu 12.04
-
-*	R studio
+* Virturl machine: Linux Ubuntu 12.04
+* R studio
 
 
 ## Configuration and Run
 
-To install the perturbation module
+To make and install the perturbation module
 
-    sudo insmod hook.ko TARGET=app_name 
+    cd LKM/ & make
+    sudo insmod hook.ko TARGET=app_name stratNo=number callname=syscall
+update the ``app_name``, ``number``, and ``syscall`` parameters based on your demands
 
-To run the statistical module
+To run the statistical module, please update the ``path``s with your own data. Possible places to change the `path`.
+    
+    read.csv(file = 'path',...)
+    sink("~/bear/Res/Types/ResProc10_lr2.txt")
 
     
-
 
 ## Reference
 * If you enjoy this work, please cite the following paper 
