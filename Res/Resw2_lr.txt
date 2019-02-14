@@ -1,0 +1,111 @@
+
+Call:
+NULL
+
+Deviance Residuals: 
+     Min        1Q    Median        3Q       Max  
+-1.13301  -0.50201  -0.37146  -0.00008   2.45718  
+
+Coefficients: (15 not defined because of singularities)
+                       Estimate Std. Error z value Pr(>|z|)   
+(Intercept)             -0.1054     0.4595  -0.229  0.81863   
+syscallaccess                NA         NA      NA       NA   
+syscallkill                  NA         NA      NA       NA   
+syscallmlock           -19.4607  4390.3074  -0.004  0.99646   
+syscallmlockall        -19.4607  4390.3074  -0.004  0.99646   
+syscallmprotect        -19.4607  2982.6266  -0.007  0.99479   
+syscallmq_notify             NA         NA      NA       NA   
+syscallmremap                NA         NA      NA       NA   
+syscallmunlock         -19.4607  3802.1178  -0.005  0.99592   
+syscallmunlockall      -19.4607  4390.3074  -0.004  0.99646   
+syscallmunmap                NA         NA      NA       NA   
+syscallpread64               NA         NA      NA       NA   
+syscallpwrite64              NA         NA      NA       NA   
+syscallread             -2.8634     0.9306  -3.077  0.00209 **
+syscallrecvfrom              NA         NA      NA       NA   
+syscallrt_sigaction     -2.6027     1.1304  -2.302  0.02131 * 
+syscallrt_sigpending         NA         NA      NA       NA   
+syscallrt_sigprocmask   -2.5337     1.1325  -2.237  0.02527 * 
+syscallsendto                NA         NA      NA       NA   
+syscallsetuid                NA         NA      NA       NA   
+syscallwrite            -2.4808     0.9069  -2.735  0.00623 **
+stratNo1                     NA         NA      NA       NA   
+stratNo3                     NA         NA      NA       NA   
+stratNo4                     NA         NA      NA       NA   
+stratNo5                 1.2678     0.8419   1.506  0.13209   
+stratNo6                 0.5784     0.9508   0.608  0.54297   
+stratNo8                     NA         NA      NA       NA   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 140.48  on 190  degrees of freedom
+Residual deviance: 111.77  on 179  degrees of freedom
+AIC: 135.77
+
+Number of Fisher Scoring iterations: 18
+
+Cross-Validated (3 fold, repeated 2 times) Confusion Matrix 
+
+(entries are percentual average cell counts across resamples)
+ 
+          Reference
+Prediction    N    A
+         N 85.3 11.0
+         A  2.6  1.0
+                            
+ Accuracy (average) : 0.8639
+
+glm variable importance
+
+                        Overall
+syscallread           1.000e+02
+syscallwrite          8.889e+01
+syscallrt_sigaction   7.480e+01
+syscallrt_sigprocmask 7.267e+01
+stratNo5              4.887e+01
+stratNo6              1.966e+01
+syscallmprotect       6.809e-02
+syscallmunlock        2.232e-02
+syscallmlockall       1.402e-12
+syscallmunlockall     1.854e-13
+syscallmlock          0.000e+00
+                            2.5 %        97.5 %
+(Intercept)           0.357535120  2.232865e+00
+syscallaccess                  NA            NA
+syscallkill                    NA            NA
+syscallmlock                   NA 3.750569e+172
+syscallmlockall                NA 3.750569e+172
+syscallmprotect       0.000000000  1.517977e+52
+syscallmq_notify               NA            NA
+syscallmremap                  NA            NA
+syscallmunlock                 NA 5.107724e+128
+syscallmunlockall              NA 3.750569e+172
+syscallmunmap                  NA            NA
+syscallpread64                 NA            NA
+syscallpwrite64                NA            NA
+syscallread           0.006924597  3.007759e-01
+syscallrecvfrom                NA            NA
+syscallrt_sigaction   0.003710168  4.835112e-01
+syscallrt_sigpending           NA            NA
+syscallrt_sigprocmask 0.003966704  5.212713e-01
+syscallsendto                  NA            NA
+syscallsetuid                  NA            NA
+syscallwrite          0.010628160  4.250385e-01
+stratNo1                       NA            NA
+stratNo3                       NA            NA
+stratNo4                       NA            NA
+stratNo5              0.783239725  2.516045e+01
+stratNo6              0.275594510  1.432299e+01
+stratNo8                       NA            NA
+          (Intercept)         syscallaccess           syscallkill          syscallmlock       syscallmlockall       syscallmprotect 
+         9.000000e-01                    NA                    NA          3.534450e-09          3.534450e-09          3.534450e-09 
+     syscallmq_notify         syscallmremap        syscallmunlock     syscallmunlockall         syscallmunmap        syscallpread64 
+                   NA                    NA          3.534450e-09          3.534450e-09                    NA                    NA 
+      syscallpwrite64           syscallread       syscallrecvfrom   syscallrt_sigaction  syscallrt_sigpending syscallrt_sigprocmask 
+                   NA          5.707322e-02                    NA          7.407407e-02                    NA          7.936508e-02 
+        syscallsendto         syscallsetuid          syscallwrite              stratNo1              stratNo3              stratNo4 
+                   NA                    NA          8.367905e-02                    NA                    NA                    NA 
+             stratNo5              stratNo6              stratNo8 
+         3.553024e+00          1.783142e+00                    NA 

@@ -1,0 +1,79 @@
+
+> summary(lr1.proc)
+
+Call:
+NULL
+
+Deviance Residuals: 
+     Min        1Q    Median        3Q       Max  
+-0.34138  -0.22695  -0.00003  -0.00003   2.81114  
+
+Coefficients:
+              Estimate Std. Error z value Pr(>|z|)    
+(Intercept)    -3.6463     0.5848  -6.235 4.52e-10 ***
+stratNo1      -17.9197  4510.6631  -0.004    0.997    
+stratNo3      -17.9197  5524.4115  -0.003    0.997    
+stratNo4        0.8329     0.8339   0.999    0.318    
+stratNo5       -0.2855     0.9229  -0.309    0.757    
+stratNo6      -17.9197  3031.2627  -0.006    0.995    
+stratNo7      -17.9197  5524.4115  -0.003    0.997    
+stratNo8      -17.9197  2999.1849  -0.006    0.995    
+stratNo9      -17.9197  9744.1460  -0.002    0.999    
+stratNo10     -17.9197 10335.2276  -0.002    0.999    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 84.371  on 577  degrees of freedom
+Residual deviance: 70.779  on 568  degrees of freedom
+AIC: 90.779
+
+Number of Fisher Scoring iterations: 20
+
+
+> confusionMatrix(lr1.proc)
+Cross-Validated (3 fold, repeated 2 times) Confusion Matrix 
+
+(entries are percentual average cell counts across resamples)
+ 
+          Reference
+Prediction    N    A
+         N 98.6  1.4
+         A  0.0  0.0
+                            
+ Accuracy (average) : 0.9862
+
+
+> varImp(lr1.proc)
+glm variable importance
+
+            Overall
+stratNo4  100.00000
+stratNo5   30.85028
+stratNo8    0.42534
+stratNo6    0.41900
+stratNo1    0.22454
+stratNo7    0.15143
+stratNo3    0.15143
+stratNo9    0.01055
+stratNo10   0.00000
+
+> exp(confint(lr1.proc$finalModel))
+                  2.5 %        97.5 %
+(Intercept) 0.006424613  6.904177e-02
+stratNo1             NA 6.453736e+167
+stratNo3             NA 1.876162e+207
+stratNo4    0.413434212  1.280107e+01
+stratNo5    0.097560667  4.621155e+00
+stratNo6             NA 1.657019e+110
+stratNo7             NA 1.876162e+207
+stratNo8             NA 9.345367e+108
+stratNo9             NA           Inf
+stratNo10            NA           Inf
+
+> exp(lr1.proc$finalModel$coefficients)
+ (Intercept)     stratNo1     stratNo3     stratNo4     stratNo5     stratNo6     stratNo7     stratNo8     stratNo9    stratNo10 
+2.608696e-02 1.650259e-08 1.650259e-08 2.300000e+00 7.516340e-01 1.650259e-08 1.650259e-08 1.650259e-08 1.650259e-08 1.650259e-08 
+
+> sink() 

@@ -1,0 +1,118 @@
+
+> summary(lr2.io)
+
+Call:
+NULL
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-1.3018  -0.4172  -0.3124  -0.2857   2.5527  
+
+Coefficients:
+                       Estimate Std. Error z value Pr(>|z|)    
+(Intercept)              0.2877     0.4410   0.652 0.514142    
+syscallaccess           -3.5066     1.1111  -3.156 0.001599 ** 
+syscallkill             -2.6856     1.1337  -2.369 0.017846 *  
+syscallmlock            -2.2336     1.1564  -1.931 0.053424 .  
+syscallmlockall         -2.6856     1.1337  -2.369 0.017846 *  
+syscallmprotect         -3.3787     1.1135  -3.034 0.002411 ** 
+syscallmq_notify        -2.6856     1.1337  -2.369 0.017846 *  
+syscallmremap          -18.8538  2062.6395  -0.009 0.992707    
+syscallmunlock          -2.3671     1.1487  -2.061 0.039327 *  
+syscallmunlockall       -2.3671     1.1487  -2.061 0.039327 *  
+syscallmunmap           -3.4657     0.8457  -4.098 4.17e-05 ***
+syscallpread64          -2.9267     0.8545  -3.425 0.000615 ***
+syscallpwrite64         -2.4079     0.7535  -3.196 0.001395 ** 
+syscallread             -3.4232     0.7364  -4.649 3.34e-06 ***
+syscallrecvfrom         -2.5903     0.7491  -3.458 0.000544 ***
+syscallrt_sigaction     -2.9267     1.1251  -2.601 0.009287 ** 
+syscallrt_sigpending    -2.5903     1.1377  -2.277 0.022805 *  
+syscallrt_sigprocmask  -18.8538  1966.6496  -0.010 0.992351    
+syscallsendto           -2.7726     0.8580  -3.232 0.001231 ** 
+syscallsetuid          -18.8538  2306.1010  -0.008 0.993477    
+syscallwrite            -3.2834     0.7379  -4.450 8.59e-06 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 276.91  on 488  degrees of freedom
+Residual deviance: 232.50  on 468  degrees of freedom
+AIC: 274.5
+
+Number of Fisher Scoring iterations: 17
+
+
+> confusionMatrix(lr2.io)
+Cross-Validated (3 fold, repeated 2 times) Confusion Matrix 
+
+(entries are percentual average cell counts across resamples)
+ 
+          Reference
+Prediction    N    A
+         N 90.3  7.2
+         A  1.5  1.0
+                            
+ Accuracy (average) : 0.9131
+
+
+> varImp(lr2.io)
+glm variable importance
+
+                        Overall
+syscallread           100.00000
+syscallwrite           95.71797
+syscallmunmap          88.13207
+syscallrecvfrom        74.34219
+syscallpread64         73.63440
+syscallsendto          69.46353
+syscallpwrite64        68.68916
+syscallaccess          67.83627
+syscallmprotect        65.21254
+syscallrt_sigaction    55.88112
+syscallmq_notify       50.87074
+syscallmlockall        50.87074
+syscallkill            50.87074
+syscallrt_sigpending   48.88591
+syscallmunlock         44.23257
+syscallmunlockall      44.23257
+syscallmlock           41.44673
+syscallrt_sigprocmask   0.03041
+syscallmremap           0.02080
+syscallsetuid           0.00000
+
+> exp(confint(lr2.io$finalModel))
+                            2.5 %       97.5 %
+(Intercept)           0.564336385 3.266443e+00
+syscallaccess         0.001531232 1.838639e-01
+syscallkill           0.003401003 4.473338e-01
+syscallmlock          0.005225597 7.551485e-01
+syscallmlockall       0.003401003 4.473338e-01
+syscallmprotect       0.001735676 2.104452e-01
+syscallmq_notify      0.003401003 4.473338e-01
+syscallmremap                  NA 5.502209e+59
+syscallmunlock        0.004607390 6.445394e-01
+syscallmunlockall     0.004607390 6.445394e-01
+syscallmunmap         0.004342638 1.379387e-01
+syscallpread64        0.007358724 2.417328e-01
+syscallpwrite64       0.017306274 3.564999e-01
+syscallread           0.006432027 1.240277e-01
+syscallrecvfrom       0.014516622 2.939288e-01
+syscallrt_sigaction   0.002695513 3.423457e-01
+syscallrt_sigpending  0.003726155 4.982002e-01
+syscallrt_sigprocmask          NA 4.645814e+53
+syscallsendto         0.008545985 2.845346e-01
+syscallsetuid                  NA 5.871393e+75
+syscallwrite          0.007380482 1.431225e-01
+
+> exp(lr2.io$finalModel$coefficients)
+          (Intercept)         syscallaccess           syscallkill          syscallmlock       syscallmlockall       syscallmprotect 
+         1.333333e+00          3.000000e-02          6.818182e-02          1.071429e-01          6.818182e-02          3.409091e-02 
+     syscallmq_notify         syscallmremap        syscallmunlock     syscallmunlockall         syscallmunmap        syscallpread64 
+         6.818182e-02          6.485152e-09          9.375000e-02          9.375000e-02          3.125000e-02          5.357143e-02 
+      syscallpwrite64           syscallread       syscallrecvfrom   syscallrt_sigaction  syscallrt_sigpending syscallrt_sigprocmask 
+         9.000000e-02          3.260870e-02          7.500000e-02          5.357143e-02          7.500000e-02          6.485152e-09 
+        syscallsendto         syscallsetuid          syscallwrite 
+         6.250000e-02          6.485152e-09          3.750000e-02 
+
+> sink()

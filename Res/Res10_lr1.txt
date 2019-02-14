@@ -1,0 +1,67 @@
+
+Call:
+NULL
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-0.4462  -0.3303  -0.2575  -0.2132   2.8840  
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept)  -2.2571     0.2477  -9.111  < 2e-16 ***
+stratNo1     -1.8860     1.0379  -1.817  0.06920 .  
+stratNo3     -0.8490     0.6400  -1.326  0.18469    
+stratNo4     -0.6239     0.4872  -1.281  0.20032    
+stratNo5     -0.7814     0.4386  -1.782  0.07480 .  
+stratNo6     -1.1329     0.4834  -2.344  0.01909 *  
+stratNo7     -1.7132     1.0393  -1.648  0.09929 .  
+stratNo8     -1.5156     0.5631  -2.691  0.00711 ** 
+stratNo9    -15.3089   863.3094  -0.018  0.98585    
+stratNo10   -15.3089   959.5147  -0.016  0.98727    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 385.32  on 1065  degrees of freedom
+Residual deviance: 367.16  on 1056  degrees of freedom
+AIC: 387.16
+
+Number of Fisher Scoring iterations: 16
+
+Cross-Validated (3 fold, repeated 2 times) Confusion Matrix 
+
+(entries are percentual average cell counts across resamples)
+ 
+          Reference
+Prediction    N    A
+         N 95.6  4.4
+         A  0.0  0.0
+                            
+ Accuracy (average) : 0.9559
+
+glm variable importance
+
+            Overall
+stratNo8  100.00000
+stratNo6   87.00313
+stratNo1   67.32150
+stratNo5   65.99709
+stratNo7   61.01162
+stratNo3   48.98146
+stratNo4   47.26885
+stratNo9    0.06645
+stratNo10   0.00000
+                    2.5 %       97.5 %
+(Intercept)  6.218534e-02 1.651799e-01
+stratNo1     8.344465e-03 7.582045e-01
+stratNo3     9.797212e-02 1.315703e+00
+stratNo4     1.893682e-01 1.322858e+00
+stratNo5     1.835041e-01 1.048570e+00
+stratNo6     1.145372e-01 7.884707e-01
+stratNo7     9.905170e-03 9.053307e-01
+stratNo8     6.248940e-02 6.029173e-01
+stratNo9    3.471559e-128 7.383021e+09
+stratNo10              NA 4.277396e+18
+ (Intercept)     stratNo1     stratNo3     stratNo4     stratNo5     stratNo6     stratNo7     stratNo8     stratNo9    stratNo10 
+1.046512e-01 1.516755e-01 4.278607e-01 5.358255e-01 4.577512e-01 3.220974e-01 1.802935e-01 2.196679e-01 2.245998e-07 2.245998e-07 

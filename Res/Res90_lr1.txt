@@ -1,0 +1,85 @@
+
+> # Summary of the variables. I wanted to see which variables are significant, not significant.
+> summary(lr1)
+
+Call:
+NULL
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-0.6915  -0.4886  -0.3889  -0.3277   2.4294  
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept)  -1.3091     0.1853  -7.066 1.60e-12 ***
+stratNo1     -1.0327     0.5035  -2.051 0.040272 *  
+stratNo3     -1.2167     0.5517  -2.205 0.027421 *  
+stratNo4     -0.7564     0.3994  -1.894 0.058250 .  
+stratNo5     -1.3689     0.3912  -3.499 0.000467 ***
+stratNo6     -1.2347     0.3638  -3.394 0.000690 ***
+stratNo7     -0.7058     0.4725  -1.494 0.135181    
+stratNo8     -1.5882     0.4077  -3.896 9.79e-05 ***
+stratNo9     -0.9935     1.0650  -0.933 0.350901    
+stratNo10    -1.0888     1.0608  -1.026 0.304678    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 585.87  on 882  degrees of freedom
+Residual deviance: 557.68  on 873  degrees of freedom
+AIC: 577.68
+
+Number of Fisher Scoring iterations: 5
+
+
+> # Confusion matrix tells me how well the predictions were.
+> confusionMatrix(lr1)
+Cross-Validated (3 fold, repeated 2 times) Confusion Matrix 
+
+(entries are percentual average cell counts across resamples)
+ 
+          Reference
+Prediction    N    A
+         N 89.7 10.3
+         A  0.0  0.0
+                            
+ Accuracy (average) : 0.8969
+
+
+> # Function in caret that tells me what variables are important and how important with respect to 
+> # the other variables. Type "?varImp" for manual .... [TRUNCATED] 
+glm variable importance
+
+          Overall
+stratNo8   100.00
+stratNo5    86.61
+stratNo6    83.05
+stratNo3    42.95
+stratNo1    37.74
+stratNo4    32.43
+stratNo7    18.94
+stratNo10    3.16
+stratNo9     0.00
+
+> # This creates the odds ratios confdience intervals.
+> exp(confint(lr1$finalModel))
+                 2.5 %    97.5 %
+(Intercept) 0.18526244 0.3838491
+stratNo1    0.11758135 0.8808751
+stratNo3    0.08552761 0.7859796
+stratNo4    0.20300767 0.9879969
+stratNo5    0.11150856 0.5257253
+stratNo6    0.13653524 0.5756844
+stratNo7    0.17810567 1.1702372
+stratNo8    0.08578672 0.4327995
+stratNo9    0.01985939 2.0268799
+stratNo10   0.01812526 1.8155605
+
+> # This creates a single odds ratio.
+> exp(lr1$finalModel$coefficients)
+(Intercept)    stratNo1    stratNo3    stratNo4    stratNo5    stratNo6    stratNo7    stratNo8    stratNo9   stratNo10 
+  0.2700730   0.3560291   0.2962162   0.4693567   0.2543842   0.2909266   0.4936937   0.2042870   0.3702703   0.3366093 
+
+> # Stops sink function
+> sink()

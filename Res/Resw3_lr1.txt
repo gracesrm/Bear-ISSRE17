@@ -1,0 +1,61 @@
+
+Call:
+NULL
+
+Deviance Residuals: 
+     Min        1Q    Median        3Q       Max  
+-0.59707  -0.41716  -0.39527  -0.00008   2.31264  
+
+Coefficients:
+              Estimate Std. Error z value Pr(>|z|)    
+(Intercept)   -2.51022    0.28840  -8.704   <2e-16 ***
+stratNo1     -17.05584 1202.33524  -0.014   0.9887    
+stratNo3     -17.05584 2109.03548  -0.008   0.9935    
+stratNo4      -0.09247    0.78753  -0.117   0.9065    
+stratNo5       0.87609    0.48225   1.817   0.0693 .  
+stratNo6       0.58841    0.52367   1.124   0.2612    
+stratNo7       0.63842    0.81246   0.786   0.4320    
+stratNo8       0.11233    0.59657   0.188   0.8506    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 248.68  on 466  degrees of freedom
+Residual deviance: 225.68  on 459  degrees of freedom
+AIC: 241.68
+
+Number of Fisher Scoring iterations: 18
+
+Cross-Validated (3 fold, repeated 2 times) Confusion Matrix 
+
+(entries are percentual average cell counts across resamples)
+ 
+          Reference
+Prediction    N    A
+         N 92.5  7.5
+         A  0.0  0.0
+                            
+ Accuracy (average) : 0.9251
+
+glm variable importance
+
+          Overall
+stratNo5 100.0000
+stratNo6  61.6800
+stratNo7  43.0001
+stratNo8   9.9637
+stratNo4   6.0447
+stratNo1   0.3372
+stratNo3   0.0000
+                    2.5 %       97.5 %
+(Intercept)  4.390176e-02 1.372517e-01
+stratNo1    3.968628e-163 1.034670e+18
+stratNo3    5.189296e-280 1.534564e+37
+stratNo4     1.376862e-01 3.548112e+00
+stratNo5     8.980958e-01 6.095944e+00
+stratNo6     6.022338e-01 4.859956e+00
+stratNo7     2.772874e-01 7.889017e+00
+stratNo8     3.035153e-01 3.344198e+00
+ (Intercept)     stratNo1     stratNo3     stratNo4     stratNo5     stratNo6     stratNo7     stratNo8 
+8.125000e-02 3.915084e-08 3.915084e-08 9.116809e-01 2.401501e+00 1.801126e+00 1.893491e+00 1.118881e+00 

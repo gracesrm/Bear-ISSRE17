@@ -1,0 +1,83 @@
+
+Call:
+NULL
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-1.2637  -0.4474  -0.1455  -0.1206   3.1392  
+
+Coefficients:
+                       Estimate Std. Error z value Pr(>|z|)    
+(Intercept)              0.2007     0.4495   0.446 0.655262    
+syscallaccess           -2.0725     0.8826  -2.348 0.018864 *  
+syscallmlock           -18.7667  2465.3257  -0.008 0.993926    
+syscallmlockall        -18.7667  2662.8561  -0.007 0.994377    
+syscallmprotect         -5.1207     1.0997  -4.656 3.22e-06 ***
+syscallmunlock         -18.7667  2465.3257  -0.008 0.993926    
+syscallmunlockall      -18.7667  2662.8561  -0.007 0.994377    
+syscallmunmap           -4.7440     1.1012  -4.308 1.65e-05 ***
+syscallread             -2.3754     0.6517  -3.645 0.000268 ***
+syscallrecvfrom         -2.4520     0.8687  -2.823 0.004764 ** 
+syscallrt_sigaction     -2.8397     1.1285  -2.516 0.011855 *  
+syscallrt_sigprocmask   -2.7656     1.1309  -2.445 0.014465 *  
+syscallsendto          -18.7667  1458.5064  -0.013 0.989734    
+syscallwrite            -1.5640     0.5623  -2.781 0.005413 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 248.68  on 466  degrees of freedom
+Residual deviance: 176.90  on 453  degrees of freedom
+AIC: 204.9
+
+Number of Fisher Scoring iterations: 17
+
+Cross-Validated (3 fold, repeated 2 times) Confusion Matrix 
+
+(entries are percentual average cell counts across resamples)
+ 
+          Reference
+Prediction    N    A
+         N 91.1  6.4
+         A  1.4  1.1
+                            
+ Accuracy (average) : 0.9218
+
+glm variable importance
+
+                        Overall
+syscallmprotect       1.000e+02
+syscallmunmap         9.250e+01
+syscallread           7.824e+01
+syscallrecvfrom       6.056e+01
+syscallwrite          5.967e+01
+syscallrt_sigaction   5.397e+01
+syscallrt_sigprocmask 5.245e+01
+syscallaccess         5.035e+01
+syscallsendto         1.252e-01
+syscallmunlock        1.215e-02
+syscallmlock          1.215e-02
+syscallmunlockall     1.095e-14
+syscallmlockall       0.000e+00
+                              2.5 %        97.5 %
+(Intercept)            5.058639e-01  3.031925e+00
+syscallaccess          1.667074e-02  6.115115e-01
+syscallmlock                     NA  9.316612e+86
+syscallmlockall                  NA 7.721729e+101
+syscallmprotect        3.084491e-04  3.547749e-02
+syscallmunlock                   NA  9.316611e+86
+syscallmunlockall                NA 7.721729e+101
+syscallmunmap          4.488406e-04  5.192761e-02
+syscallread            2.384234e-02  3.171308e-01
+syscallrecvfrom        1.161407e-02  4.034695e-01
+syscallrt_sigaction    2.930670e-03  3.773837e-01
+syscallrt_sigprocmask  3.148358e-03  4.093992e-01
+syscallsendto         3.300195e-198  2.808975e+22
+syscallwrite           6.726367e-02  6.209953e-01
+          (Intercept)         syscallaccess          syscallmlock       syscallmlockall       syscallmprotect        syscallmunlock 
+         1.222222e+00          1.258741e-01          7.074711e-09          7.074711e-09          5.972130e-03          7.074711e-09 
+    syscallmunlockall         syscallmunmap           syscallread       syscallrecvfrom   syscallrt_sigaction syscallrt_sigprocmask 
+         7.074711e-09          8.704062e-03          9.297521e-02          8.612440e-02          5.844156e-02          6.293706e-02 
+        syscallsendto          syscallwrite 
+         7.074711e-09          2.093023e-01 

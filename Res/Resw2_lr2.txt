@@ -1,0 +1,95 @@
+
+Call:
+NULL
+
+Deviance Residuals: 
+     Min        1Q    Median        3Q       Max  
+-1.13301  -0.54922  -0.44966  -0.00008   2.35482  
+
+Coefficients: (11 not defined because of singularities)
+                       Estimate Std. Error z value Pr(>|z|)   
+(Intercept)             -0.1054     0.4595  -0.229  0.81863   
+syscallaccess                NA         NA      NA       NA   
+syscallkill                  NA         NA      NA       NA   
+syscallmlock           -19.4607  4390.3074  -0.004  0.99646   
+syscallmlockall        -19.4607  4390.3074  -0.004  0.99646   
+syscallmprotect        -19.4607  2982.6266  -0.007  0.99479   
+syscallmq_notify             NA         NA      NA       NA   
+syscallmremap                NA         NA      NA       NA   
+syscallmunlock         -19.4607  3802.1178  -0.005  0.99592   
+syscallmunlockall      -19.4607  4390.3074  -0.004  0.99646   
+syscallmunmap                NA         NA      NA       NA   
+syscallpread64               NA         NA      NA       NA   
+syscallpwrite64              NA         NA      NA       NA   
+syscallread             -2.1353     0.6576  -3.247  0.00116 **
+syscallrecvfrom              NA         NA      NA       NA   
+syscallrt_sigaction     -2.6027     1.1304  -2.302  0.02131 * 
+syscallrt_sigpending         NA         NA      NA       NA   
+syscallrt_sigprocmask   -2.5337     1.1325  -2.237  0.02527 * 
+syscallsendto                NA         NA      NA       NA   
+syscallsetuid                NA         NA      NA       NA   
+syscallwrite            -1.7099     0.6142  -2.784  0.00537 **
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 140.48  on 190  degrees of freedom
+Residual deviance: 114.53  on 181  degrees of freedom
+AIC: 134.53
+
+Number of Fisher Scoring iterations: 18
+
+Cross-Validated (3 fold, repeated 2 times) Confusion Matrix 
+
+(entries are percentual average cell counts across resamples)
+ 
+          Reference
+Prediction    N    A
+         N 84.6 10.2
+         A  3.4  1.8
+                            
+ Accuracy (average) : 0.8639
+
+glm variable importance
+
+                        Overall
+syscallread           1.000e+02
+syscallwrite          8.571e+01
+syscallrt_sigaction   7.086e+01
+syscallrt_sigprocmask 6.885e+01
+syscallmprotect       6.451e-02
+syscallmunlock        2.115e-02
+syscallmlockall       1.097e-12
+syscallmunlockall     1.032e-12
+syscallmlock          0.000e+00
+                            2.5 %        97.5 %
+(Intercept)           0.357535120  2.232865e+00
+syscallaccess                  NA            NA
+syscallkill                    NA            NA
+syscallmlock                   NA 3.750569e+172
+syscallmlockall                NA 3.750569e+172
+syscallmprotect                NA  8.549548e+64
+syscallmq_notify               NA            NA
+syscallmremap                  NA            NA
+syscallmunlock                 NA 5.107724e+128
+syscallmunlockall              NA 3.750569e+172
+syscallmunmap                  NA            NA
+syscallpread64                 NA            NA
+syscallpwrite64                NA            NA
+syscallread           0.030229364  4.130750e-01
+syscallrecvfrom                NA            NA
+syscallrt_sigaction   0.003710168  4.835112e-01
+syscallrt_sigpending           NA            NA
+syscallrt_sigprocmask 0.003966704  5.212713e-01
+syscallsendto                  NA            NA
+syscallsetuid                  NA            NA
+syscallwrite          0.052003310  5.929016e-01
+          (Intercept)         syscallaccess           syscallkill          syscallmlock       syscallmlockall       syscallmprotect 
+         9.000000e-01                    NA                    NA          3.534450e-09          3.534450e-09          3.534450e-09 
+     syscallmq_notify         syscallmremap        syscallmunlock     syscallmunlockall         syscallmunmap        syscallpread64 
+                   NA                    NA          3.534450e-09          3.534450e-09                    NA                    NA 
+      syscallpwrite64           syscallread       syscallrecvfrom   syscallrt_sigaction  syscallrt_sigpending syscallrt_sigprocmask 
+                   NA          1.182033e-01                    NA          7.407407e-02                    NA          7.936508e-02 
+        syscallsendto         syscallsetuid          syscallwrite 
+                   NA                    NA          1.808786e-01 

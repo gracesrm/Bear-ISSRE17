@@ -1,0 +1,128 @@
+
+Call:
+NULL
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-0.8346  -0.3203  -0.2173  -0.1775   2.9050  
+
+Coefficients: (6 not defined because of singularities)
+                       Estimate Std. Error z value Pr(>|z|)    
+(Intercept)             -0.8755     0.3073  -2.849  0.00439 ** 
+syscallaccess           -3.0948     1.0551  -2.933  0.00336 ** 
+syscallkill             -2.2156     1.0677  -2.075  0.03797 *  
+syscallmlock            -2.0690     1.0710  -1.932  0.05339 .  
+syscallmlockall         -2.0149     1.0724  -1.879  0.06026 .  
+syscallmprotect         -3.3292     1.0533  -3.161  0.00157 ** 
+syscallmq_notify       -17.6906  1423.3565  -0.012  0.99008    
+syscallmremap           -2.0690     1.0710  -1.932  0.05339 .  
+syscallmunlock          -1.8971     1.0756  -1.764  0.07777 .  
+syscallmunlockall      -17.6906  1743.2485  -0.010  0.99190    
+syscallmunmap           -3.0366     1.0557  -2.876  0.00402 ** 
+syscallpread64          -2.6757     0.9036  -2.961  0.00307 ** 
+syscallpwrite64         -2.3795     0.8045  -2.958  0.00310 ** 
+syscallread             -3.2493     0.7395  -4.394 1.11e-05 ***
+syscallrecvfrom         -2.3177     0.8005  -2.895  0.00379 ** 
+syscallrt_sigaction     -2.0423     0.7883  -2.591  0.00958 ** 
+syscallrt_sigpending    -2.1691     1.0687  -2.030  0.04239 *  
+syscallrt_sigprocmask   -1.7272     0.7947  -2.174  0.02974 *  
+syscallsendto           -2.4043     0.8098  -2.969  0.00299 ** 
+syscallsetuid          -17.6906  1581.9723  -0.011  0.99108    
+syscallwrite            -3.4962     0.8002  -4.369 1.25e-05 ***
+stratNo1                -0.2311     1.4268  -0.162  0.87133    
+stratNo3                     NA         NA      NA       NA    
+stratNo4                     NA         NA      NA       NA    
+stratNo5                 0.7344     0.6245   1.176  0.23965    
+stratNo6                 0.3910     0.6564   0.596  0.55142    
+stratNo7                     NA         NA      NA       NA    
+stratNo8                     NA         NA      NA       NA    
+stratNo9                     NA         NA      NA       NA    
+stratNo10                    NA         NA      NA       NA    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 385.32  on 1065  degrees of freedom
+Residual deviance: 332.52  on 1042  degrees of freedom
+AIC: 380.52
+
+Number of Fisher Scoring iterations: 17
+
+Cross-Validated (3 fold, repeated 2 times) Confusion Matrix 
+
+(entries are percentual average cell counts across resamples)
+ 
+          Reference
+Prediction    N    A
+         N 95.6  4.4
+         A  0.0  0.0
+                            
+ Accuracy (average) : 0.9559
+
+glm variable importance
+
+  only 20 most important variables shown (out of 23)
+
+                      Overall
+syscallread           100.000
+syscallwrite           99.426
+syscallmprotect        71.870
+syscallsendto          67.495
+syscallpread64         67.313
+syscallpwrite64        67.239
+syscallaccess          66.675
+syscallrecvfrom        65.814
+syscallmunmap          65.382
+syscallrt_sigaction    58.863
+syscallrt_sigprocmask  49.349
+syscallkill            47.105
+syscallrt_sigpending   46.067
+syscallmremap          43.834
+syscallmlock           43.834
+syscallmlockall        42.628
+syscallmunlock         40.001
+stratNo5               26.591
+stratNo6               13.355
+stratNo1                3.463
+                              2.5 %       97.5 %
+(Intercept)            2.214088e-01 7.456903e-01
+syscallaccess          2.450068e-03 2.385791e-01
+syscallkill            5.832063e-03 5.973361e-01
+syscallmlock           6.731424e-03 6.989539e-01
+syscallmlockall        7.096214e-03 7.409567e-01
+syscallmprotect        1.941614e-03 1.876612e-01
+syscallmq_notify      3.353386e-208 2.740127e+19
+syscallmremap          6.731424e-03 6.989539e-01
+syscallmunlock         7.957750e-03 8.421357e-01
+syscallmunlockall                NA 9.794671e+41
+syscallmunmap          2.595731e-03 2.533060e-01
+syscallpread64         8.585214e-03 3.329227e-01
+syscallpwrite64        1.567736e-02 3.899182e-01
+syscallread            7.734432e-03 1.468566e-01
+syscallrecvfrom        1.679692e-02 4.116796e-01
+syscallrt_sigaction    1.954840e-02 5.032652e-01
+syscallrt_sigpending   6.103896e-03 6.277630e-01
+syscallrt_sigprocmask  2.657956e-02 7.013106e-01
+syscallsendto          1.515651e-02 3.845101e-01
+syscallsetuid         1.824474e-230 2.884320e+22
+syscallwrite           5.162428e-03 1.260329e-01
+stratNo1               3.087006e-02 2.040342e+01
+stratNo3                         NA           NA
+stratNo4                         NA           NA
+stratNo5               6.403457e-01 7.962317e+00
+stratNo6               4.135085e-01 5.888048e+00
+stratNo7                         NA           NA
+stratNo8                         NA           NA
+stratNo9                         NA           NA
+stratNo10                        NA           NA
+          (Intercept)         syscallaccess           syscallkill          syscallmlock       syscallmlockall       syscallmprotect 
+         4.166667e-01          4.528302e-02          1.090909e-01          1.263158e-01          1.333333e-01          3.582090e-02 
+     syscallmq_notify         syscallmremap        syscallmunlock     syscallmunlockall         syscallmunmap        syscallpread64 
+         2.075249e-08          1.263158e-01          1.500000e-01          2.075249e-08          4.800000e-02          6.885564e-02 
+      syscallpwrite64           syscallread       syscallrecvfrom   syscallrt_sigaction  syscallrt_sigpending syscallrt_sigprocmask 
+         9.259230e-02          3.880194e-02          9.849708e-02          1.297297e-01          1.142857e-01          1.777778e-01 
+        syscallsendto         syscallsetuid          syscallwrite              stratNo1              stratNo3              stratNo4 
+         9.032562e-02          2.075249e-08          3.031310e-02          7.936508e-01                    NA                    NA 
+             stratNo5              stratNo6              stratNo7              stratNo8              stratNo9             stratNo10 
+         2.084169e+00          1.478409e+00                    NA                    NA                    NA                    NA 

@@ -1,0 +1,140 @@
+
+>  summary(lr)
+
+Call:
+NULL
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-1.0579  -0.6259  -0.5999  -0.4627   2.1779  
+
+Coefficients: (6 not defined because of singularities)
+                      Estimate Std. Error z value Pr(>|z|)    
+(Intercept)           -0.28768    0.22048  -1.305 0.191960    
+syscallaccess         -0.85972    0.33835  -2.541 0.011057 *  
+syscallkill           -1.60944    0.65722  -2.449 0.014332 *  
+syscallmlock          -1.44692    0.66390  -2.179 0.029301 *  
+syscallmlockall       -1.65823    0.78742  -2.106 0.035214 *  
+syscallmprotect       -1.02664    0.34510  -2.975 0.002931 ** 
+syscallmq_notify      -1.44692    0.66390  -2.179 0.029301 *  
+syscallmremap         -1.90954    0.77722  -2.457 0.014015 *  
+syscallmunlock        -1.96361    0.77530  -2.533 0.011319 *  
+syscallmunlockall     -1.85238    0.77935  -2.377 0.017462 *  
+syscallmunmap         -1.08380    0.34980  -3.098 0.001946 ** 
+syscallpread64        -1.98587    0.48001  -4.137 3.52e-05 ***
+syscallpwrite64       -1.67174    0.44820  -3.730 0.000192 ***
+syscallread           -1.41064    0.31517  -4.476 7.61e-06 ***
+syscallrecvfrom       -1.54603    0.44928  -3.441 0.000579 ***
+syscallrt_sigaction   -1.20624    0.39991  -3.016 0.002559 ** 
+syscallrt_sigpending  -1.55814    0.65922  -2.364 0.018098 *  
+syscallrt_sigprocmask -1.24379    0.44793  -2.777 0.005490 ** 
+syscallsendto         -1.98531    0.47800  -4.153 3.28e-05 ***
+syscallsetuid         -1.32176    0.66978  -1.973 0.048449 *  
+syscallwrite          -1.33625    0.31852  -4.195 2.73e-05 ***
+stratNo1              -0.18667    0.38653  -0.483 0.629150    
+stratNo3                    NA         NA      NA       NA    
+stratNo4                    NA         NA      NA       NA    
+stratNo5               0.09325    0.24881   0.375 0.707836    
+stratNo6               0.13925    0.25063   0.556 0.578488    
+stratNo7                    NA         NA      NA       NA    
+stratNo8                    NA         NA      NA       NA    
+stratNo9                    NA         NA      NA       NA    
+stratNo10                   NA         NA      NA       NA    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 1399.1  on 1484  degrees of freedom
+Residual deviance: 1354.9  on 1461  degrees of freedom
+AIC: 1402.9
+
+Number of Fisher Scoring iterations: 4
+
+
+>  confusionMatrix(lr)
+Cross-Validated (3 fold, repeated 2 times) Confusion Matrix 
+
+(entries are percentual average cell counts across resamples)
+ 
+          Reference
+Prediction  N  A
+         N 82 18
+         A  0  0
+                            
+ Accuracy (average) : 0.8202
+
+
+>  varImp(lr)
+glm variable importance
+
+  only 20 most important variables shown (out of 23)
+
+                      Overall
+syscallread            100.00
+syscallwrite            93.16
+syscallsendto           92.14
+syscallpread64          91.74
+syscallpwrite64         81.81
+syscallrecvfrom         74.77
+syscallmunmap           66.41
+syscallrt_sigaction     64.41
+syscallmprotect         63.40
+syscallrt_sigprocmask   58.57
+syscallaccess           52.82
+syscallmunlock          52.62
+syscallmremap           50.77
+syscallkill             50.57
+syscallmunlockall       48.82
+syscallrt_sigpending    48.50
+syscallmq_notify        44.00
+syscallmlock            44.00
+syscallmlockall         42.21
+syscallsetuid           38.98
+
+>  exp(confint(lr$finalModel))
+                           2.5 %    97.5 %
+(Intercept)           0.48384576 1.1522056
+syscallaccess         0.21525288 0.8145691
+syscallkill           0.04468076 0.6400176
+syscallmlock          0.05210228 0.7666932
+syscallmlockall       0.02874816 0.7386577
+syscallmprotect       0.17917945 0.6967099
+syscallmq_notify      0.05210228 0.7666932
+syscallmremap         0.02263033 0.5578496
+syscallmunlock        0.02148742 0.5256205
+syscallmunlockall     0.02390175 0.5942688
+syscallmunmap         0.16736370 0.6631679
+syscallpread64        0.05000249 0.3349913
+syscallpwrite64       0.07445983 0.4371562
+syscallread           0.13063012 0.4505088
+syscallrecvfrom       0.08429877 0.4970773
+syscallrt_sigaction   0.13184237 0.6391959
+syscallrt_sigpending  0.04690769 0.6773434
+syscallrt_sigprocmask 0.11321657 0.6674969
+syscallsendto         0.05020600 0.3337775
+syscallsetuid         0.05859294 0.8829928
+syscallwrite          0.13980123 0.4884832
+stratNo1              0.38620610 1.7749025
+stratNo3                      NA        NA
+stratNo4                      NA        NA
+stratNo5              0.67478050 1.7949388
+stratNo6              0.70377959 1.8855238
+stratNo7                      NA        NA
+stratNo8                      NA        NA
+stratNo9                      NA        NA
+stratNo10                     NA        NA
+
+>  exp(lr$finalModel$coefficients)
+          (Intercept)         syscallaccess           syscallkill          syscallmlock       syscallmlockall       syscallmprotect 
+            0.7500000             0.4232804             0.2000000             0.2352941             0.1904762             0.3582090 
+     syscallmq_notify         syscallmremap        syscallmunlock     syscallmunlockall         syscallmunmap        syscallpread64 
+            0.2352941             0.1481482             0.1403509             0.1568627             0.3383085             0.1372608 
+      syscallpwrite64           syscallread       syscallrecvfrom   syscallrt_sigaction  syscallrt_sigpending syscallrt_sigprocmask 
+            0.1879204             0.2439865             0.2130924             0.2993197             0.2105263             0.2882883 
+        syscallsendto         syscallsetuid          syscallwrite              stratNo1              stratNo3              stratNo4 
+            0.1373386             0.2666667             0.2628290             0.8297214                    NA                    NA 
+             stratNo5              stratNo6              stratNo7              stratNo8              stratNo9             stratNo10 
+            1.0977317             1.1494105                    NA                    NA                    NA                    NA 
+
+>  sink()
